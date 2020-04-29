@@ -1,0 +1,58 @@
+﻿---
+title: The Client and Server Versions are Not Compatible
+TOCTitle: The Client and Server Versions are Not Compatible
+ms:assetid: 8b6b8e13-6973-469d-a13b-983fa365d2be
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439379(v=EXCHG.80)
+ms:contentKeyID: 20045826
+ms.date: 07/23/2014
+mtps_version: v=EXCHG.80
+---
+
+<div data-xmlns="http://www.w3.org/1999/xhtml">
+
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+
+<div data-asp="http://msdn2.microsoft.com/asp">
+
+# The Client and Server Versions are Not Compatible
+
+</div>
+
+<div id="mainSection">
+
+<div id="mainBody">
+
+<span> </span>
+
+_**Topic Last Modified:** 2011-02-10_
+
+The Microsoft Exchange Analyzer Tool attempts to connect to the Exchange Server via RCP over HTTP (Outlook Anywhere). If the version of the Outlook client attempting the connection is either not compatible or not allowed by the Exchange Server, then the following error may be displayed.
+
+"The client and server versions are not compatible. The client protocol version is older than that required by the server."
+
+<div>
+
+## For More Information
+
+Theoretically, you should not encounter this error using the Exchange Remote Connectivity Analyzer. Exchange Remote Connectivity Analyzer emulates a client-side connection based on version 12.0.4228.0. If you do receive this error, then it's possible that you modified the following value in the registry of your Exchange server and changed it to a value higher than 12.0.4228.0. If this was intentional, then you will encounter this error when using Exchange Remote Connectivity Analyzer and any Outlook clients with a lower protocol version.
+
+HKEY\_LOCAL\_MACHINE\\System\\CurrentControlSet\\Services\\MSExchangeIS\\ParametersSystem
+
+DWORD Value: Disable MAPI Clients
+
+For more information, see Microsoft Knowledge Base article "How to disable MAPI client access to a computer that is running Exchange Server" ([http://go.microsoft.com/fwlink/?LinkId=3052\&kbid=288894](http://go.microsoft.com/fwlink/?linkid=3052%26kbid=288894)).
+
+The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420) or contact [support](http://go.microsoft.com/fwlink/?linkid=8158).
+
+</div>
+
+</div>
+
+<span> </span>
+
+</div>
+
+</div>
+
+</div>
+

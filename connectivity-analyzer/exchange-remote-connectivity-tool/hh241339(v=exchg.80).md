@@ -1,0 +1,82 @@
+﻿---
+title: Unknown Username or bad password
+TOCTitle: Unknown Username or bad password
+ms:assetid: ae77f86b-1d8e-45e4-a751-b001b23a8e8f
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh241339(v=EXCHG.80)
+ms:contentKeyID: 36021337
+ms.date: 07/23/2014
+mtps_version: v=EXCHG.80
+---
+
+<div data-xmlns="http://www.w3.org/1999/xhtml">
+
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+
+<div data-asp="http://msdn2.microsoft.com/asp">
+
+# Unknown Username or bad password
+
+</div>
+
+<div id="mainSection">
+
+<div id="mainBody">
+
+<span> </span>
+
+_**Topic Last Modified:** 2011-06-06_
+
+<div id="sectionSection0" class="section">
+
+The Microsoft Exchange Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to simulate the token retrieval process from the on-premise ADFS server. To perform the test, you must type the correct username and password so that the tool retrieves the token correctly on behalf of the user.
+
+The Remote Connectivity Analyzer displays the following warning message if the user is not authenticated correctly:
+
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>The Security Token Service indicated that the authentication failed. Check the username and password and try again.</p></td>
+</tr>
+</tbody>
+</table>
+
+This message indicates a logon failure when you try to authenticate at the ADFS endpoint. This error can occur for any of the following reasons:
+
+  - Users enter a bad password
+
+  - Users enter a bad username
+
+  - Users do not have the identity federated domain set as their UPN
+
+<div class="subSection">
+
+You can address these issues in the on-premise Active Directory Users and Computers MMC.
+
+</div>
+
+</div>
+
+<div>
+
+## More Information
+
+For more information planning for identity federation, see [Prepare for single sign-on](http://onlinehelp.microsoft.com/en-us/office365-enterprises/ff652540.aspx)
+
+For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](http://technet.microsoft.com/en-us/exdeploy2010/default.aspx)
+
+</div>
+
+</div>
+
+<span> </span>
+
+</div>
+
+</div>
+
+</div>
+

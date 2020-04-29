@@ -1,0 +1,68 @@
+﻿---
+title: EWS Endpoint Directed to On-Premises Legacy Server
+TOCTitle: EWS Endpoint Directed to On-Premises Legacy Server
+ms:assetid: acc50014-a6c7-4453-9167-2eb6f034a45b
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710172(v=EXCHG.80)
+ms:contentKeyID: 50384382
+ms.date: 07/23/2014
+mtps_version: v=EXCHG.80
+---
+
+<div data-xmlns="http://www.w3.org/1999/xhtml">
+
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+
+<div data-asp="http://msdn2.microsoft.com/asp">
+
+# EWS Endpoint Directed to On-Premises Legacy Server
+
+</div>
+
+<div id="mainSection">
+
+<div id="mainBody">
+
+<span> </span>
+
+_**Topic Last Modified:** 2012-11-06_
+
+The Microsoft Exchange Remote Connectivity Analyzer Tool can be used to determine whether any issues that affect free/busy queries exist between an Office 365 mailbox and an on-premises mailbox. This status check includes verifying that the on-premises Exchange server meets the minimum version requirement. In order for a cross premises free/busy query to work, the version of the server that hosts the Autodiscover and EWS endpoints must be Microsoft Exchange Server 2010 SP1 or a later version.
+
+It is common for organizations to keep their external-facing endpoints (for example, autodiscover.contoso.com and mail.contoso.com) incorrectly pointing to earlier versions of Exchange Server (“legacy servers”) instead of updating the DNS records to point to a server that has Exchange Server 2010 SP1 or a later version installed.
+
+Exchange Server 2010 SP1 or a later version is required in order for free/busy and other hybrid deployment features to work. Legacy servers lack the required logic to handle the complex authentication workflow requirements of a federated request.
+
+The solution to this issue is to make sure that the external DNS records for Autodiscover and EWS are pointed to the Internet-facing server that is running Exchange Server 2010 SP1 or a later version.
+
+<div>
+
+## More information
+
+For more information about how to troubleshoot federated free/busy issues, see Microsoft Knowledge Base article [2555008: How to troubleshoot free/busy issues when you use Exchange Federation in the Microsoft Office 365 for enterprises environment](http://support.microsoft.com/kb/2555008).
+
+We recommend that you consult the following resources before you decide how to configure a cross premises Exchange server:
+
+  - [Exchange Server Deployment Assistant](http://technet.microsoft.com/en-us/exdeploy2010/default.aspx)
+
+  - Microsoft Knowledge Base article [2555008: How to troubleshoot free/busy issues when you use Exchange Federation in the Microsoft Office 365 for enterprises environment](http://support.microsoft.com/kb/2555008)
+
+<div>
+
+## More resources
+
+The Exchange Remote Connectivity Analyzer is a new tool that currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [support](http://go.microsoft.com/fwlink/?linkid=8158) or create a post at the Remote Connectivity Analyzer forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](http://social.technet.microsoft.com/forums/en-us/exchangesvr3rdpartyappslegacy).
+
+</div>
+
+</div>
+
+</div>
+
+<span> </span>
+
+</div>
+
+</div>
+
+</div>
+
