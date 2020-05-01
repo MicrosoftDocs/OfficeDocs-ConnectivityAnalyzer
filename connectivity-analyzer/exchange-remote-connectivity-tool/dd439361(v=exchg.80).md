@@ -1,4 +1,4 @@
-﻿---
+---
 title: An Unsupported Authentication Method was Found
 TOCTitle: An Unsupported Authentication Method was Found
 ms:assetid: 1260976c-1b9f-4eae-b805-94fabcc4d39c
