@@ -1,4 +1,4 @@
-﻿---
+---
 title: Exchange ActiveSync Returned an HTTP 451 Error
 author: bradhugh
 ms.author: bradhugh
