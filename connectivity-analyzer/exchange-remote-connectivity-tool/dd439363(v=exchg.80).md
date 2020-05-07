@@ -1,4 +1,4 @@
-﻿---
+---
 title: No MX Records were Found for the Specified SMTP Domain
 author: bradhugh
 ms.author: bradhugh
