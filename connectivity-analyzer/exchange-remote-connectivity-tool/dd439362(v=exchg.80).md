@@ -1,4 +1,4 @@
-﻿---
+---
 title: An Unexpected Redirect Response was Received
 author: bradhugh
 ms.author: bradhugh
