@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mutual Authentication Could Not be Established
 author: bradhugh
 ms.author: bradhugh
