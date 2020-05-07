@@ -1,11 +1,13 @@
 ﻿---
 title: 'Error when you run the Exchange Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"'
-TOCTitle: 'Error when you run the Exchange Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"'
-ms:assetid: 1f7414a1-1079-459a-ae72-3c431a01813e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863254(v=EXCHG.80)
-ms:contentKeyID: 50384380
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

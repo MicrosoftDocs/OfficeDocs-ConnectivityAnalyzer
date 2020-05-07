@@ -1,11 +1,13 @@
 ﻿---
 title: Missing EXCH Element in Autodiscover XML Response
-TOCTitle: Missing EXCH Element in Autodiscover XML Response
-ms:assetid: 6fbe75af-f438-4b46-84e8-55d14a5ae69c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh849186(v=EXCHG.80)
-ms:contentKeyID: 45440410
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

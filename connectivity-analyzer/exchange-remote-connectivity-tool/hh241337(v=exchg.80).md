@@ -1,11 +1,13 @@
 ﻿---
 title: General issues that may occur for one or all users
-TOCTitle: General issues that may occur for one or all users
-ms:assetid: 823ee906-50fb-4354-b748-fd0672ebbaec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh241337(v=EXCHG.80)
-ms:contentKeyID: 36021335
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

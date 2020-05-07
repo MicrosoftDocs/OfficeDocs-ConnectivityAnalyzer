@@ -1,11 +1,13 @@
 ﻿---
 title: The Act As Account Does Not Have Permissions to Create Items in this Folder
-TOCTitle: The Act As Account Does Not Have Permissions to Create Items in this Folder
-ms:assetid: daa1923f-4b4e-4d71-ad11-ce41da88fdb5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee410527(v=EXCHG.80)
-ms:contentKeyID: 22766754
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

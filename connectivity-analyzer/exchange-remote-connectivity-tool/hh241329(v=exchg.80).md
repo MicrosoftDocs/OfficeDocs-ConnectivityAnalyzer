@@ -1,11 +1,13 @@
 ﻿---
 title: Active Directory Federated Services (AD FS) server is down or unreachable
-TOCTitle: Active Directory Federated Services (AD FS) server is down or unreachable
-ms:assetid: 0e1b8934-b061-4763-b735-704b58dabeb5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh241329(v=EXCHG.80)
-ms:contentKeyID: 36021328
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

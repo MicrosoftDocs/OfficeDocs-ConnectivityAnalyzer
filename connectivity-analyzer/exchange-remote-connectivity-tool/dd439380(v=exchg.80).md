@@ -1,11 +1,13 @@
 ﻿---
 title: A Positive HTTP Response Other than a Redirect Response was Received
-TOCTitle: A Positive HTTP Response Other than a Redirect Response was Received
-ms:assetid: 933f43be-6a74-4d3d-b702-f327d33408f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439380(v=EXCHG.80)
-ms:contentKeyID: 20045827
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

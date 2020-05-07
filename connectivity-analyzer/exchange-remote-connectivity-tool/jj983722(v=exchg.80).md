@@ -1,11 +1,13 @@
 ﻿---
 title: Exchange ActiveSync Returned an HTTP 503 Error
-TOCTitle: Exchange ActiveSync Returned an HTTP 503 Error
-ms:assetid: 046c92c2-676b-403b-8353-64e0ffef5e0b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ983722(v=EXCHG.80)
-ms:contentKeyID: 51406855
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

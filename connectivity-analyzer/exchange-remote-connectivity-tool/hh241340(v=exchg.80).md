@@ -1,11 +1,13 @@
 ﻿---
 title: UPN issues when authenticating
-TOCTitle: UPN issues when authenticating
-ms:assetid: f8ebfa55-7b2c-4bb4-902e-e457dc22b4d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh241340(v=EXCHG.80)
-ms:contentKeyID: 36021338
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

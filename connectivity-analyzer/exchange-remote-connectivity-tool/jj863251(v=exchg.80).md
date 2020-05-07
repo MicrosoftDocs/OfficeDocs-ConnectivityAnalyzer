@@ -1,11 +1,13 @@
 ﻿---
 title: Additional help resources for MCA
-TOCTitle: Additional help resources for MCA
-ms:assetid: 60986c3f-3118-47ff-9c22-0e884532f99c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863251(v=EXCHG.80)
-ms:contentKeyID: 50384381
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

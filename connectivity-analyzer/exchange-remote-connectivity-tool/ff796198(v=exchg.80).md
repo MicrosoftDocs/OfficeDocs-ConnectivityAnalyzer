@@ -1,11 +1,13 @@
 ﻿---
 title: IP Address Found on RBL
-TOCTitle: IP Address Found on RBL
-ms:assetid: 44b89c4f-e186-4b21-8a92-7edecf5d3c2a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff796198(v=EXCHG.80)
-ms:contentKeyID: 31707091
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

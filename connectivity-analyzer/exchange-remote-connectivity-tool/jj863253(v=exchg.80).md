@@ -1,11 +1,13 @@
 ﻿---
 title: The email server is not available
-TOCTitle: The email server is not available
-ms:assetid: 537555cf-9300-4d97-bc17-3a8fccb100db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863253(v=EXCHG.80)
-ms:contentKeyID: 50384376
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

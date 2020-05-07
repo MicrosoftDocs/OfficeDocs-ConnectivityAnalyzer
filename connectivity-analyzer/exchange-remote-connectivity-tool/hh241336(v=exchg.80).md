@@ -1,11 +1,13 @@
 ﻿---
 title: Active Directory Federated Services (AD FS) HTTPS endpoint name could not be resolved
-TOCTitle: Active Directory Federated Services (AD FS) HTTPS endpoint name could not be resolved
-ms:assetid: 71fdd487-1725-4343-89ef-b52b76a6defc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh241336(v=EXCHG.80)
-ms:contentKeyID: 36021334
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

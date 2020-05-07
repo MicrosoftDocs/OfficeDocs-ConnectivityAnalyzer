@@ -1,11 +1,13 @@
 ﻿---
 title: Error with System Time
-TOCTitle: Error with System Time
-ms:assetid: d444776a-2a72-4185-8979-bd786390b38f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710174(v=EXCHG.80)
-ms:contentKeyID: 50384379
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

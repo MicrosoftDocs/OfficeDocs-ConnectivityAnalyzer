@@ -1,11 +1,13 @@
 ﻿---
 title: IP Address does not have a PTR record in DNS
-TOCTitle: IP Address does not have a PTR record in DNS
-ms:assetid: 14280637-0bb4-42dd-8ecc-0f6802a4d16d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff796197(v=EXCHG.80)
-ms:contentKeyID: 31707090
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

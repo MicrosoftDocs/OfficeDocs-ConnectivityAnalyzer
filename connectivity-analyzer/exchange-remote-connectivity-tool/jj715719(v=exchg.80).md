@@ -1,11 +1,13 @@
 ﻿---
 title: The ActiveSync OPTIONS command returned an HTTP 401 Error
-TOCTitle: The ActiveSync OPTIONS command returned an HTTP 401 Error
-ms:assetid: 0715cdea-acfa-4c0f-88da-16fde67ac3e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ715719(v=EXCHG.80)
-ms:contentKeyID: 50876516
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

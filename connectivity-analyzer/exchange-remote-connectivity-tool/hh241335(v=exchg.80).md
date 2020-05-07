@@ -1,11 +1,13 @@
 ﻿---
 title: ADFS SSL Certificate Name Mismatch
-TOCTitle: ADFS SSL Certificate Name Mismatch
-ms:assetid: 71a8dad5-2f56-41c6-97e1-48c8bee3e4bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh241335(v=EXCHG.80)
-ms:contentKeyID: 36021333
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

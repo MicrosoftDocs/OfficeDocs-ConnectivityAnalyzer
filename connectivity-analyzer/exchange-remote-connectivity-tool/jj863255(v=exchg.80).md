@@ -1,11 +1,13 @@
 ﻿---
 title: "MCA test: I can't send or receive email on my mobile device"
-TOCTitle: "MCA test: I can't send or receive email on my mobile device"
-ms:assetid: 2c597ea5-f95c-4b67-a5dd-6c76d95d2f8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863255(v=EXCHG.80)
-ms:contentKeyID: 50384375
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

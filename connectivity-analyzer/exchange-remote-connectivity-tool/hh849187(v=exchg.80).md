@@ -1,11 +1,13 @@
 ﻿---
 title: Mutual Authentication Established by Subject Alternative Name
-TOCTitle: Mutual Authentication Established by Subject Alternative Name
-ms:assetid: a15f34b1-a7bf-4f44-9142-0c5c3174cb0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh849187(v=EXCHG.80)
-ms:contentKeyID: 45440411
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

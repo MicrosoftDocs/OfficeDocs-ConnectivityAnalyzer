@@ -1,11 +1,13 @@
 ﻿---
 title: The domain is a federated domain but the user <User>@contoso.com is not known by Office 365
-TOCTitle: The domain is a federated domain but the user <User>@contoso.com is not known by Office 365
-ms:assetid: 4c8a571d-d7e8-4316-8772-39b5db91566e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh241332(v=EXCHG.80)
-ms:contentKeyID: 36021331
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

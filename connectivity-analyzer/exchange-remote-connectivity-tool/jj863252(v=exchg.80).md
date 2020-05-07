@@ -1,11 +1,13 @@
 ﻿---
 title: The user name provided could not be matched to a name in the email server's address list
-TOCTitle: The user name provided could not be matched to a name in the email server's address list
-ms:assetid: 9a2bf2fb-9bfc-4cc0-adba-24d7730ebd5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863252(v=EXCHG.80)
-ms:contentKeyID: 50384378
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

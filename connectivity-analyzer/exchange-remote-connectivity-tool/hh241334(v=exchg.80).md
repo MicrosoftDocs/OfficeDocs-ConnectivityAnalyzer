@@ -1,11 +1,13 @@
 ﻿---
 title: Token Signing Certificate Expired
-TOCTitle: Token Signing Certificate Expired
-ms:assetid: 56574861-b444-487c-a2c9-b33b0e4e2830
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh241334(v=EXCHG.80)
-ms:contentKeyID: 36021332
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

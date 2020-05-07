@@ -1,11 +1,13 @@
 ﻿---
 title: EWS Endpoint Directed to On-Premises Legacy Server
-TOCTitle: EWS Endpoint Directed to On-Premises Legacy Server
-ms:assetid: acc50014-a6c7-4453-9167-2eb6f034a45b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710172(v=EXCHG.80)
-ms:contentKeyID: 50384382
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
