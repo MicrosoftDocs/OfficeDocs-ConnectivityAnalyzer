@@ -1,4 +1,4 @@
-﻿---
+---
 title: Exchange Remote Connectivity Analyzer Tool
 author: bradhugh
 ms.author: bradhugh
