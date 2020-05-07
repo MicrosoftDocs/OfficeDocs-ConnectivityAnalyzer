@@ -1,11 +1,13 @@
 ﻿---
 title: Missing Intermediate Certificates in Chain
-TOCTitle: Missing Intermediate Certificates in Chain
-ms:assetid: 91978f64-5800-4514-8c0d-52f1cc57ff71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee410524(v=EXCHG.80)
-ms:contentKeyID: 22766751
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

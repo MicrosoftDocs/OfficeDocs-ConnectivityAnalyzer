@@ -1,11 +1,13 @@
 ﻿---
 title: RPC Server Unavailable Error was Thrown by the RPC Runtime
-TOCTitle: RPC Server Unavailable Error was Thrown by the RPC Runtime
-ms:assetid: db543644-c252-47ee-a70b-4f60770083dc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439392(v=EXCHG.80)
-ms:contentKeyID: 20045839
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

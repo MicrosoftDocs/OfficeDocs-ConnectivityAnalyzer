@@ -1,11 +1,13 @@
 ﻿---
 title: The Client and Server Versions are Not Compatible
-TOCTitle: The Client and Server Versions are Not Compatible
-ms:assetid: 8b6b8e13-6973-469d-a13b-983fa365d2be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439379(v=EXCHG.80)
-ms:contentKeyID: 20045826
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

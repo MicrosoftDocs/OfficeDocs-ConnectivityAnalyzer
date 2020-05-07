@@ -1,11 +1,13 @@
 ﻿---
 title: The Outlook Autodiscover Provider Returned an Error Status in the XML Response
-TOCTitle: The Outlook Autodiscover Provider Returned an Error Status in the XML Response
-ms:assetid: c303f114-a284-4ba9-a324-a5764b241cd4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439388(v=EXCHG.80)
-ms:contentKeyID: 20045835
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

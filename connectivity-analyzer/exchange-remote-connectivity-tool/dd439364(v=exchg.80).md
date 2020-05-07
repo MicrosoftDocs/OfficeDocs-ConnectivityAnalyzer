@@ -1,11 +1,13 @@
 ﻿---
 title: Exchange Remote Connectivity Analyzer Tool
-TOCTitle: '@NoTitle'
-ms:assetid: 153f87c1-fbb4-445a-9055-fe1c2941c9d3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439364(v=EXCHG.80)
-ms:contentKeyID: 20045811
-ms.date: 04/08/2015
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

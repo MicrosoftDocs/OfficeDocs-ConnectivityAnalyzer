@@ -1,11 +1,13 @@
 ﻿---
 title: The Service Account Specified Does Not Have Impersonation Rights on the Act As Account Specified
-TOCTitle: The Service Account Specified Does Not Have Impersonation Rights on the Act As Account Specified
-ms:assetid: 847e2785-dfde-4810-84a9-a8aeb7efe29c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee410523(v=EXCHG.80)
-ms:contentKeyID: 22766750
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

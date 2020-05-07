@@ -1,11 +1,13 @@
 ﻿---
 title: "MCA test: I can't send or receive email from Outlook (Office 365 only)"
-TOCTitle: "MCA test: I can't send or receive email from Outlook (Office 365 only)"
-ms:assetid: 8525a5a2-3db4-4c72-b46e-ace59fc881f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn127040(v=EXCHG.80)
-ms:contentKeyID: 52171721
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

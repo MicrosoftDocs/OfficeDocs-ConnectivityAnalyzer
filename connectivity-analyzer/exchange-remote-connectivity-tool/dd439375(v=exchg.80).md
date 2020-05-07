@@ -1,11 +1,13 @@
 ﻿---
 title: Exchange ActiveSync Returned an HTTP 500 Error
-TOCTitle: Exchange ActiveSync Returned an HTTP 500 Error
-ms:assetid: 620c5ce8-3595-4658-9a7a-ec76c10e4a69
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439375(v=EXCHG.80)
-ms:contentKeyID: 20045822
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

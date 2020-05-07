@@ -1,11 +1,13 @@
 ﻿---
 title: An HTTP 403 was Received Because ISA Denied the Specified URL
-TOCTitle: An HTTP 403 was Received Because ISA Denied the Specified URL
-ms:assetid: b4a20f57-ae2c-4526-83e8-5a179066ae96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439387(v=EXCHG.80)
-ms:contentKeyID: 20045834
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

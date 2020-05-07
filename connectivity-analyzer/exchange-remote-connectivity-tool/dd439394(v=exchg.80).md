@@ -1,11 +1,13 @@
 ﻿---
 title: SSL Certificate Trust Failure
-TOCTitle: SSL Certificate Trust Failure
-ms:assetid: e455c7b2-3e8e-4a45-83e7-09c55ff3b4ec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439394(v=EXCHG.80)
-ms:contentKeyID: 20045841
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

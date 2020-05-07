@@ -1,11 +1,13 @@
 ﻿---
 title: No MX Records were Found for the Specified SMTP Domain
-TOCTitle: No MX Records were Found for the Specified SMTP Domain
-ms:assetid: 1309d583-594e-4a6f-9bd0-41834f86b115
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439363(v=EXCHG.80)
-ms:contentKeyID: 20045810
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

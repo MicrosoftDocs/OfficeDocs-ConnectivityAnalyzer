@@ -1,11 +1,13 @@
 ﻿---
 title: Invalid XML Response Unable to Retrieve Availability or OOF Settings
-TOCTitle: Invalid XML Response Unable to Retrieve Availability or OOF Settings
-ms:assetid: 30bf8fea-d51f-4b7e-a964-66877cd4ce10
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee410520(v=EXCHG.80)
-ms:contentKeyID: 22766747
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

@@ -1,11 +1,13 @@
 ﻿---
 title: Missing AuthPackage Element in Autodiscover XML Response
-TOCTitle: Missing AuthPackage Element in Autodiscover XML Response
-ms:assetid: 5ffece69-b240-4d37-ab6a-7b257c03cb7f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439374(v=EXCHG.80)
-ms:contentKeyID: 20045821
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

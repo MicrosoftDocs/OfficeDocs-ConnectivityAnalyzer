@@ -1,11 +1,13 @@
 ﻿---
 title: Anonymous Authentication Enabled for Virtual Directory
-TOCTitle: Anonymous Authentication Enabled for Virtual Directory
-ms:assetid: ed0d4b63-43b8-4a06-bb01-ee7ec1fd9650
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439395(v=EXCHG.80)
-ms:contentKeyID: 20045842
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

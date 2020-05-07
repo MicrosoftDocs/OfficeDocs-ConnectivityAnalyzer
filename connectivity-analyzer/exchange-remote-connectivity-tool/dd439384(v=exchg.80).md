@@ -1,11 +1,13 @@
 ﻿---
 title: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
-TOCTitle: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
-ms:assetid: b13d5173-7491-4238-a513-6a7f2390aee3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439384(v=EXCHG.80)
-ms:contentKeyID: 20045831
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

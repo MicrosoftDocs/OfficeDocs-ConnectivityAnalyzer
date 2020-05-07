@@ -1,11 +1,13 @@
 ﻿---
 title: Open Relay Detected
-TOCTitle: Open Relay Detected
-ms:assetid: 94007fb7-3f2a-43b4-a4b8-20efed3db232
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439381(v=EXCHG.80)
-ms:contentKeyID: 20045828
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

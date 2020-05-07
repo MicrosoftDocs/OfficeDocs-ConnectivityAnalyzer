@@ -1,11 +1,13 @@
 ﻿---
 title: Cached Mode is Required for this Mailbox
-TOCTitle: Cached Mode is Required for this Mailbox
-ms:assetid: b06310b2-a2ca-4011-b023-de01ad71842f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439383(v=EXCHG.80)
-ms:contentKeyID: 20045830
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

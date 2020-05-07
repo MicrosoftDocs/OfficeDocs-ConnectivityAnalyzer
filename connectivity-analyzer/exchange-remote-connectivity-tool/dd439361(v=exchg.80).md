@@ -1,11 +1,13 @@
 ---
 title: An Unsupported Authentication Method was Found
-TOCTitle: An Unsupported Authentication Method was Found
-ms:assetid: 1260976c-1b9f-4eae-b805-94fabcc4d39c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439361(v=EXCHG.80)
-ms:contentKeyID: 20045808
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

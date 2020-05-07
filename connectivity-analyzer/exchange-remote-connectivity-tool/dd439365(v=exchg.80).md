@@ -1,11 +1,13 @@
 ﻿---
 title: An HTTP 403.4 was Returned Because SSL was Required on the Virtual Directory
-TOCTitle: An HTTP 403.4 was Returned Because SSL was Required on the Virtual Directory
-ms:assetid: 1ce88d57-a5e6-4797-b3fe-1ba0f2410f11
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439365(v=EXCHG.80)
-ms:contentKeyID: 20045812
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

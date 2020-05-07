@@ -1,11 +1,13 @@
 ﻿---
 title: All Required Authentication Methods Could Not be Found
-TOCTitle: All Required Authentication Methods Could Not be Found
-ms:assetid: 8b5d0ae9-fa46-498f-8d90-94e9195388c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439378(v=EXCHG.80)
-ms:contentKeyID: 20045825
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

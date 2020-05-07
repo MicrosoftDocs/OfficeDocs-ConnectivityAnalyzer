@@ -1,11 +1,13 @@
 ﻿---
 title: RPC over HTTP Connection is Not Allowed
-TOCTitle: RPC over HTTP Connection is Not Allowed
-ms:assetid: 227f8a97-18cc-41c2-a49c-f62919a8ace9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439367(v=EXCHG.80)
-ms:contentKeyID: 20045814
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

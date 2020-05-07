@@ -1,11 +1,13 @@
 ﻿---
 title: Could Not Negotiate an Appropriate Airsync Version with Server
-TOCTitle: Could Not Negotiate an Appropriate Airsync Version with Server
-ms:assetid: b2b4c060-32c3-417e-840a-50981b455927
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439385(v=EXCHG.80)
-ms:contentKeyID: 20045832
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

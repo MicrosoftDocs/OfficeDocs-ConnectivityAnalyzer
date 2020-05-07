@@ -1,11 +1,13 @@
 ﻿---
 title: Could Not Find Autodiscover Service Location (SRV) Record in DNS
-TOCTitle: Could Not Find Autodiscover Service Location (SRV) Record in DNS
-ms:assetid: f7432938-9087-4033-9648-224565858a5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439398(v=EXCHG.80)
-ms:contentKeyID: 20045845
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

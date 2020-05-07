@@ -1,11 +1,13 @@
 ﻿---
 title: The Host Name Could Not be Resolved in DNS
-TOCTitle: The Host Name Could Not be Resolved in DNS
-ms:assetid: 2d3fbf36-47f3-4a7b-ab7f-4f426c070991
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439368(v=EXCHG.80)
-ms:contentKeyID: 20045815
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

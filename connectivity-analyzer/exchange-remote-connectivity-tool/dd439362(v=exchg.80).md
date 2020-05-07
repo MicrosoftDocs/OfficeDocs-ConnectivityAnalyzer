@@ -1,11 +1,13 @@
 ﻿---
 title: An Unexpected Redirect Response was Received
-TOCTitle: An Unexpected Redirect Response was Received
-ms:assetid: 12995093-5ad0-467b-8566-6bfa98606f54
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439362(v=EXCHG.80)
-ms:contentKeyID: 20045809
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

@@ -1,11 +1,13 @@
 ﻿---
 title: Windows Mobile Root Certificates
-TOCTitle: Windows Mobile Root Certificates
-ms:assetid: 9a1ec840-5bff-4add-b20a-8e5970c885fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee410525(v=EXCHG.80)
-ms:contentKeyID: 22766752
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

@@ -1,11 +1,13 @@
 ﻿---
 title: Expected Service Banner was not Received when Connecting
-TOCTitle: Expected Service Banner was not Received when Connecting
-ms:assetid: ca72939d-dd53-4939-900d-39fe412c220e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439389(v=EXCHG.80)
-ms:contentKeyID: 20045836
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

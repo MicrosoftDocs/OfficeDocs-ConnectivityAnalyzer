@@ -1,11 +1,13 @@
 ﻿---
 title: Exchange ActiveSync Returned an HTTP 451 Error
-TOCTitle: Exchange ActiveSync Returned an HTTP 451 Error
-ms:assetid: 523005ac-9c43-438d-ba56-a7af11975084
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439372(v=EXCHG.80)
-ms:contentKeyID: 20045819
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

@@ -1,11 +1,13 @@
 ﻿---
 title: RPC Encryption Required
-TOCTitle: RPC Encryption Required
-ms:assetid: cf3a5af1-52ae-4509-8793-84e98f81ec22
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439391(v=EXCHG.80)
-ms:contentKeyID: 20045838
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

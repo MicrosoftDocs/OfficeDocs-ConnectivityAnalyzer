@@ -1,11 +1,13 @@
 ﻿---
 title: A Network Error Occurred while Communicating with Remote Host
-TOCTitle: A Network Error Occurred while Communicating with Remote Host
-ms:assetid: b2e81fe1-5a94-4d07-9d58-ad483268a72a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439386(v=EXCHG.80)
-ms:contentKeyID: 20045833
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

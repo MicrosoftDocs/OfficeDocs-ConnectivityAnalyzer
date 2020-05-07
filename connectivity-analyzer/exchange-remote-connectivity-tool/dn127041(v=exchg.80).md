@@ -1,11 +1,13 @@
 ﻿---
 title: "MCA test: I can't log on to Lync on my mobile device or the Lync Windows Store App"
-TOCTitle: "MCA test: I can't log on to Lync on my mobile device or the Lync Windows Store App"
-ms:assetid: ed07ef42-dc1c-4103-b855-9b2cdcc1741a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn127041(v=EXCHG.80)
-ms:contentKeyID: 52171722
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

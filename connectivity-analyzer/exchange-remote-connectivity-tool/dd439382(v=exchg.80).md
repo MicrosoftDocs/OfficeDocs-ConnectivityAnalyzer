@@ -1,11 +1,13 @@
 ﻿---
 title: An HTTP 500 was Returned to ISA Because the Certificate on the Published Server Doesn't Match the Name in the Publishing Rule
-TOCTitle: An HTTP 500 was Returned to ISA Because the Certificate on the Published Server Doesn't Match the Name in the Publishing Rule
-ms:assetid: a19d636c-616d-4843-a48f-7b0dff02f0ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439382(v=EXCHG.80)
-ms:contentKeyID: 20045829
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

@@ -1,11 +1,13 @@
 ﻿---
 title: The Act As Account May Not Have Permissions to Access this Folder
-TOCTitle: The Act As Account May Not Have Permissions to Access this Folder
-ms:assetid: 38d72b1a-7cd0-42a2-ad0e-3007b434fd2c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee410521(v=EXCHG.80)
-ms:contentKeyID: 22766748
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

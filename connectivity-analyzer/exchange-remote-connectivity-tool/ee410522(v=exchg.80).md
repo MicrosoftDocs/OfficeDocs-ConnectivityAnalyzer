@@ -1,11 +1,13 @@
 ﻿---
 title: The Act As Account May Not Have Permission to Delete Items in this Folder
-TOCTitle: The Act As Account May Not Have Permission to Delete Items in this Folder
-ms:assetid: 7e8eef64-5a01-46df-bfbc-8694ba64e95b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee410522(v=EXCHG.80)
-ms:contentKeyID: 22766749
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

@@ -1,11 +1,13 @@
 ﻿---
 title: No Supported Authentication Methods Found in Response
-TOCTitle: No Supported Authentication Methods Found in Response
-ms:assetid: ef9f2062-3376-42da-9bd1-a333278449b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439397(v=EXCHG.80)
-ms:contentKeyID: 20045844
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

@@ -1,11 +1,13 @@
 ﻿---
 title: "MCA test: I can't view the free/busy information of another user"
-TOCTitle: "MCA test: I can't view the free/busy information of another user"
-ms:assetid: 4ec87a51-fc6e-477f-8ccf-7520f64193fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn127039(v=EXCHG.80)
-ms:contentKeyID: 52171723
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">

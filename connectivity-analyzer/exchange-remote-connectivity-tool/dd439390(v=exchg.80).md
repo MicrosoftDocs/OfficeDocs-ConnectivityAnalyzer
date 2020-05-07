@@ -1,11 +1,13 @@
 ﻿---
 title: Missing EXPR Element in Autodiscover XML Response
-TOCTitle: Missing EXPR Element in Autodiscover XML Response
-ms:assetid: cdd6809e-b5dc-49e5-b977-750ccec1e1eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd439390(v=EXCHG.80)
-ms:contentKeyID: 20045837
-ms.date: 07/23/2014
-mtps_version: v=EXCHG.80
+author: bradhugh
+ms.author: bradhugh
+manager: tpolitis
+audience: ITPro 
+ms.topic: article 
+ms.service: remote-connect-tool
+localization_priority: Normal
+description: 
 ---
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
