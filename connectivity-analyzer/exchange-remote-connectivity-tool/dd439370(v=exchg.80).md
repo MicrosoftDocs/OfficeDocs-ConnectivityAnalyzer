@@ -1,4 +1,4 @@
-﻿---
+---
 title: MAPI Connections are Not Allowed
 author: bradhugh
 ms.author: bradhugh
