@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActiveSync ExternalUrl is Not in the Expected Format
 author: bradhugh
 ms.author: bradhugh
