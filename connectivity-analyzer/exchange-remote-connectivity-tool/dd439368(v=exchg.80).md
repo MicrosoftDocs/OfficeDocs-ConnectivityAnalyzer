@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Host Name Could Not be Resolved in DNS
 author: bradhugh
 ms.author: bradhugh
