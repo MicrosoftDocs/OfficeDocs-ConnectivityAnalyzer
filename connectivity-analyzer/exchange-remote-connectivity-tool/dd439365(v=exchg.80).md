@@ -1,4 +1,4 @@
-﻿---
+---
 title: An HTTP 403.4 was Returned Because SSL was Required on the Virtual Directory
 author: bradhugh
 ms.author: bradhugh
