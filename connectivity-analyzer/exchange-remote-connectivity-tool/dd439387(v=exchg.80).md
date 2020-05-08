@@ -1,4 +1,4 @@
-﻿---
+---
 title: An HTTP 403 was Received Because ISA Denied the Specified URL
 author: bradhugh
 ms.author: bradhugh
