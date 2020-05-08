@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cached Mode is Required for this Mailbox
 author: bradhugh
 ms.author: bradhugh
