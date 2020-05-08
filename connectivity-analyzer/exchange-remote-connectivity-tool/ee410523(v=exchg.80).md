@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Service Account Specified Does Not Have Impersonation Rights on the Act As Account Specified
 author: bradhugh
 ms.author: bradhugh
