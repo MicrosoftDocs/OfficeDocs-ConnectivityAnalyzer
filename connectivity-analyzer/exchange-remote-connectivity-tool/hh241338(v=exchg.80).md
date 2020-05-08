@@ -1,4 +1,4 @@
-﻿---
+---
 title: ADFS SSL Certificate Expired
 author: bradhugh
 ms.author: bradhugh
