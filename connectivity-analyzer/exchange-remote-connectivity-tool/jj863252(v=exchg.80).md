@@ -1,4 +1,4 @@
-﻿---
+---
 title: The user name provided could not be matched to a name in the email server's address list
 author: bradhugh
 ms.author: bradhugh
