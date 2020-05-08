@@ -1,4 +1,4 @@
-﻿---
+---
 title: Active Directory Federated Services (AD FS) server is down or unreachable
 author: bradhugh
 ms.author: bradhugh
