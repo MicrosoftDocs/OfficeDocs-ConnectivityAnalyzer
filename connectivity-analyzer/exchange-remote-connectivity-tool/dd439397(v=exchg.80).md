@@ -1,4 +1,4 @@
-﻿---
+---
 title: No Supported Authentication Methods Found in Response
 author: bradhugh
 ms.author: bradhugh
