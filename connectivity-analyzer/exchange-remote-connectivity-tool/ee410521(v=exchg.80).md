@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Act As Account May Not Have Permissions to Access this Folder
 author: bradhugh
 ms.author: bradhugh
