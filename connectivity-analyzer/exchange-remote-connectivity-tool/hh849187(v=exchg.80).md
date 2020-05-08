@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mutual Authentication Established by Subject Alternative Name
 author: bradhugh
 ms.author: bradhugh
