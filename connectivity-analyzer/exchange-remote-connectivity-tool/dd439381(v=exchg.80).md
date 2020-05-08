@@ -1,4 +1,4 @@
-﻿---
+---
 title: Open Relay Detected
 author: bradhugh
 ms.author: bradhugh
