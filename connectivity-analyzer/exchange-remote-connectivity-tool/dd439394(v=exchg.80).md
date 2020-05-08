@@ -1,4 +1,4 @@
-﻿---
+---
 title: SSL Certificate Trust Failure
 author: bradhugh
 ms.author: bradhugh
