@@ -1,4 +1,4 @@
-﻿---
+---
 title: Unknown Username or bad password
 author: bradhugh
 ms.author: bradhugh
