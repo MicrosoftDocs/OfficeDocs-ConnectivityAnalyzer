@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Outlook Autodiscover Provider Returned an Error Status in the XML Response
 author: bradhugh
 ms.author: bradhugh
