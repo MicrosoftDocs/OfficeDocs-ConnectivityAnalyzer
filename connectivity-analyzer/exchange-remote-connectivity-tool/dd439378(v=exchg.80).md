@@ -1,4 +1,4 @@
-﻿---
+---
 title: All Required Authentication Methods Could Not be Found
 author: bradhugh
 ms.author: bradhugh
