@@ -1,4 +1,4 @@
-﻿---
+---
 title: EWS Endpoint Directed to On-Premises Legacy Server
 author: bradhugh
 ms.author: bradhugh
