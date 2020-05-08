@@ -1,4 +1,4 @@
-﻿---
+---
 title: "MCA test: I can't send or receive email from Outlook (Office 365 only)"
 author: bradhugh
 ms.author: bradhugh
