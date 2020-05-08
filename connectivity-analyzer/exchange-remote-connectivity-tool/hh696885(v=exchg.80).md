@@ -1,4 +1,4 @@
-﻿---
+---
 title: You must uninstall all interim updates before you install Exchange Server 2010 Service Pack 2
 author: bradhugh
 ms.author: bradhugh
