@@ -1,4 +1,4 @@
-﻿---
+---
 title: Expected Service Banner was not Received when Connecting
 author: bradhugh
 ms.author: bradhugh
