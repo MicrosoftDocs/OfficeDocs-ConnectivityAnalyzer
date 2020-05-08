@@ -1,4 +1,4 @@
-﻿---
+---
 title: Additional help resources for MCA
 author: bradhugh
 ms.author: bradhugh
