@@ -1,4 +1,4 @@
-﻿---
+---
 title: ADFS token not accepted by Authentication Platform (for later version of RCA)
 author: bradhugh
 ms.author: bradhugh
