@@ -1,4 +1,4 @@
-﻿---
+---
 title: RPC Encryption Required
 author: bradhugh
 ms.author: bradhugh
