@@ -1,4 +1,4 @@
-﻿---
+---
 title: Invalid XML Response Unable to Retrieve Availability or OOF Settings
 author: bradhugh
 ms.author: bradhugh
