@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Connectivity Analyzer Tool
 author: bradhugh
 ms.author: bradhugh
