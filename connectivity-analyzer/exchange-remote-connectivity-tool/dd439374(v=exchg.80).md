@@ -1,4 +1,4 @@
-﻿---
+---
 title: Missing AuthPackage Element in Autodiscover XML Response
 author: bradhugh
 ms.author: bradhugh
