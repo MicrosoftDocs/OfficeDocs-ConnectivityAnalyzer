@@ -1,4 +1,4 @@
-﻿---
+---
 title: "MCA test: I can't view the free/busy information of another user"
 author: bradhugh
 ms.author: bradhugh
