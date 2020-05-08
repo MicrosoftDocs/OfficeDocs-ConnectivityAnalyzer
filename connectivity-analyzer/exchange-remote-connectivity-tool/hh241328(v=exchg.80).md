@@ -1,4 +1,4 @@
-﻿---
+---
 title: Name Space is not Federated
 author: bradhugh
 ms.author: bradhugh
