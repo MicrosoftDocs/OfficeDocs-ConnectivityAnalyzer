@@ -1,4 +1,4 @@
-﻿---
+---
 title: Active Directory Federated Services (AD FS) HTTPS endpoint name could not be resolved
 author: bradhugh
 ms.author: bradhugh
