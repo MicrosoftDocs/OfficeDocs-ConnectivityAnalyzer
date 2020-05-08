@@ -1,4 +1,4 @@
-﻿---
+---
 title: Firewall Pre-Authentication Check
 author: bradhugh
 ms.author: bradhugh
