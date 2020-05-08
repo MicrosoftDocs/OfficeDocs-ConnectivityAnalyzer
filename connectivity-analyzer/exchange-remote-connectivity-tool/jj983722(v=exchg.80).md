@@ -1,4 +1,4 @@
-﻿---
+---
 title: Exchange ActiveSync Returned an HTTP 503 Error
 author: bradhugh
 ms.author: bradhugh
