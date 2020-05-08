@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Act As Account Does Not Have Permissions to Create Items in this Folder
 author: bradhugh
 ms.author: bradhugh
