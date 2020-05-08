@@ -1,4 +1,4 @@
-﻿---
+---
 title: A Network Error Occurred while Communicating with Remote Host
 author: bradhugh
 ms.author: bradhugh
