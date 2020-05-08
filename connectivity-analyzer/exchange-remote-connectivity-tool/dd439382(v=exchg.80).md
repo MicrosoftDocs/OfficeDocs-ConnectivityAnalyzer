@@ -1,4 +1,4 @@
-﻿---
+---
 title: An HTTP 500 was Returned to ISA Because the Certificate on the Published Server Doesn't Match the Name in the Publishing Rule
 author: bradhugh
 ms.author: bradhugh
