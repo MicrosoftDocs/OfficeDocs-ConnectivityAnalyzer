@@ -1,4 +1,4 @@
-﻿---
+---
 title: UPN issues when authenticating
 author: bradhugh
 ms.author: bradhugh
