@@ -1,4 +1,4 @@
-﻿---
+---
 title: Anonymous Authentication Enabled for Virtual Directory
 author: bradhugh
 ms.author: bradhugh
