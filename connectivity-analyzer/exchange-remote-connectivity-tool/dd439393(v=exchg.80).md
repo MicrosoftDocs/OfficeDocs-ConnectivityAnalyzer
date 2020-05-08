@@ -1,4 +1,4 @@
-﻿---
+---
 title: SSL Certificate Name Mismatch
 author: bradhugh
 ms.author: bradhugh
