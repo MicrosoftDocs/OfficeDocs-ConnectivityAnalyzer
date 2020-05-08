@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Client and Server Versions are Not Compatible
 author: bradhugh
 ms.author: bradhugh
