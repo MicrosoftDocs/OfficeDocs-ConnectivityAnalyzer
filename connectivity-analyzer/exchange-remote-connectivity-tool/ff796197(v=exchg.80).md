@@ -1,4 +1,4 @@
-﻿---
+---
 title: IP Address does not have a PTR record in DNS
 author: bradhugh
 ms.author: bradhugh
