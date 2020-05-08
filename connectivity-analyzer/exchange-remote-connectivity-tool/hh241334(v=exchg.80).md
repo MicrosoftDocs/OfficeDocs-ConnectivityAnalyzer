@@ -1,4 +1,4 @@
-﻿---
+---
 title: Token Signing Certificate Expired
 author: bradhugh
 ms.author: bradhugh
