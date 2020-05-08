@@ -1,4 +1,4 @@
-﻿---
+---
 title: The ActiveSync OPTIONS command returned an HTTP 401 Error
 author: bradhugh
 ms.author: bradhugh
