@@ -1,4 +1,4 @@
-﻿---
+---
 title: Error with System Time
 author: bradhugh
 ms.author: bradhugh
