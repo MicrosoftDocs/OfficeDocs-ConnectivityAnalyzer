@@ -1,4 +1,4 @@
-﻿---
+---
 title: Missing Intermediate Certificates in Chain
 author: bradhugh
 ms.author: bradhugh
