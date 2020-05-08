@@ -1,4 +1,4 @@
-﻿---
+---
 title: Windows Mobile Root Certificates
 author: bradhugh
 ms.author: bradhugh
