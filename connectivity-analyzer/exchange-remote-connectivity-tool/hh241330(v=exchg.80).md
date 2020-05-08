@@ -1,4 +1,4 @@
-﻿---
+---
 title: ADFS SSL Certificate Trust
 author: bradhugh
 ms.author: bradhugh
