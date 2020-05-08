@@ -1,4 +1,4 @@
-﻿---
+---
 title: The domain is a federated domain but the user <User>@contoso.com is not known by Office 365
 author: bradhugh
 ms.author: bradhugh
