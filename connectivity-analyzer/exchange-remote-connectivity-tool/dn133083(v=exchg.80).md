@@ -1,4 +1,4 @@
-﻿---
+---
 title: Message Header Analyzer
 author: bradhugh
 ms.author: bradhugh
