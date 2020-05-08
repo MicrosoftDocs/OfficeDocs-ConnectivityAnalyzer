@@ -1,4 +1,4 @@
-﻿---
+---
 title: Could Not Find Autodiscover Service Location (SRV) Record in DNS
 author: bradhugh
 ms.author: bradhugh
