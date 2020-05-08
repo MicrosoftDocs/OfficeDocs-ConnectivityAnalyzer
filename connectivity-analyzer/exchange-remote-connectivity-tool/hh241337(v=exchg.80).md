@@ -1,4 +1,4 @@
-﻿---
+---
 title: General issues that may occur for one or all users
 author: bradhugh
 ms.author: bradhugh
