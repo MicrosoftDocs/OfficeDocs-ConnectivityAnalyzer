@@ -1,4 +1,4 @@
-﻿---
+---
 title: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
 author: bradhugh
 ms.author: bradhugh
