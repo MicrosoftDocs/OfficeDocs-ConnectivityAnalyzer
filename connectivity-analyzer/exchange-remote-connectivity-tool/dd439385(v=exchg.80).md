@@ -1,4 +1,4 @@
-﻿---
+---
 title: Could Not Negotiate an Appropriate Airsync Version with Server
 author: bradhugh
 ms.author: bradhugh
