@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Service Account Specified Does Not Have Impersonation Rights on Client Access Server
 author: bradhugh
 ms.author: bradhugh
