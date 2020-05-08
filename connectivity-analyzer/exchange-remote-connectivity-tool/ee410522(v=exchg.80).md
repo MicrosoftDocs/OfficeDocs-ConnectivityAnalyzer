@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Act As Account May Not Have Permission to Delete Items in this Folder
 author: bradhugh
 ms.author: bradhugh
