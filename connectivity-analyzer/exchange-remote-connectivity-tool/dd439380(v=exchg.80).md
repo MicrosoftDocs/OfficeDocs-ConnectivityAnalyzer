@@ -1,4 +1,4 @@
-﻿---
+---
 title: A Positive HTTP Response Other than a Redirect Response was Received
 author: bradhugh
 ms.author: bradhugh
