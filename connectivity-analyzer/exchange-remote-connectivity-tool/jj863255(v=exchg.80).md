@@ -1,4 +1,4 @@
-﻿---
+---
 title: "MCA test: I can't send or receive email on my mobile device"
 author: bradhugh
 ms.author: bradhugh
