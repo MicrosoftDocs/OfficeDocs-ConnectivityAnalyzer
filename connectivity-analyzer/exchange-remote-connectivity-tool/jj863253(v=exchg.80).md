@@ -1,4 +1,4 @@
-﻿---
+---
 title: The email server is not available
 author: bradhugh
 ms.author: bradhugh
