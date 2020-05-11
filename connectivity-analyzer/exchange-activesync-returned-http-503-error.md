@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Exchange ActiveSync Returned an HTTP 503 Error
 
@@ -48,9 +48,9 @@ If the information store is dismounted, you receive the following error message:
 
 ## More Information
 
-For information about how to start the Information Store service, see [How to Start the Microsoft Exchange Information Store Service (MSExchangeIS)](https://technet.microsoft.com/en-us/library/aa998163\(v=exchg.80\)).
+For information about how to start the Information Store service, see [How to Start the Microsoft Exchange Information Store Service (MSExchangeIS)](https://technet.microsoft.com/library/aa998163\(v=exchg.80\)).
 
-For information about how to mount the information store in Exchange 2010 server, see [Mount a Database](http://go.microsoft.com/fwlink/p/?linkid=286791).
+For information about how to mount the information store in Exchange 2010 server, see [Mount a Database](https://go.microsoft.com/fwlink/p/?linkid=286791).
 
 </div>
 
