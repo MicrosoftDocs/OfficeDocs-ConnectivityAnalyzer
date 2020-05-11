@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # RPC Server Unavailable Error was Thrown by the RPC Runtime
 
@@ -54,7 +54,7 @@ To resolve this issue, do the following:
 
   - To test endpoint connectivity, open a Telnet session on the Client Access server or on the front-end server, and then Telnet to each port on the mailbox servers (that is, on ports 6001, 6002, and 6004). If you cannot successfully Telnet to any of the ports, and if there is a firewall between the servers, check your firewall configuration.
 
-  - If you are receiving this error on port 6004, and if you are using Exchange 2007 on Windows Server 2008, make sure that you have Exchange 2007 SP1 RU4 or later installed. This is because a problem that affects IPv6 can cause DSProxy requests to fail and generate this error. For more information about this specific issue, see Microsoft Knowledge Base article, "[You are prompted for your credentials three times and you receive an error message when you use the Outlook Anywhere feature to connect to an Exchange Server 2007 Service Pack 1–based server that is running Windows Server 2008](http://go.microsoft.com/fwlink/?linkid=3052%26kbid=950138)".
+  - If you are receiving this error on port 6004, and if you are using Exchange 2007 on Windows Server 2008, make sure that you have Exchange 2007 SP1 RU4 or later installed. This is because a problem that affects IPv6 can cause DSProxy requests to fail and generate this error. For more information about this specific issue, see Microsoft Knowledge Base article, "[You are prompted for your credentials three times and you receive an error message when you use the Outlook Anywhere feature to connect to an Exchange Server 2007 Service Pack 1–based server that is running Windows Server 2008](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=950138)".
 
 <div class="alert">
 
@@ -71,15 +71,15 @@ To resolve this issue, do the following:
 
 ## Additional Resources
 
-  - For information about how to troubleshoot DNS, see [Troubleshooting DNS](http://go.microsoft.com/fwlink/?linkid=63003).
+  - For information about how to troubleshoot DNS, see [Troubleshooting DNS](https://go.microsoft.com/fwlink/?linkid=63003).
 
-  - To learn more about Exchange 2007 Outlook Anywhere and the ValidPorts key, see [How does Outlook Anywhere work (and not work)?](http://go.microsoft.com/fwlink/?linkid=148104)
+  - To learn more about Exchange 2007 Outlook Anywhere and the ValidPorts key, see [How does Outlook Anywhere work (and not work)?](https://go.microsoft.com/fwlink/?linkid=148104)
 
-  - To learn more about Exchange 2003 RPC over HTTP and the ValidPorts key, see [RPC over HTTP Interactions on the RPC Proxy Server](http://go.microsoft.com/fwlink/?linkid=161819).
+  - To learn more about Exchange 2003 RPC over HTTP and the ValidPorts key, see [RPC over HTTP Interactions on the RPC Proxy Server](https://go.microsoft.com/fwlink/?linkid=161819).
 
-  - To review another option to solve the Outlook Anywhere connectivity issue with Exchange 2007 SP1 on Windows Server 2008, see [Outlook Anywhere Client Connectivity Issue Because of TCP/IPv6](http://go.microsoft.com/fwlink/?linkid=161821).
+  - To review another option to solve the Outlook Anywhere connectivity issue with Exchange 2007 SP1 on Windows Server 2008, see [Outlook Anywhere Client Connectivity Issue Because of TCP/IPv6](https://go.microsoft.com/fwlink/?linkid=161821).
 
-The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional information about why you failed at this point. If you require technical assistance, create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420) or contact [support](http://go.microsoft.com/fwlink/?linkid=8158).
+The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional information about why you failed at this point. If you require technical assistance, create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 
