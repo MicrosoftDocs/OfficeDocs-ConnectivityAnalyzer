@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Windows Mobile Root Certificates
 
@@ -175,15 +175,15 @@ The following table shows which root certificates from public certificate author
 
 To learn more about certificates and validation, see to the following topics.
 
-  - For more information about using certificates for securing communications between a client and a Client Access server, see [Understanding SSL for Client Access Servers](http://go.microsoft.com/fwlink/?linkid=115184).
+  - For more information about using certificates for securing communications between a client and a Client Access server, see [Understanding SSL for Client Access Servers](https://go.microsoft.com/fwlink/?linkid=115184).
 
-  - For more information about the use of certificates in Exchange Server 2007, see [Certificate Use in Exchange Server 2007](http://go.microsoft.com/fwlink/?linkid=119030).
+  - For more information about the use of certificates in Exchange Server 2007, see [Certificate Use in Exchange Server 2007](https://go.microsoft.com/fwlink/?linkid=119030).
 
-  - For more information about self-signed certificates in Exchange Server 2007, see [Understanding the Self-Signed Certificate in Exchange 2007](http://go.microsoft.com/fwlink/?linkid=161990).
+  - For more information about self-signed certificates in Exchange Server 2007, see [Understanding the Self-Signed Certificate in Exchange 2007](https://go.microsoft.com/fwlink/?linkid=161990).
 
-  - For more information about installing digital root certificates on mobile devices, see [How to Install Root Certification Authority Certificates on a Windows Mobile-based Device](http://go.microsoft.com/fwlink/?linkid=161942).
+  - For more information about installing digital root certificates on mobile devices, see [How to Install Root Certification Authority Certificates on a Windows Mobile-based Device](https://go.microsoft.com/fwlink/?linkid=161942).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420) or contact [support](http://go.microsoft.com/fwlink/?linkid=8158).
+The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 
