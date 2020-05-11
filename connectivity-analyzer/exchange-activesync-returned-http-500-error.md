@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Exchange ActiveSync Returned an HTTP 500 Error
 
@@ -36,7 +36,7 @@ The Microsoft Exchange Analyzer tool sends Exchange ActiveSync commands to test 
 
 ## For More Information
 
-You may experience this error if you have an Exchange 2003 server without a front-end server and are using Secure Sockets Layer (SSL) or forms-based authentication. If this is the case, see Microsoft Knowledge Base article, "Exchange ActiveSync and Outlook Mobile Access errors occur when SSL or forms-based authentication is required for Exchange Server 2003" ([http://go.microsoft.com/fwlink/?linkid=3052\&kbid=817379](http://go.microsoft.com/fwlink/?linkid=3052%26kbid=817379)).
+You may experience this error if you have an Exchange 2003 server without a front-end server and are using Secure Sockets Layer (SSL) or forms-based authentication. If this is the case, see Microsoft Knowledge Base article, "Exchange ActiveSync and Outlook Mobile Access errors occur when SSL or forms-based authentication is required for Exchange Server 2003" ([https://go.microsoft.com/fwlink/?linkid=3052\&kbid=817379](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=817379)).
 
 In Exchange 2003, ActiveSync requires Kerberos authentication to work properly between the front-end and the back-end servers. Some common reasons for Kerberos authentication in IIS not working are:
 
@@ -53,7 +53,7 @@ In Exchange 2003, ActiveSync requires Kerberos authentication to work properly b
     
     </div>
 
-For more information, see Microsoft Knowledge Base article, "How to troubleshoot server ActiveSync HTTP error codes" ([http://go.microsoft.com/fwlink/?linkid=3052\&kbid=330463](http://go.microsoft.com/fwlink/?linkid=3052%26kbid=330463)).
+For more information, see Microsoft Knowledge Base article, "How to troubleshoot server ActiveSync HTTP error codes" ([https://go.microsoft.com/fwlink/?linkid=3052\&kbid=330463](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=330463)).
 
 In Exchange Server 2010, you may also experience this issue if the Exchange Servers group does not have the appropriate permission to the mailbox object in Active Directory. The most common cause for this is broken Access Control List (ACL) inheritance in Active Directory.
 
@@ -82,9 +82,9 @@ If the user is a member of certain protected groups such as Domain Administrator
 
 </div>
 
-For more information, see TechNet Magazine article, "AdminSDHolder, Protected Groups and SDPROP" (<http://technet.microsoft.com/en-us/magazine/2009.09.sdadminholder.aspx>).
+For more information, see TechNet Magazine article, "AdminSDHolder, Protected Groups and SDPROP" (<https://technet.microsoft.com/magazine/2009.09.sdadminholder.aspx>).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420) or contact [support](http://go.microsoft.com/fwlink/?linkid=8158).
+The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 
