@@ -24,7 +24,7 @@
   - name: Missing AuthPackage Element in Autodiscover XML Response
     href: missing-authpackage-element-autodiscover-xml-response.md
   - name: Anonymous Authentication Enabled for Virtual Directory
-    href: exchange/anonymous-authentication-enabled-virtual-directory.md
+    href: anonymous-authentication-enabled-virtual-directory.md
   - name: No Supported Authentication Methods Found in Response
     href: no-supported-authentication-methods-found-response.md
   - name: An Unsupported Authentication Method was Found
