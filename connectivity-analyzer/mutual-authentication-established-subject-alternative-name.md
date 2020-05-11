@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Mutual Authentication Established by Subject Alternative Name
 
@@ -50,17 +50,17 @@ If you plan to support only clients that run Windows Vista Service Pack 1 and ne
 
 ## For More Information
 
-  - For more information about this issue, see [Mutual Authentication Could Not be Established](dd439371\(v=exchg.80\).md).
+  - For more information about this issue, see [Mutual Authentication Could Not be Established](mutual-authentication-could-not-be-established.md).
 
-  - To learn more about Mutual Authentication Principal Names, see [Principal Names](http://go.microsoft.com/fwlink/?linkid=93417).
+  - To learn more about Mutual Authentication Principal Names, see [Principal Names](https://go.microsoft.com/fwlink/?linkid=93417).
 
   - To learn more about Exchange 2007 Outlook Providers, see the following topic and Microsoft Exchange Team Blog article:
     
-      - [Set-OutlookProvider](http://go.microsoft.com/fwlink/?linkid=161815)
+      - [Set-OutlookProvider](https://go.microsoft.com/fwlink/?linkid=161815)
     
-      - [The Autodiscover Service and Outlook Providers - how does this stuff work?](http://go.microsoft.com/fwlink/?linkid=161811)
+      - [The Autodiscover Service and Outlook Providers - how does this stuff work?](https://go.microsoft.com/fwlink/?linkid=161811)
 
-The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your efforts failed at this point.  If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420) or contact [support](http://go.microsoft.com/fwlink/?linkid=8158).
+The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your efforts failed at this point.  If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

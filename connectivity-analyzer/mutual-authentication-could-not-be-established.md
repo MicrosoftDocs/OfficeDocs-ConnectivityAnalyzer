@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Mutual Authentication Could Not be Established
 
@@ -62,11 +62,11 @@ To resolve this error, do the following:
 
 ## For More Information
 
-  - To learn more about the Mutual Authentication Principal Name, see [Principal Names](http://go.microsoft.com/fwlink/?linkid=93417).
+  - To learn more about the Mutual Authentication Principal Name, see [Principal Names](https://go.microsoft.com/fwlink/?linkid=93417).
 
-  - To learn more about Exchange 2007 Outlook Providers, see [The Autodiscover Service and Outlook Providers - how does this stuff work?](http://go.microsoft.com/fwlink/?linkid=161811) and [Set-OutlookProvider](http://go.microsoft.com/fwlink/?linkid=161815).
+  - To learn more about Exchange 2007 Outlook Providers, see [The Autodiscover Service and Outlook Providers - how does this stuff work?](https://go.microsoft.com/fwlink/?linkid=161811) and [Set-OutlookProvider](https://go.microsoft.com/fwlink/?linkid=161815).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420) or contact [support](http://go.microsoft.com/fwlink/?linkid=8158).
+The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 
