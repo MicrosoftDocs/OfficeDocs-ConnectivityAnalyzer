@@ -40,19 +40,19 @@ The solution to this issue is to make sure that the external DNS records for Aut
 
 ## More information
 
-For more information about how to troubleshoot federated free/busy issues, see Microsoft Knowledge Base article [2555008: How to troubleshoot free/busy issues when you use Exchange Federation in the Microsoft Office 365 for enterprises environment](http://support.microsoft.com/kb/2555008).
+For more information about how to troubleshoot federated free/busy issues, see Microsoft Knowledge Base article [2555008: How to troubleshoot free/busy issues when you use Exchange Federation in the Microsoft Office 365 for enterprises environment](https://support.microsoft.com/kb/2555008).
 
 We recommend that you consult the following resources before you decide how to configure a cross premises Exchange server:
 
-  - [Exchange Server Deployment Assistant](http://technet.microsoft.com/en-us/exdeploy2010/default.aspx)
+  - [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx)
 
-  - Microsoft Knowledge Base article [2555008: How to troubleshoot free/busy issues when you use Exchange Federation in the Microsoft Office 365 for enterprises environment](http://support.microsoft.com/kb/2555008)
+  - Microsoft Knowledge Base article [2555008: How to troubleshoot free/busy issues when you use Exchange Federation in the Microsoft Office 365 for enterprises environment](https://support.microsoft.com/kb/2555008)
 
 <div>
 
 ## More resources
 
-The Exchange Remote Connectivity Analyzer is a new tool that currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [support](http://go.microsoft.com/fwlink/?linkid=8158) or create a post at the Remote Connectivity Analyzer forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](http://social.technet.microsoft.com/forums/en-us/exchangesvr3rdpartyappslegacy).
+The Exchange Remote Connectivity Analyzer is a new tool that currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [support](https://go.microsoft.com/fwlink/?linkid=8158) or create a post at the Remote Connectivity Analyzer forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](https://social.technet.microsoft.com/forums/en-us/exchangesvr3rdpartyappslegacy).
 
 </div>
 
