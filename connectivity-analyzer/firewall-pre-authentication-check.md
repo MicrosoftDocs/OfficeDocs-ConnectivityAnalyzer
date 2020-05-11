@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Firewall Pre-Authentication Check
 
@@ -38,11 +38,11 @@ The solution is simple: Create a rule that uses the same listener as the other E
 
 ## More Information
 
-For information about how to configure TMG for Office 365 hybrid deployments, including how to configure a rule for specific paths that require pass-through authentication, see [How to Configure TMG for Office 365 (Exchange) Hybrid deployments](http://go.microsoft.com/fwlink/p/?linkid=241473).
+For information about how to configure TMG for Office 365 hybrid deployments, including how to configure a rule for specific paths that require pass-through authentication, see [How to Configure TMG for Office 365 (Exchange) Hybrid deployments](https://go.microsoft.com/fwlink/p/?linkid=241473).
 
-Before you decide how to configure Autodiscover, we recommend that you obtain and read [Publishing Exchange Server 2010 with Forefront Unified Access Gateway 2010 and Forefront Threat Management Gateway 2010](http://go.microsoft.com/fwlink/p/?linkid=197136).
+Before you decide how to configure Autodiscover, we recommend that you obtain and read [Publishing Exchange Server 2010 with Forefront Unified Access Gateway 2010 and Forefront Threat Management Gateway 2010](https://go.microsoft.com/fwlink/p/?linkid=197136).
 
-The Exchange Remote Connectivity Analyzer is a new tool that currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [Microsoft Support](http://go.microsoft.com/fwlink/p/?linkid=8158) or create a post at the RCA forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](http://go.microsoft.com/fwlink/p/?linkid=288878).
+The Exchange Remote Connectivity Analyzer is a new tool that currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [Microsoft Support](https://go.microsoft.com/fwlink/p/?linkid=8158) or create a post at the RCA forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](https://go.microsoft.com/fwlink/p/?linkid=288878).
 
 </div>
 
