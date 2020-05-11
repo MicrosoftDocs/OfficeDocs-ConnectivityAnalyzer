@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # The user name provided could not be matched to a name in the email server's address list
 
@@ -38,7 +38,7 @@ This error occurs if part of the user name that you provide is incorrect. This e
 
 To resolve this issue, verify that you are using the user name and domain that was provided by an IT administrator.
 
-If the issue is not resolved, direct your administrator to the following Microsoft TechNet topic for information about how to resolve this issue: [Name Could Not be Matched to a Name in the Address List](dd439366\(v=exchg.80\).md).
+If the issue is not resolved, direct your administrator to the following Microsoft TechNet topic for information about how to resolve this issue: [Name Could Not be Matched to a Name in the Address List](name-could-not-be-matched-name-address-list.md).
 
 </div>
 
