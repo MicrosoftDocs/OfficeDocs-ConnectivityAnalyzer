@@ -2,7 +2,7 @@
   "redirections": [
     {
       "source_path": "connectivity-analyzer/index.md",
-      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analzyer-tool",
+      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool",
       "redirect_document_id": true
     }
   ]
