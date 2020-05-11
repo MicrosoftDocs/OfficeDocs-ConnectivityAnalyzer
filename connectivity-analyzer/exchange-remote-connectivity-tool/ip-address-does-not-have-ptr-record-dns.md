@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # IP Address does not have a PTR record in DNS
 
@@ -60,11 +60,11 @@ Some e-mail servers check for a reverse record as a basic anti-spam check proced
 
 For more information about reverse lookup DNS, see the following articles on the IETF Tools Web site:
 
-<http://tools.ietf.org/html/rfc1912>
+<https://tools.ietf.org/html/rfc1912>
 
-<http://tools.ietf.org/html/rfc2317>
+<https://tools.ietf.org/html/rfc2317>
 
-The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section at the bottom of this page to post additional reasons why your lookup failed at this point. If you require technical assistance, create a post in the appropriate [Microsoft Exchange Server TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420), or contact [Microsoft Product Support Services](http://go.microsoft.com/fwlink/?linkid=8158).
+The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section at the bottom of this page to post additional reasons why your lookup failed at this point. If you require technical assistance, create a post in the appropriate [Microsoft Exchange Server TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420), or contact [Microsoft Product Support Services](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

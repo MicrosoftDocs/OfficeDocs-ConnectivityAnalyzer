@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # RPC Encryption Required
 
@@ -169,13 +169,13 @@ To resolve this problem, do one or more of the following:
         
             Set-RpcClientAccess -Server <ServerName> -EncryptionRequired $False
 
-For more information about other issues that may cause the errors mentioned in this topic, see Microsoft Knowledge Base article 924625, [When you use Outlook with an Exchange 2007 mailbox, you cannot connect to Exchange 2007, and you receive an error message](http://go.microsoft.com/fwlink/?linkid=3052%26kbid=924625).
+For more information about other issues that may cause the errors mentioned in this topic, see Microsoft Knowledge Base article 924625, [When you use Outlook with an Exchange 2007 mailbox, you cannot connect to Exchange 2007, and you receive an error message](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=924625).
 
-For more information about Outlook 2003 connectivity with Exchange Server 2010, including additional remediation methods, see the Microsoft Knowledge Base article, [Outlook connection issues with Exchange 2010 mailboxes because of the RPC encryption requirement](http://support.microsoft.com/kb/2006508).
+For more information about Outlook 2003 connectivity with Exchange Server 2010, including additional remediation methods, see the Microsoft Knowledge Base article, [Outlook connection issues with Exchange 2010 mailboxes because of the RPC encryption requirement](https://support.microsoft.com/kb/2006508).
 
-For information about the Set-MailboxServer cmdlet and MAPIEncryptionRequired attribute, see [Set-MailboxServer](http://go.microsoft.com/fwlink/?linkid=161822).
+For information about the Set-MailboxServer cmdlet and MAPIEncryptionRequired attribute, see [Set-MailboxServer](https://go.microsoft.com/fwlink/?linkid=161822).
 
-For more information about deploying Exchange 2010 with Outlook 2003 clients, see [Concern: Is Having Outlook 2003 Clients Going to Prevent Me from Deploying Exchange 2010?](http://social.technet.microsoft.com/wiki/contents/articles/concern-is-having-outlook-2003-clients-going-to-prevent-me-from-deploying-exchange-2010.aspx).
+For more information about deploying Exchange 2010 with Outlook 2003 clients, see [Concern: Is Having Outlook 2003 Clients Going to Prevent Me from Deploying Exchange 2010?](https://social.technet.microsoft.com/wiki/contents/articles/concern-is-having-outlook-2003-clients-going-to-prevent-me-from-deploying-exchange-2010.aspx).
 
 </div>
 

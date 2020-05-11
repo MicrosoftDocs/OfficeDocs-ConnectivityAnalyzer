@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # IP Address Found on RBL
 
@@ -68,15 +68,15 @@ Many e-mail servers use popular RBLs as one defense against spam. If the IP addr
 
 To see examples of some well-known RBLs, visit the following Web sites:
 
-  - <http://www.dnsbl.info/dnsbl-details.php?dnsbl=pbl.spamhaus.org>
+  - <https://www.dnsbl.info/dnsbl-details.php?dnsbl=pbl.spamhaus.org>
 
-  - <http://www.au.sorbs.net/>
+  - <https://www.au.sorbs.net/>
 
-  - <http://www.spamcop.net/>
+  - <https://www.spamcop.net/>
 
 For more information about RBLs, see Configuring Filtering and Controlling Spam and also visit the following Spam Links Web site:
 
-  - <http://spamlinks.net/filter-dnsbl-lists.htm>
+  - <https://spamlinks.net/filter-dnsbl-lists.htm>
 
 </div>
 

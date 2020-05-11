@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # MCA test: I can't view the free/busy information of another user
 
@@ -42,7 +42,7 @@ This test includes the following features:
 
   - Links to guidance about the Hybrid Configuration wizard. This wizard is a common source of potential hybrid deployment misconfiguration.
 
-The Microsoft Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the following Community Content section to post additional reasons about why your testing failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/p/?linkid=73420) or contact [Microsoft Support](http://go.microsoft.com/fwlink/p/?linkid=8158).
+The Microsoft Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the following Community Content section to post additional reasons about why your testing failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/p/?linkid=73420) or contact [Microsoft Support](https://go.microsoft.com/fwlink/p/?linkid=8158).
 
 </div>
 

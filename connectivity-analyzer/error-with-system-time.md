@@ -10,9 +10,9 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
 <div data-asp="https://msdn2.microsoft.com/asp">
 
@@ -47,15 +47,15 @@ This error message is generally a reliable indicator of this issue. However, if 
 
 ## More Information
 
-For information about how to resolve this issue, see [Synchronize the Time Server for the Domain Controller with an External Source](https://technet.microsoft.com/en-us/library/cc784553\(ws.10\).aspx).
+For information about how to resolve this issue, see [Synchronize the Time Server for the Domain Controller with an External Source](https://technet.microsoft.com/library/cc784553\(ws.10\).aspx).
 
 We recommend that you consult the following resources before you decide how to configure Cross premises Exchange:
 
-  - [The Exchange Deployment Assistant](https://technet.microsoft.com/en-us/exdeploy2010/default.aspx)
+  - [The Exchange Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx)
 
   - Microsoft Knowledge Base article [How to troubleshoot free/busy issues when you use Exchange Federation in the Microsoft Office 365 for enterprises environment](https://support.microsoft.com/kb/2555008)
 
-The Exchange Remote Connectivity Analyzer is a new tool that currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [support](https://go.microsoft.com/fwlink/?linkid=8158) or create a post at the Remote Connectivity Analyzer forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](https://social.technet.microsoft.com/forums/en-us/exchangesvr3rdpartyappslegacy).
+The Exchange Remote Connectivity Analyzer is a new tool that currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [support](https://go.microsoft.com/fwlink/?linkid=8158) or create a post at the Remote Connectivity Analyzer forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](https://social.technet.microsoft.com/forums/exchangesvr3rdpartyappslegacy).
 
 </div>
 

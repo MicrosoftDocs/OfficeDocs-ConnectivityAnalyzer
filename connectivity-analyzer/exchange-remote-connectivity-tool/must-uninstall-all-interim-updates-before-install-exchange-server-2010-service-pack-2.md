@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # You must uninstall all interim updates before you install Exchange Server 2010 Service Pack 2
 
@@ -24,7 +24,7 @@ description:
 
 <div id="mainBody">
 
-\[This topic is intended to address a specific issue called out by the Exchange Server Analyzer Tool. You should apply it only to systems that have had the Exchange Server Analyzer Tool run against them and are experiencing that specific issue. The Exchange Server Analyzer Tool, available as a free download, remotely collects configuration data from each server in the topology and automatically analyzes the data. The resulting report details important configuration issues, potential problems, and nondefault product settings. By following these recommendations, you can achieve better performance, scalability, reliability, and uptime. For more information about the tool or to download the latest versions, see "Microsoft Exchange Analyzers" at <http://go.microsoft.com/fwlink/?linkid=34707>.\] <span> </span>
+\[This topic is intended to address a specific issue called out by the Exchange Server Analyzer Tool. You should apply it only to systems that have had the Exchange Server Analyzer Tool run against them and are experiencing that specific issue. The Exchange Server Analyzer Tool, available as a free download, remotely collects configuration data from each server in the topology and automatically analyzes the data. The resulting report details important configuration issues, potential problems, and nondefault product settings. By following these recommendations, you can achieve better performance, scalability, reliability, and uptime. For more information about the tool or to download the latest versions, see "Microsoft Exchange Analyzers" at <https://go.microsoft.com/fwlink/?linkid=34707>.\] <span> </span>
 
 _**Topic Last Modified:** 2011-11-02_
 

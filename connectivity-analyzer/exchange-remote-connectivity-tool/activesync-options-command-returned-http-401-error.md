@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # The ActiveSync OPTIONS command returned an HTTP 401 Error
 
@@ -59,7 +59,7 @@ The most common cause for this error is an incorrect username or password.  If 
 
 1.  Install the following hotfix on the Exchange 2003 server:  
       
-    [Event ID 1036 is logged on an Exchange 2007 server that is running the CAS role when mobile devices connect to the Exchange 2007 server to access mailboxes on an Exchange 2003 back-end server](http://go.microsoft.com/fwlink/p/?linkid=3052%26kbid=937031)
+    [Event ID 1036 is logged on an Exchange 2007 server that is running the CAS role when mobile devices connect to the Exchange 2007 server to access mailboxes on an Exchange 2003 back-end server](https://go.microsoft.com/fwlink/p/?linkid=3052%26kbid=937031)
 
 2.  Start Exchange System Manager on the Exchange 2003 Mailbox server.
 
@@ -98,7 +98,7 @@ The most common cause for this error is an incorrect username or password.  If 
     
     6.  Click **Cancel** two times, and then exit Internet Information Services (IIS) Manager.
 
-For more information, see step 7 under “Installing Exchange 2010” in the following TechNet topic: [Upgrade from Exchange 2003 Client Access](http://go.microsoft.com/fwlink/p/?linkid=280550)
+For more information, see step 7 under “Installing Exchange 2010” in the following TechNet topic: [Upgrade from Exchange 2003 Client Access](https://go.microsoft.com/fwlink/p/?linkid=280550)
 
 </div>
 

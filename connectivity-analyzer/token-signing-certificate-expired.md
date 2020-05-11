@@ -10,9 +10,9 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
 <div data-asp="https://msdn2.microsoft.com/asp">
 
@@ -44,9 +44,9 @@ The Remote Connectivity Analyzer displays a warning message if the authenticatio
 
 For more information about how to troubleeshoot this issue, see Microsoft Knowledge Base article 2383983, [A token-signing certificate has expired or was renewed for Office 365 Identity Federation](https://support.microsoft.com/kb/2383983).
 
-For more information planning for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/en-us/office365-enterprises/ff652540.aspx)
+For more information planning for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/office365-enterprises/ff652540.aspx)
 
-For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/en-us/exdeploy2010/default.aspx)
+For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx)
 
 </div>
 

@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Active Directory Federated Services (AD FS) HTTPS endpoint name could not be resolved
 
@@ -54,7 +54,7 @@ This message might indicate either of the following:
 
 ## Corrective Actions
 
-  - Use nslookup to verify that the Host (A) record exists on the DNS server. For more information, see [To verify A resource records exist in DNS](http://go.microsoft.com/fwlink/?linkid=63001)
+  - Use nslookup to verify that the Host (A) record exists on the DNS server. For more information, see [To verify A resource records exist in DNS](https://go.microsoft.com/fwlink/?linkid=63001)
 
   - If the Host (A) resource record does not exist or is incorrect, manually add or modify the host record. If your external DNS zone is hosted by a third-party provider, you may have to contact that company or use custom tools to make these DNS modifications.
 
@@ -62,9 +62,9 @@ This message might indicate either of the following:
 
 ## More Information
 
-For information about how to troubleshoot DNS, see [Troubleshooting DNS](http://go.microsoft.com/fwlink/?linkid=63003).
+For information about how to troubleshoot DNS, see [Troubleshooting DNS](https://go.microsoft.com/fwlink/?linkid=63003).
 
-Sometimes, you may have to verify the URL that is used for the AD FS endpoint for Office 365 identity federation. For a procedure to determine the value to which the endpoint is currently set, see the “More Information” section of [Internet Explorer cannot display the Microsoft Online Portal webpage when a federated user tries to sign in](http://support.microsoft.com/kb/2419389).
+Sometimes, you may have to verify the URL that is used for the AD FS endpoint for Office 365 identity federation. For a procedure to determine the value to which the endpoint is currently set, see the “More Information” section of [Internet Explorer cannot display the Microsoft Online Portal webpage when a federated user tries to sign in](https://support.microsoft.com/kb/2419389).
 
 </div>
 

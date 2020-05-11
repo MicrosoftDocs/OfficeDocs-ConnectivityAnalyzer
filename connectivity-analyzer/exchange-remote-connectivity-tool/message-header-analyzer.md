@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Message Header Analyzer
 
@@ -102,7 +102,7 @@ Although these versions of Outlook differ slightly, the process for viewing mess
 
 3.  In the **Properties** dialog box, locate the message headers in the **Internet headers** area.
 
-For more information, see [View e-mail message headers](http://office.microsoft.com/en-us/outlook-help/view-e-mail-message-headers-ha001230300.aspx)
+For more information, see [View e-mail message headers](https://office.microsoft.com/outlook-help/view-e-mail-message-headers-ha001230300.aspx)
 
 </div>
 
@@ -114,7 +114,7 @@ For more information, see [View e-mail message headers](http://office.microsoft.
 
   - **Exchange Server 2007 (OWA)**   Open the message, and then click the “Message Details" icon. In the **Message Details** dialog box, locate the message headers in the **Internet Mail Headers** area.
 
-  - **Exchange Server 2013 OWA**   Download the [Message Headers Analyzer](http://office.microsoft.com/en-us/store/message-header-analyzer-wa104005406.aspx?queryid=69795c55-fbb0-4a0d-8ec3-d779b421a7ea%26css=headers%26ctt=1) app from the Office app store.
+  - **Exchange Server 2013 OWA**   Download the [Message Headers Analyzer](https://office.microsoft.com/store/message-header-analyzer-wa104005406.aspx?queryid=69795c55-fbb0-4a0d-8ec3-d779b421a7ea%26css=headers%26ctt=1) app from the Office app store.
 
 </div>
 

@@ -10,9 +10,9 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
 <div data-asp="https://msdn2.microsoft.com/asp">
 
@@ -63,7 +63,7 @@ The following table lists the required prerequisites to run Microsoft Connectivi
 <div class="alert">
 
 > [!WARNING]
-> In order to run the Lync diagnostics, you must install the UCMA runtime 4.0. The Lync diagnostics will run on 64-bit operating systems only. You can download and install the UCMA runtime from the following <A href="https://www.microsoft.com/en-us/download/details.aspx?id=34992">link</A>.
+> In order to run the Lync diagnostics, you must install the UCMA runtime 4.0. The Lync diagnostics will run on 64-bit operating systems only. You can download and install the UCMA runtime from the following <A href="https://www.microsoft.com/download/details.aspx?id=34992">link</A>.
 
 </div></td>
 </tr>

@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # RPC over HTTP Connection is Not Allowed
 
@@ -46,9 +46,9 @@ If the command returns $true, then you must enable Outlook Anywhere for the Exch
 
 `Set-CASMailbox MailboxName -MAPIBlockOutlookRpcHTTP:$false  `
 
-For more information, see [When You Use Outlook With an Exchange 2007 Mailbox, You Cannot Connect to Exchange 2007, and You Receive an Error Message](http://go.microsoft.com/fwlink/?linkid=100100).
+For more information, see [When You Use Outlook With an Exchange 2007 Mailbox, You Cannot Connect to Exchange 2007, and You Receive an Error Message](https://go.microsoft.com/fwlink/?linkid=100100).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420) or contact [support](http://go.microsoft.com/fwlink/?linkid=8158).
+The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 
@@ -58,7 +58,7 @@ The Exchange Remote Connectivity Analyzer is a new tool with limited documentati
 
 #### Other Resources
 
-[Set-CASMailbox](http://technet.microsoft.com/en-us/library/bb125264.aspx)  
+[Set-CASMailbox](https://technet.microsoft.com/library/bb125264.aspx)  
   
 
 </div>

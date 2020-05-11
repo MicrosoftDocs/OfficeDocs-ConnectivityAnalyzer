@@ -10,11 +10,11 @@ localization_priority: Normal
 description: 
 ---
 
-<div data-xmlns="http://www.w3.org/1999/xhtml">
+<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Additional help resources for MCA
 
@@ -40,13 +40,13 @@ This topic provides additional resources about the Microsoft Connectivity Analyz
 
 Office 365 customers can find help on the following Office 365 websites:
 
-  - [Office 365 Help](http://onlinehelp.microsoft.com/en-us/office365-smallbusinesses/default.aspx)
+  - [Office 365 Help](https://onlinehelp.microsoft.com/office365-smallbusinesses/default.aspx)
 
-  - [Office 365 Do It Yourself (DIY) Troubleshooter – self-help technical support](http://community.office365.com/en-us/p/troubleshooting.aspx)
+  - [Office 365 Do It Yourself (DIY) Troubleshooter – self-help technical support](https://community.office365.com/p/troubleshooting.aspx)
 
-  - [Office 365 Community](http://community.office365.com/en-us/default.aspx)
+  - [Office 365 Community](https://community.office365.com/default.aspx)
 
-  - [Office 365 Forums](http://community.office365.com/en-us/forums/default.aspx)
+  - [Office 365 Forums](https://community.office365.com/forums/default.aspx)
 
 <div>
 
@@ -54,11 +54,11 @@ Office 365 customers can find help on the following Office 365 websites:
 
 If you are not an Office 365 customer, you can find help on the following Microsoft websites:
 
-  - [Outlook Help](http://office.microsoft.com/en-us/outlook-help)
+  - [Outlook Help](https://office.microsoft.com/outlook-help)
 
-  - [Fix it Solution Center](http://support.microsoft.com/fixit/)
+  - [Fix it Solution Center](https://support.microsoft.com/fixit/)
 
-  - [Microsoft Community](http://answers.microsoft.com/en-us?auth=1)
+  - [Microsoft Community](https://answers.microsoft.com/en-us?auth=1)
 
 </div>
 
@@ -68,13 +68,13 @@ If you are not an Office 365 customer, you can find help on the following Micros
 
 ## Other resources
 
-You can also obtain more information about the Remote Connectivity Analyzer at [Remote Connectivity Analyzer Forum](http://social.technet.microsoft.com/forums/en-us/exrca/threads).
+You can also obtain more information about the Remote Connectivity Analyzer at [Remote Connectivity Analyzer Forum](https://social.technet.microsoft.com/forums/exrca/threads).
 
 <div class="alert">
 
 
 > [!NOTE]
-> This forum is currently retired. However, posted threads from this forum remain available at <A href="http://social.technet.microsoft.com/forums/en-us/exchangesvr3rdpartyappslegacy">Exchange Previous Versions - Extended Components, Tools, and Utilities</A>.
+> This forum is currently retired. However, posted threads from this forum remain available at <A href="https://social.technet.microsoft.com/forums/exchangesvr3rdpartyappslegacy">Exchange Previous Versions - Extended Components, Tools, and Utilities</A>.
 
 
 </div>
