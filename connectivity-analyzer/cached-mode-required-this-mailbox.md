@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Cached Mode is Required for this Mailbox
 
@@ -70,9 +70,9 @@ If this command returns True, then you must connect to Exchange 2007 or Exchange
     
         Set-CasMailbox MailboxName -MapiBlockOutlookNonCachedMode:$false
 
-For more information, see Microsoft Knowledge Base article, "When you use Outlook with an Exchange 2007 mailbox, you cannot connect to Exchange 2007, and you receive an error message" ([http://go.microsoft.com/fwlink/?linkid=3052\&kbid=924625](http://go.microsoft.com/fwlink/?linkid=3052%26kbid=924625)).
+For more information, see Microsoft Knowledge Base article, "When you use Outlook with an Exchange 2007 mailbox, you cannot connect to Exchange 2007, and you receive an error message" ([https://go.microsoft.com/fwlink/?linkid=3052\&kbid=924625](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=924625)).
 
-For information about the Set-CasMailbox cmdlet, see [Set-CASMailbox](http://technet.microsoft.com/en-us/library/bb125264.aspx)
+For information about the Set-CasMailbox cmdlet, see [Set-CASMailbox](https://technet.microsoft.com/library/bb125264.aspx)
 
 </div>
 
