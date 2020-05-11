@@ -1,155 +1,155 @@
 - name: Exchange Remote Connectivity Analyzer Tool
-  href: dd439364(v=exchg.80).md
+  href: exchange-remote-connectivity-analyzer-tool.md
   items:
   - name: Microsoft Connectivity Analyzer Tool
-    href: jj851141(v=exchg.80).md
+    href: microsoft-connectivity-analyzer-tool.md
   - name: RPC Server Unavailable Error was Thrown by the RPC Runtime
-    href: dd439392(v=exchg.80).md
+    href: rpc-server-unavailable-error-thrown-rpc-runtime.md
   - name: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
-    href: dd439384(v=exchg.80).md
+    href: could-not-find-ms-server-activesync-header-options-response.md
   - name: Could Not Negotiate an Appropriate Airsync Version with Server
-    href: dd439385(v=exchg.80).md
+    href: could-not-negotiate-appropriate-airsync-version-with-server.md
   - name: An Unexpected Redirect Response was Received
-    href: dd439362(v=exchg.80).md
+    href: an-unexpected-redirect-response-received.md
   - name: A Positive HTTP Response Other than a Redirect Response was Received
-    href: dd439380(v=exchg.80).md
+    href: positive-http-response-other-than-redirect-response-received.md
   - name: Could Not Find Autodiscover Service Location (SRV) Record in DNS
-    href: dd439398(v=exchg.80).md
+    href: could-not-find-autodiscover-service-location-srv-record-dns.md
   - name: The MobileSync Autodiscover Provider Returned an Error Status in the XML Response
-    href: dd439376(v=exchg.80).md
+    href: mobilesync-autodiscover-provider-returned-error-status-xml-response.md
   - name: The Outlook Autodiscover Provider Returned an Error Status in the XML Response
-    href: dd439388(v=exchg.80).md
+    href: outlook-autodiscover-provider-returned-error-status-xml-response.md
   - name: Missing EXPR Element in Autodiscover XML Response
-    href: dd439390(v=exchg.80).md
+    href: missing-expr-element-autodiscover-xml-response.md
   - name: Missing AuthPackage Element in Autodiscover XML Response
-    href: dd439374(v=exchg.80).md
+    href: missing-authpackage-element-autodiscover-xml-response.md
   - name: Anonymous Authentication Enabled for Virtual Directory
-    href: dd439395(v=exchg.80).md
+    href: exchange/anonymous-authentication-enabled-virtual-directory.md
   - name: No Supported Authentication Methods Found in Response
-    href: dd439397(v=exchg.80).md
+    href: no-supported-authentication-methods-found-response.md
   - name: An Unsupported Authentication Method was Found
-    href: dd439361(v=exchg.80).md
+    href: an-unsupported-authentication-method-found.md
   - name: All Required Authentication Methods Could Not be Found
-    href: dd439378(v=exchg.80).md
+    href: all-required-authentication-methods-could-not-be-found.md
   - name: The Host Name Could Not be Resolved in DNS
-    href: dd439368(v=exchg.80).md
+    href: host-name-could-not-be-resolved-dns.md
   - name: SSL Certificate Name Mismatch
-    href: dd439393(v=exchg.80).md
+    href: ssl-certificate-name-mismatch.md
   - name: SSL Certificate Trust Failure
-    href: dd439394(v=exchg.80).md
+    href: ssl-certificate-trust-failure.md
   - name: Expected Service Banner was not Received when Connecting
-    href: dd439389(v=exchg.80).md
+    href: expected-service-banner-not-received-when-connecting.md
   - name: A Network Error Occurred while Communicating with Remote Host
-    href: dd439386(v=exchg.80).md
+    href: network-error-occurred-while-communicating-with-remote-host.md
   - name: Name Could Not be Matched to a Name in the Address List
-    href: dd439366(v=exchg.80).md
+    href: name-could-not-be-matched-name-address-list.md
   - name: Mutual Authentication Could Not be Established
-    href: dd439371(v=exchg.80).md
+    href: mutual-authentication-could-not-be-established.md
   - name: RPC Encryption Required
-    href: dd439391(v=exchg.80).md
+    href: rpc-encryption-required.md
   - name: The Client and Server Versions are Not Compatible
-    href: dd439379(v=exchg.80).md
+    href: client-and-server-versions-are-not-compatible.md
   - name: Cached Mode is Required for this Mailbox
-    href: dd439383(v=exchg.80).md
+    href: cached-mode-required-this-mailbox.md
   - name: RPC over HTTP Connection is Not Allowed
-    href: dd439367(v=exchg.80).md
+    href: rpc-over-http-connection-not-allowed.md
   - name: MAPI Connections are Not Allowed
-    href: dd439370(v=exchg.80).md
+    href: mapi-connections-are-not-allowed.md
   - name: No MX Records were Found for the Specified SMTP Domain
-    href: dd439363(v=exchg.80).md
+    href: no-mx-records-were-found-specified-smtp-domain.md
   - name: Open Relay Detected
-    href: dd439381(v=exchg.80).md
+    href: open-relay-detected.md
   - name: An HTTP 403 was Received Because ISA Denied the Specified URL
-    href: dd439387(v=exchg.80).md
+    href: an-http-403-received-because-is-denied-specified-url.md
   - name: An HTTP 403.4 was Returned Because SSL was Required on the Virtual Directory
-    href: dd439365(v=exchg.80).md
+    href: an-http-403-4-returned-because-ssl-required-virtual-directory.md
   - name: An HTTP 500 was Returned to ISA Because the Certificate on the Published Server Doesn't Match the Name in the Publishing Rule
-    href: dd439382(v=exchg.80).md
+    href: an-http-500-returned-is-because-certificate-published-server-doesn-t-match-name-publishing-rule.md
   - name: Access is Denied Error was Thrown by the RPC Runtime
-    href: dd439373(v=exchg.80).md
+    href: access-denied-error-thrown-rpc-runtime.md
   - name: Exchange ActiveSync Returned an HTTP 500 Error
-    href: dd439375(v=exchg.80).md
+    href: exchange-activesync-returned-http-500-error.md
   - name: Exchange ActiveSync Returned an HTTP 451 Error
-    href: dd439372(v=exchg.80).md
+    href: exchange-activesync-returned-http-451-error.md
   - name: ActiveSync ExternalUrl is Not in the Expected Format
-    href: dd439369(v=exchg.80).md
+    href: activesync-externalurl-not-expected-format.md
   - name: Windows Mobile Root Certificates
-    href: ee410525(v=exchg.80).md
+    href: windows-mobile-root-certificates.md
   - name: Missing Intermediate Certificates in Chain
-    href: ee410524(v=exchg.80).md
+    href: missing-intermediate-certificates-chain.md
   - name: The Act As Account Does Not Have Permissions to Create Items in this Folder
-    href: ee410527(v=exchg.80).md
+    href: act-as-account-does-not-have-permissions-create-items-this-folder.md
   - name: The Act As Account May Not Have Permission to Delete Items in this Folder
-    href: ee410522(v=exchg.80).md
+    href: act-as-account-may-not-have-permission-delete-items-this-folder.md
   - name: The Act As Account May Not Have Permissions to Access this Folder
-    href: ee410521(v=exchg.80).md
+    href: act-as-account-may-not-have-permissions-access-this-folder.md
   - name: The Service Account Specified Does Not Have Impersonation Rights on Client Access Server
-    href: ee410526(v=exchg.80).md
+    href: service-account-specified-does-not-have-impersonation-rights-client-access-server.md
   - name: The Service Account Specified Does Not Have Impersonation Rights on the Act As Account Specified
-    href: ee410523(v=exchg.80).md
+    href: service-account-specified-does-not-have-impersonation-rights-act-as-account-specified.md
   - name: Invalid XML Response Unable to Retrieve Availability or OOF Settings
-    href: ee410520(v=exchg.80).md
+    href: invalid-xml-response-unable-retrieve-availability-oof-settings.md
   - name: IP Address does not have a PTR record in DNS
-    href: ff796197(v=exchg.80).md
+    href: ip-address-does-not-have-ptr-record-dns.md
   - name: IP Address Found on RBL
-    href: ff796198(v=exchg.80).md
+    href: ip-address-found-rbl.md
   - name: Name Space is not Federated
-    href: hh241328(v=exchg.80).md
+    href: name-space-not-federated.md
   - name: The domain is a federated domain but the user <User>@contoso.com is not known by Office 365
-    href: hh241332(v=exchg.80).md
+    href: domain-federated-domain-but-user-user-contoso-com-not-known-office-365.md
   - name: Active Directory Federated Services (AD FS) HTTPS endpoint name could not be resolved
-    href: hh241336(v=exchg.80).md
+    href: active-directory-federated-services-ad-fs-https-endpoint-name-could-not-be-resolved.md
   - name: Active Directory Federated Services (AD FS) server is down or unreachable
-    href: hh241329(v=exchg.80).md
+    href: active-directory-federated-services-ad-fs-server-down-unreachable.md
   - name: ADFS SSL Certificate Name Mismatch
-    href: hh241335(v=exchg.80).md
+    href: adfs-ssl-certificate-name-mismatch.md
   - name: ADFS SSL Certificate Trust
-    href: hh241330(v=exchg.80).md
+    href: adfs-ssl-certificate-trust.md
   - name: ADFS SSL Certificate Expired
-    href: hh241338(v=exchg.80).md
+    href: adfs-ssl-certificate-expired.md
   - name: Token Signing Certificate Expired
-    href: hh241334(v=exchg.80).md
+    href: token-signing-certificate-expired.md
   - name: ADFS token not accepted by Authentication Platform (for later version of RCA)
-    href: hh241331(v=exchg.80).md
+    href: adfs-token-not-accepted-authentication-platform-later-version-rc.md
   - name: Unknown Username or bad password
-    href: hh241339(v=exchg.80).md
+    href: unknown-username-bad-password.md
   - name: General issues that may occur for one or all users
-    href: hh241337(v=exchg.80).md
+    href: general-issues-that-may-occur-one-all-users.md
   - name: UPN issues when authenticating
-    href: hh241340(v=exchg.80).md
+    href: upn-issues-when-authenticating.md
   - name: You must uninstall all interim updates before you install Exchange Server 2010 Service Pack 2
-    href: hh696885(v=exchg.80).md
+    href: must-uninstall-all-interim-updates-before-install-exchange-server-2010-service-pack-2.md
   - name: Missing EXCH Element in Autodiscover XML Response
-    href: hh849186(v=exchg.80).md
+    href: missing-exch-element-autodiscover-xml-response.md
   - name: Mutual Authentication Established by Subject Alternative Name
-    href: hh849187(v=exchg.80).md
+    href: mutual-authentication-established-subject-alternative-name.md
   - name: Error with System Time
-    href: jj710174(v=exchg.80).md
+    href: error-with-system-time.md
   - name: Firewall Pre-Authentication Check
-    href: jj710173(v=exchg.80).md
+    href: firewall-pre-authentication-check.md
   - name: EWS Endpoint Directed to On-Premises Legacy Server
-    href: jj710172(v=exchg.80).md
+    href: ews-endpoint-directed-premises-legacy-server.md
   - name: 'Error when you run the Exchange Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"'
-    href: jj863254(v=exchg.80).md
+    href: error-when-run-exchange-remote-connectivity-analyzer-tool-test-connectivity-office-365-to-authenticate-office-365-must-enter-your-microsoft-account.md
   - name: The user name provided could not be matched to a name in the email server's address list
-    href: jj863252(v=exchg.80).md
+    href: user-name-provided-could-not-be-matched-name-email-server-address-list.md
   - name: The email server is not available
-    href: jj863253(v=exchg.80).md
+    href: email-server-not-available.md
   - name: "MCA test: I can't log on with Office Outlook"
-    href: jj863256(v=exchg.80).md
+    href: mc-test-can-t-log-with-office-outlook.md
   - name: "MCA test: I can't send or receive email on my mobile device"
-    href: jj863255(v=exchg.80).md
+    href: mc-test-can-t-send-receive-email-my-mobile-device.md
   - name: Additional help resources for MCA
-    href: jj863251(v=exchg.80).md
+    href: additional-help-resources-mca.md
   - name: The ActiveSync OPTIONS command returned an HTTP 401 Error
-    href: jj715719(v=exchg.80).md
+    href: activesync-options-command-returned-http-401-error.md
   - name: Exchange ActiveSync Returned an HTTP 503 Error
-    href: jj983722(v=exchg.80).md
+    href: exchange-activesync-returned-http-503-error.md
   - name: "MCA test: I can't view the free/busy information of another user"
-    href: dn127039(v=exchg.80).md
+    href: mc-test-can-t-view-free-busy-information-another-user.md
   - name: "MCA test: I can't send or receive email from Outlook (Office 365 only)"
-    href: dn127040(v=exchg.80).md
+    href: mc-test-can-t-send-receive-email-from-outlook-office-365-only.md
   - name: "MCA test: I can't log on to Lync on my mobile device or the Lync Windows Store App"
-    href: dn127041(v=exchg.80).md
+    href: mc-test-can-t-log-lync-my-mobile-device-lync-windows-store-app.md
   - name: Message Header Analyzer
-    href: dn133083(v=exchg.80).md
+    href: message-header-analyzer.md
