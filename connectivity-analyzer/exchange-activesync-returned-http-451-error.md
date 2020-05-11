@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Exchange ActiveSync Returned an HTTP 451 Error
 
@@ -40,13 +40,13 @@ Exchange 2007 returns an HTTP 451 response to an Exchange ActiveSync client when
 
 If the user mailbox being tested is not in the same Active Directory site as the Client Access server that is being accessed, there may be a Client Access server in the site with the mailbox server that has the ExternalUrl property set. If you are attempting to configure ActiveSync to proxy from an Internet-facing site to a second site (Intranet), ensure that the ExternalUrl property is not set on the Microsoft-Server-ActiveSync virtual directory in the Intranet site.
 
-For more information about configuring Client Access servers for Proxy and Redirection, see [Understanding Proxying and Redirection](http://go.microsoft.com/fwlink/?linkid=105411).
+For more information about configuring Client Access servers for Proxy and Redirection, see [Understanding Proxying and Redirection](https://go.microsoft.com/fwlink/?linkid=105411).
 
 If you have multiple Client Access servers in the same Active Directory site as the Client Access servers being tested, ensure that the ExternalUrl parameter is populated on each of the Microsoft-Server-ActiveSync virtual directories. If the ExternalUrl property is missing on the Client Access server being tested, then this error can occur.
 
-For more information about setting the ExternalUrl attribute on the ActiveSync virtual directory, see [Set-ActiveSyncVirtualDirectory](http://go.microsoft.com/fwlink/?linkid=161796).
+For more information about setting the ExternalUrl attribute on the ActiveSync virtual directory, see [Set-ActiveSyncVirtualDirectory](https://go.microsoft.com/fwlink/?linkid=161796).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420) or contact [support](http://go.microsoft.com/fwlink/?linkid=8158).
+The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 
