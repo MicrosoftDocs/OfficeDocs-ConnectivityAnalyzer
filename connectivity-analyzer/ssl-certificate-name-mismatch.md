@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2011-06-13_
 
-The Microsoft Analyzer tool queries the Server Certificate object in the Exchange Server system to retrieve various properties on X509 certificates. For each Secure Sockets Layer (SSL) certificate found, the Remote Connectivity Analyzer tool evaluates the fully qualified domain name (FQDN) that was assigned to the certificate. For example, the tool evaluates www.microsoft.com.
+The Microsoft Analyzer tool queries the Server Certificate object in the Exchange Server system to retrieve various properties on X509 certificates. For each Secure Sockets Layer (SSL) certificate found, the Remote Connectivity Analyzer tool evaluates the fully qualified domain name (FQDN) that was assigned to the certificate. For example, the tool evaluates https://www.microsoft.com.
 
 The Exchange Remote Connectivity Analyzer displays the following warning when the FDQN does not match the host address or URL that the client uses to make a connection with the server:
 
