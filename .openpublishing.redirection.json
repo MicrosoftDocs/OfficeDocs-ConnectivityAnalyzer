@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "connectivity-analyzer/index.md",
+      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analzyer",
+      "redirect_document_id": true
+    },
+  ]
+}
