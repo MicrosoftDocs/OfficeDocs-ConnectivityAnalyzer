@@ -54,9 +54,9 @@ You can safely ignore this warning message.
 
 For more information about how to resolve this issue, see Microsoft Knowledge Base article 2523192, [The user principal names (UPN), email addresses, or proxy addresses of users contain an Office 365 domain after synchronization](https://support.microsoft.com/kb/2523192)
 
-For more information planning for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/en-us/office365-enterprises/ff652540.aspx)
+For more information planning for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/office365-enterprises/ff652540.aspx)
 
-For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/en-us/exdeploy2010/default.aspx)
+For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx)
 
 </div>
 
