@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Missing EXCH Element in Autodiscover XML Response
 
@@ -56,7 +56,7 @@ If the command returns $false, you must enable MAPI for the mailbox or select an
 
     Set-CASMailbox MailboxName -MapiEnabled:$true
 
-The Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your efforts failed at this point. If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](http://go.microsoft.com/fwlink/?linkid=73420), or contact [support](http://go.microsoft.com/fwlink/?linkid=8158).
+The Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your efforts failed at this point. If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420), or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 
@@ -66,12 +66,12 @@ The Remote Connectivity Analyzer is a new tool that has limited documentation at
 
 #### Concepts
 
-[Missing EXPR Element in Autodiscover XML Response](dd439390\(v=exchg.80\).md)  
-[MAPI Connections are Not Allowed](dd439370\(v=exchg.80\).md)  
+[Missing EXPR Element in Autodiscover XML Response](missing-expr-element-autodiscover-xml-response.md)  
+[MAPI Connections are Not Allowed](mapi-connections-are-not-allowed.md)  
 
 #### Other Resources
 
-[Set-CasMailbox](http://technet.microsoft.com/en-us/library/bb125264.aspx)  
+[Set-CasMailbox](https://technet.microsoft.com/library/bb125264.aspx)  
   
 
 </div>
