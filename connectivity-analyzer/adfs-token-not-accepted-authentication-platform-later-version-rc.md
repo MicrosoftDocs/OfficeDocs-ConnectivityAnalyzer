@@ -12,9 +12,9 @@ description:
 
 <div data-xmlns="http://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="http://msdn.microsoft.com/en-us/">
+<div class="topic" data-xmlns="http://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
-<div data-asp="http://msdn2.microsoft.com/asp">
+<div data-asp="https://msdn2.microsoft.com/asp">
 
 # ADFS token not accepted by Authentication Platform (for later version of RCA)
 
@@ -38,9 +38,9 @@ The Remote Connectivity Analyzer displays a warning when the authorization fails
 
 ## More Information
 
-For more information about how to troubleshoot this issue, see Microsoft Knowledge Base article 2521057, [How to reestablish trust with the Microsoft Online Services ID service after the AD FS 2.0 server stops responding](http://support.microsoft.com/kb/2521057)
+For more information about how to troubleshoot this issue, see Microsoft Knowledge Base article 2521057, [How to reestablish trust with the Microsoft Online Services ID service after the AD FS 2.0 server stops responding](https://support.microsoft.com/kb/2521057)
 
-For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](http://technet.microsoft.com/en-us/exdeploy2010/default.aspx)
+For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx)
 
 </div>
 
