@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-11-18_
 
-The Microsoft Exchange Analyzer tool attempts to make a TCP connection to the host provided during the test. If the Exchange Remote Connectivity Analyzer tool is unable to establish a TCP connection over port 80 and port 443 with the host, then it displays the following error message.
+The Microsoft Remote Connectivity Analyzer attempts to make a TCP connection to the host provided during the test. If the Microsoft Remote Connectivity Analyzer tool is unable to establish a TCP connection over port 80 and port 443 with the host, then it displays the following error message.
 
 "A network connection error occurred while communicating with the remote host: '0'"
 
@@ -60,7 +60,7 @@ Connection failures of this type are commonly caused by the following:
 
 4.  Use Network Monitor to capture network traffic to troubleshoot your issue. For more information, see Microsoft Knowledge Base article "Information about Network Monitor 3.2 in Windows Vista" ([https://go.microsoft.com/fwlink/?LinkId=3052\&kbid=955998](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=955998)).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

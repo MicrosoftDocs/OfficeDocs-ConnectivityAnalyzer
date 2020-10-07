@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2012-02-07_
 
-The Microsoft Exchange Remote Connectivity Analyzer Tool queries the HTTP response from the Autodiscover service to determine the attributes that are contained in the XML within that response. The following Microsoft Office Outlook providers and their attributes are commonly found in the XML.
+The Microsoft Remote Connectivity Analyzer Tool queries the HTTP response from the Autodiscover service to determine the attributes that are contained in the XML within that response. The following Microsoft Office Outlook providers and their attributes are commonly found in the XML.
 
   - **EXCH Provider**  
     The connection settings and Exchange services URLs that are used when Outlook connects by using RPC over TCP

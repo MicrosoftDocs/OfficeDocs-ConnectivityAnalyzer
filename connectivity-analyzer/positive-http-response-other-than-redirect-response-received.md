@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-08-17_
 
-The Microsoft Exchange Analyzer Tool sends an HTTP request to the Client Access Server when attempting to contact Autodiscover via the HTTP redirect method. During this test, the only acceptable type of response is an HTTP redirection; any other status code indicates a problem. An expected redirect response would be a status code of 301, 302, or 307. When any other response is received, the Exchange Remote Connectivity Analyzer reports the following error:
+The Microsoft Remote Connectivity Analyzer sends an HTTP request to the Client Access Server when attempting to contact Autodiscover via the HTTP redirect method. During this test, the only acceptable type of response is an HTTP redirection; any other status code indicates a problem. An expected redirect response would be a status code of 301, 302, or 307. When any other response is received, the Microsoft Remote Connectivity Analyzer reports the following error:
 
 "A positive HTTP response other than a redirect response was received."
 

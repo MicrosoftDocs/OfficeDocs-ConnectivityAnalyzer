@@ -28,11 +28,11 @@ description:
 
 _**Topic Last Modified:** 2009-09-01_
 
-The Microsoft Exchange Analyzer Tool queries the Server Certificate object in the Exchange Server system to retrieve various properties on X509 certificates. In order for the Exchange Remote Connectivity Analyzer to validate a given X509 certificate, it must trust the root Certificate Authority (CA) that issued the certificate. If the Exchange Remote Connectivity Analyzer is unable to follow the certificate chain to the trusted root, then it displays the following error.
+The Microsoft Remote Connectivity Analyzer queries the Server Certificate object in the Exchange Server system to retrieve various properties on X509 certificates. In order for the Microsoft Remote Connectivity Analyzer to validate a given X509 certificate, it must trust the root Certificate Authority (CA) that issued the certificate. If the Microsoft Remote Connectivity Analyzer is unable to follow the certificate chain to the trusted root, then it displays the following error.
 
 "The security certificate on the server is not valid. Support code: 0x80072f0d."
 
-This issue typically occurs when the Web server certificate on the Exchange 2007 Client Access server is a self-signed certificate or one created using a private or internal PKI. If you are using a self-signed or a certificate from an internal PKI, then you must install the root certificate on the mobile device. If you have already done this step, then you can choose the "Ignore Trust for SSL" option in the Exchange Remote Connectivity Analyzer to bypass this check.
+This issue typically occurs when the Web server certificate on the Exchange 2007 Client Access server is a self-signed certificate or one created using a private or internal PKI. If you are using a self-signed or a certificate from an internal PKI, then you must install the root certificate on the mobile device. If you have already done this step, then you can choose the "Ignore Trust for SSL" option in the Microsoft Remote Connectivity Analyzer to bypass this check.
 
 This issue can also occur when the certificate chain of your certificate does not end in a root certificate that is trusted on your version of Windows Mobile.
 
@@ -183,7 +183,7 @@ To learn more about certificates and validation, see to the following topics.
 
   - For more information about installing digital root certificates on mobile devices, see [How to Install Root Certification Authority Certificates on a Windows Mobile-based Device](https://go.microsoft.com/fwlink/?linkid=161942).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

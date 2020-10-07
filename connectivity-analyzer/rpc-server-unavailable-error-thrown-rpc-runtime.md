@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2010-08-20_
 
-The Microsoft Exchange Best Practices Analyzer Tool issues an RPCPing to several Exchange Server endpoints to simulate the connections that are made when a Microsoft Outlook client connects to Microsoft Exchange Server 2007 Outlook Anywhere or to Microsoft Exchange Server 2003 RPC over HTTP. To connect, the client must be able to successfully connect to the HTTP endpoints of the Microsoft Exchange Information Store, the referral service of DSProxy within the Exchange System Attendant service, and to the DSProxy service within the Exchange System Attendant service over ports 6001, 6002, and 6004, respectively. If the test fails, the Exchange Remote Connectivity Analyzer generates the following error:
+The Microsoft Remote Connectivity Analyzer issues an RPCPing to several Exchange Server endpoints to simulate the connections that are made when a Microsoft Outlook client connects to Microsoft Exchange Server 2007 Outlook Anywhere or to Microsoft Exchange Server 2003 RPC over HTTP. To connect, the client must be able to successfully connect to the HTTP endpoints of the Microsoft Exchange Information Store, the referral service of DSProxy within the Exchange System Attendant service, and to the DSProxy service within the Exchange System Attendant service over ports 6001, 6002, and 6004, respectively. If the test fails, the Microsoft Remote Connectivity Analyzer generates the following error:
 
 "RPC Server Unavailable error (1722) was thrown by the RPC Runtime"
 
@@ -79,7 +79,7 @@ To resolve this issue, do the following:
 
   - To review another option to solve the Outlook Anywhere connectivity issue with Exchange 2007 SP1 on Windows Server 2008, see [Outlook Anywhere Client Connectivity Issue Because of TCP/IPv6](https://go.microsoft.com/fwlink/?linkid=161821).
 
-The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional information about why you failed at this point. If you require technical assistance, create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional information about why you failed at this point. If you require technical assistance, create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

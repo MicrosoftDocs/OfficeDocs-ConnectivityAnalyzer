@@ -30,7 +30,7 @@ _**Topic Last Modified:** 2011-06-13_
 
 The Microsoft Analyzer tool queries the Server Certificate object in the Exchange Server system to retrieve various properties on X509 certificates. For each Secure Sockets Layer (SSL) certificate found, the Remote Connectivity Analyzer tool evaluates the fully qualified domain name (FQDN) that was assigned to the certificate. For example, the tool evaluates https://www.microsoft.com.
 
-The Exchange Remote Connectivity Analyzer displays the following warning when the FDQN does not match the host address or URL that the client uses to make a connection with the server:
+The Microsoft Remote Connectivity Analyzer displays the following warning when the FDQN does not match the host address or URL that the client uses to make a connection with the server:
 
 
 <table>
@@ -90,7 +90,7 @@ The Remote Connectivity Analyzer also displays the certificate warning if the FD
 
   - For more information about how to use SSL with Exchange 2007 Client Access servers, see [White Paper: Exchange 2007 Client Access and SSL](https://go.microsoft.com/fwlink/?linkid=161943).
 
-The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your effort failed at this point. If you require technical assistance, please create a post in the appropriate forum at [Remote Connectivity Analyzer](https://go.microsoft.com/fwlink/?linkid=73420) or contact Microsoft Product Support Services at [Fix a Technical Problem](https://go.microsoft.com/fwlink/?linkid=8158).
+Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your effort failed at this point. If you require technical assistance, please create a post in the appropriate forum at [Remote Connectivity Analyzer](https://go.microsoft.com/fwlink/?linkid=73420) or contact Microsoft Product Support Services at [Fix a Technical Problem](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2012-02-07_
 
-The Microsoft Exchange Remote Connectivity Analyzer tool negotiates a Secure Sockets Layer (SSL) connection together with the remote host to retrieve various properties on X509 certificates. The tool evaluates the Subject attribute and Subject Alternative Name extension to identify the principal names that are assigned to the certificate (for example, mail.contoso.com).
+The Microsoft Remote Connectivity Analyzer tool negotiates a Secure Sockets Layer (SSL) connection together with the remote host to retrieve various properties on X509 certificates. The tool evaluates the Subject attribute and Subject Alternative Name extension to identify the principal names that are assigned to the certificate (for example, mail.contoso.com).
 
 If the certificate Common Name does not match the Mutual Authentication (msstd:) string that is obtained by the Remote Connectivity Analyzer when it tests Microsoft Outlook Anywhere functionality, but one of the Subject Alternative Name extensions does match the Mutual Authentication string, the tool displays the following error message:
 
@@ -60,7 +60,7 @@ If you plan to support only clients that run Windows Vista Service Pack 1 and ne
     
       - [The Autodiscover Service and Outlook Providers - how does this stuff work?](https://go.microsoft.com/fwlink/?linkid=161811)
 
-The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your efforts failed at this point.  If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your efforts failed at this point.  If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

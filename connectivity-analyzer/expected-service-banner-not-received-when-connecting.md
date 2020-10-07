@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-08-18_
 
-The Microsoft Exchange Analyzer tool attempts to connect to the Exchange SMTP server. Upon a successful connection, an SMTP Banner is returned from the SMTP server. If this banner is never returned due to a timeout or other issue, then the following message is displayed.
+The Microsoft Remote Connectivity Analyzer attempts to connect to the Exchange SMTP server. Upon a successful connection, an SMTP Banner is returned from the SMTP server. If this banner is never returned due to a timeout or other issue, then the following message is displayed.
 
 "Expected Service Banner was not received when connecting."
 
@@ -42,7 +42,7 @@ If you are using a mail-relay or SMTP filter (available on many firewall product
 
   - For Exchange Server 2003, the process name should be inetinfo.exe. For Exchange Server 2007, the process name should be edgetransport.exe.
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

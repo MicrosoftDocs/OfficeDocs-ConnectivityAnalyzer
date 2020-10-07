@@ -30,7 +30,7 @@ _**Topic Last Modified:** 2011-06-06_
 
 <div id="sectionSection0" class="section">
 
-The Microsoft Exchange Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to simulate the authentication process that a client uses to authenticate by using identity federation. Occasionally, a Outlook client or a Microsoft Internet Explorer connection fails because of an expired Token Signing certificate.
+The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to simulate the authentication process that a client uses to authenticate by using identity federation. Occasionally, a Outlook client or a Microsoft Internet Explorer connection fails because of an expired Token Signing certificate.
 
 When this issue occurs you will see an error similar to the following if you were using the Passive authentication type (Internet Explorer)
 

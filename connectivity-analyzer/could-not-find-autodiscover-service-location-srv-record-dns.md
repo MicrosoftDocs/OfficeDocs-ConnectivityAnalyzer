@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-08-18_
 
-The Microsoft Exchange Analyzer Tool queries DNS to determine whether there are any Service Location (SRV) records for Autodiscover. This DNS Service Location Record query is in the format "\_autodiscover.\_tcp.\<smtpDomain\>" where \<smtpDomain\> is the right-hand side of the user's primary SMTP address. If the Exchange Remote Connectivity Analyzer is unable to locate any SRV records for Autodiscover in that namespace, then the following error is displayed:
+The Microsoft Remote Connectivity Analyzer queries DNS to determine whether there are any Service Location (SRV) records for Autodiscover. This DNS Service Location Record query is in the format "\_autodiscover.\_tcp.\<smtpDomain\>" where \<smtpDomain\> is the right-hand side of the user's primary SMTP address. If the Microsoft Remote Connectivity Analyzer is unable to locate any SRV records for Autodiscover in that namespace, then the following error is displayed:
 
 "Failed to find Autodiscover SRV record in DNS."
 
@@ -61,7 +61,7 @@ The following resources should be consulted before deciding how to configure Aut
 
   - For more information about enabling Outlook 2007 to use SRV records to locate Autodiscover, see Microsoft Knowledge Base article, "A new feature is available that enables Outlook 2007 to use DNS Service Location (SRV) records to locate the Exchange Autodiscover service" ([https://go.microsoft.com/fwlink/?LinkId=3052\&kbid=940881](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=940881)).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

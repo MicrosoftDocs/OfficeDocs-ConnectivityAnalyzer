@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2011-11-02_
 
-The Microsoft Exchange Best Practices Analyzer Tool checks whether a Microsoft Exchange Server 2010 interim update (IU) is installed on the computer that is running Exchange 2010. If an IU is installed, Microsoft Exchange Server 2010 Service Pack 2 (SP2) cannot be installed.
+The Microsoft Remote Connectivity Analyzer checks whether a Microsoft Exchange Server 2010 interim update (IU) is installed on the computer that is running Exchange 2010. If an IU is installed, Microsoft Exchange Server 2010 Service Pack 2 (SP2) cannot be installed.
 
 To install Exchange 2010 SP2, you must uninstall the IU. After the IU is uninstalled, install Exchange 2010 SP2.
 

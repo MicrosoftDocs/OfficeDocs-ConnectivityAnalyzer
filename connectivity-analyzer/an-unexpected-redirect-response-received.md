@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-08-18_
 
-The Microsoft Exchange Analyzer Tool sends an HTTP request to the Exchange Server to verify that it can successfully connect to features including Outlook Web Access, Exchange ActiveSync, and Outlook Anywhere. A successful response should appear as an HTTP 200 (or 207). When the Exchange Remote Connectivity Analyzer receives a redirect response (that is, 301, 302, 302) instead of a 200 or 207, it displays the following error message.
+The Microsoft Remote Connectivity Analyzer sends an HTTP request to the Exchange Server to verify that it can successfully connect to features including Outlook Web Access, Exchange ActiveSync, and Outlook Anywhere. A successful response should appear as an HTTP 200 (or 207). When the Microsoft Remote Connectivity Analyzer receives a redirect response (that is, 301, 302, 302) instead of a 200 or 207, it displays the following error message.
 
 "An unexpected Redirect Response was received."
 
@@ -42,7 +42,7 @@ This error message indicates that you have an HTTP redirect configured in IIS fo
 
   - For more information about configuring redirection for Autodiscover, see [White Paper: Exchange 2007 Autodiscover Service](https://go.microsoft.com/fwlink/?linkid=85214).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

@@ -30,7 +30,7 @@ _**Topic Last Modified:** 2011-06-06_
 
 <div id="sectionSection0" class="section">
 
-The Microsoft Exchange Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to simulate the token retrieval process from the on-premise ADFS server. To perform the test, you must type the correct username and password so that the tool retrieves the token correctly on behalf of the user.
+The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to simulate the token retrieval process from the on-premise ADFS server. To perform the test, you must type the correct username and password so that the tool retrieves the token correctly on behalf of the user.
 
 The Remote Connectivity Analyzer displays the following warning message if the user is not authenticated correctly:
 

@@ -1,5 +1,5 @@
 ---
-title: 'Error when you run the Exchange Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"'
+title: 'Error when you run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"'
 author: bradhugh
 ms.author: bradhugh
 manager: tpolitis
@@ -16,7 +16,7 @@ description:
 
 <div data-asp="https://msdn2.microsoft.com/asp">
 
-# Error when you run the Exchange Remote Connectivity Analyzer tool to test connectivity to Office 365: \"To authenticate to Office 365, you must enter your Microsoft account\"
+# Error when you run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Office 365: \"To authenticate to Office 365, you must enter your Microsoft account\"
 
 </div>
 
@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2012-11-06_
 
-If an issue occurs when you try to run the Microsoft Exchange Remote Connectivity Analyzer tool to test connectivity to Microsoft Office 365, you may receive the following error message: To authenticate to Office 365, you must enter your Microsoft account. This is your User Principal Name and in many cases will be something like user@contoso.com.
+If an issue occurs when you try to run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Microsoft Office 365, you may receive the following error message: To authenticate to Office 365, you must enter your Microsoft account. This is your User Principal Name and in many cases will be something like user@contoso.com.
 
 The following sections can help you to resolve this issue.
 
@@ -36,7 +36,7 @@ The following sections can help you to resolve this issue.
 
 ## Information for end-users
 
-Office 365 customers who experience issues when they run the Microsoft Exchange Remote Connectivity Analyzer tool can use the information in the following table to help resolve the issue.
+Office 365 customers who experience issues when they run the Microsoft Remote Connectivity Analyzer tool can use the information in the following table to help resolve the issue.
 
 
 <table>
@@ -82,7 +82,7 @@ Office 365 customers who experience issues when they run the Microsoft Exchange 
 
 ## Information for administrators
 
-Office 365 customers who experience issues when they run the Microsoft Exchange Remote Connectivity Analyzer tool can use the information in the following table to help resolve the issue.
+Office 365 customers who experience issues when they run the Microsoft Remote Connectivity Analyzer tool can use the information in the following table to help resolve the issue.
 
 
 <table>

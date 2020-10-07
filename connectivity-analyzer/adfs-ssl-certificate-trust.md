@@ -30,7 +30,7 @@ _**Topic Last Modified:** 2011-06-06_
 
 <div id="sectionSection0" class="section">
 
-The Microsoft Exchange Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to perform a realm discovery. When that process is finished, the Authentication Platform passes to the requesting client the ADFS endpoint URL that the client requires for authentication. The endpoint will be a Secure Sockets Layer (SSL) connection, which will have a certificate in place. The tool evaluates the fully qualified domain name (FQDN) that was assigned to the certificate (for example, STS.Contoso.com).
+The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to perform a realm discovery. When that process is finished, the Authentication Platform passes to the requesting client the ADFS endpoint URL that the client requires for authentication. The endpoint will be a Secure Sockets Layer (SSL) connection, which will have a certificate in place. The tool evaluates the fully qualified domain name (FQDN) that was assigned to the certificate (for example, STS.Contoso.com).
 
 The Remote Connectivity Analyzer displays a warning when the certificate that is used for SSL cannot be trusted up to the root. This indicates that the certificate is not trusted by the Office 365 environment. In many cases, this condition exists because the certificate is a self-signed certificate that is not valid for this form of authentication.
 

@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2010-08-26_
 
-The Microsoft Exchange Best Practices Analyzer Tool issues an RPC ping to each of the RPC interfaces that are used by Microsoft Office Outlook to connect to the Mailbox server. When the RPC ping request fails with the RPC status 0x5, the Exchange Remote Connectivity Analyzer tool displays the following error message:
+The Microsoft Remote Connectivity Analyzer issues an RPC ping to each of the RPC interfaces that are used by Microsoft Office Outlook to connect to the Mailbox server. When the RPC ping request fails with the RPC status 0x5, the Microsoft Remote Connectivity Analyzer tool displays the following error message:
 
 "Access is denied error (0x5) was thrown by the RPC runtime."
 
@@ -48,7 +48,7 @@ For more information about how to configure the security settings that are menti
 
 For more information about the use and analysis of the DCDIAG tool, see [Dcdiag Overview](https://go.microsoft.com/fwlink/?linkid=68936).
 
-The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional information about why you failed at this point. If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional information about why you failed at this point. If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 
