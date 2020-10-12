@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2011-05-19_
 
-The Microsoft Exchange Best Practices Analyzer tool queries the server that runs Exchange Server and tries to log on by using RPC over HTTP. If RPC encryption is required on the Exchange server, the following warning may be returned by the Analyzer tool:
+The Microsoft Remote Connectivity Analyzer queries the server that runs Exchange Server and tries to log on by using RPC over HTTP. If RPC encryption is required on the Exchange server, the following warning may be returned by the Analyzer tool:
 
 
 <table>

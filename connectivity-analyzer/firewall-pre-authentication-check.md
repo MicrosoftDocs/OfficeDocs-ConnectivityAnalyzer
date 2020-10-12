@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2013-03-21_
 
-The Microsoft Exchange Remote Connectivity Analyzer (RCA) queries to determine whether any DNS records point to the Autodiscover endpoint. After that lookup occurs, the RCA performs additional queries to discover whether authentication is configured correctly. Frequently, a perimeter device, such as Microsoft Threat Management Gateway (TMG), is configured incorrectly.
+The Microsoft Remote Connectivity Analyzer (RCA) queries to determine whether any DNS records point to the Autodiscover endpoint. After that lookup occurs, the RCA performs additional queries to discover whether authentication is configured correctly. Frequently, a perimeter device, such as Microsoft Threat Management Gateway (TMG), is configured incorrectly.
 
 Customers often decide to use pre-authentication at the perimeter device. This is a fine solution for such applications as Outlook Anywhere and OWA, but it can cause issues that affect the Office 365 hybrid deployment. We must accommodate pass-through authentication for certain endpoints that use token-based authorization instead of standard basic/integrated authentication options.
 
@@ -42,7 +42,7 @@ For information about how to configure TMG for Office 365 hybrid deployments, in
 
 Before you decide how to configure Autodiscover, we recommend that you obtain and read [Publishing Exchange Server 2010 with Forefront Unified Access Gateway 2010 and Forefront Threat Management Gateway 2010](https://go.microsoft.com/fwlink/p/?linkid=197136).
 
-The Exchange Remote Connectivity Analyzer is a new tool that currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [Microsoft Support](https://go.microsoft.com/fwlink/p/?linkid=8158) or create a post at the RCA forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](https://go.microsoft.com/fwlink/p/?linkid=288878).
+Microsoft Remote Connectivity Analyzer currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [Microsoft Support](https://go.microsoft.com/fwlink/p/?linkid=8158) or create a post at the RCA forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](https://go.microsoft.com/fwlink/p/?linkid=288878).
 
 </div>
 

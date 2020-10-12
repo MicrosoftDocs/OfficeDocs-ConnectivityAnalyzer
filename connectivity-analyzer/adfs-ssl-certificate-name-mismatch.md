@@ -30,9 +30,9 @@ _**Topic Last Modified:** 2011-06-06_
 
 <div id="sectionSection0" class="section">
 
-The Microsoft Exchange Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to perform a realm discovery. When that process is finished, the Authentication Platform passes to the requesting client the ADFS endpoint name that the client requires for authentication. The endpoint will be a Secure Sockets Layer (SSL) connection, which will have a certificate in place. The tool evaluates the fully qualified domain name (FQDN) that was assigned to the certificate (for example, STS.Contoso.com).
+The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to perform a realm discovery. When that process is finished, the Authentication Platform passes to the requesting client the ADFS endpoint name that the client requires for authentication. The endpoint will be a Secure Sockets Layer (SSL) connection, which will have a certificate in place. The tool evaluates the fully qualified domain name (FQDN) that was assigned to the certificate (for example, STS.Contoso.com).
 
-The Microsoft Exchange Remote Connectivity Analyzer tool returns the following warning if the FDQN does not match the host address or URL that the client uses to make a connection with the server.
+The Microsoft Remote Connectivity Analyzer tool returns the following warning if the FDQN does not match the host address or URL that the client uses to make a connection with the server.
 
 
 <table>

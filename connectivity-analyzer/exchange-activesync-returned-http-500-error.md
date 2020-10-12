@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2010-06-25_
 
-The Microsoft Exchange Analyzer tool sends Exchange ActiveSync commands to test for Exchange ActiveSync connectivity. If the FolderSync command (the first command in the sequence) returns an HTTP 500 error, then the Exchange Server Remote Connectivity Analyzer tool returns the following error.
+The Microsoft Remote Connectivity Analyzer sends Exchange ActiveSync commands to test for Exchange ActiveSync connectivity. If the FolderSync command (the first command in the sequence) returns an HTTP 500 error, then the Microsoft Remote Connectivity Analyzer tool returns the following error.
 
 "Exchange ActiveSync returned an HTTP 500 response."
 
@@ -84,7 +84,7 @@ If the user is a member of certain protected groups such as Domain Administrator
 
 For more information, see TechNet Magazine article, "AdminSDHolder, Protected Groups and SDPROP" (<https://technet.microsoft.com/magazine/2009.09.sdadminholder.aspx>).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

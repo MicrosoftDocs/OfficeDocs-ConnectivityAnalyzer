@@ -30,7 +30,7 @@ _**Topic Last Modified:** 2012-02-24_
 
 <div id="sectionSection0" class="section">
 
-The Microsoft Exchange Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to perform a realm discovery. When that process is finished, the Authentication Platform passes to the requesting client the ADFS endpoint URL that the client requires for authentication. The tool performs the authentication on behalf of the user to simulate authentication to the Office 365 environment.
+The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to perform a realm discovery. When that process is finished, the Authentication Platform passes to the requesting client the ADFS endpoint URL that the client requires for authentication. The tool performs the authentication on behalf of the user to simulate authentication to the Office 365 environment.
 
 If the Remote Connectivity Analyzer tool displays a warning at this stage, the message can indicate any of several different issues. Because the authentication process involves many steps, the solution that is required for a returned error or warning is not always obvious. For example, you might receive one of the following messages:
 

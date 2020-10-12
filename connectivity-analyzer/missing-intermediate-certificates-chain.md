@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-09-01_
 
-The Microsoft Exchange Analyzer tool queries the Server Certificate object in the Exchange server system to retrieve various properties on X509 certificates. In order for the Exchange Remote Connectivity Analyzer tool to validate a given X509 certificate, it must trust the root Certificate Authority (CA) that issued the certificate. If the Exchange Remote Connectivity Analyzer is unable to follow the certificate chain to the trusted root, then it displays an error that the certificate is not trusted.
+The Microsoft Remote Connectivity Analyzer queries the Server Certificate object in the Exchange server system to retrieve various properties on X509 certificates. In order for the Microsoft Remote Connectivity Analyzer tool to validate a given X509 certificate, it must trust the root Certificate Authority (CA) that issued the certificate. If the Microsoft Remote Connectivity Analyzer is unable to follow the certificate chain to the trusted root, then it displays an error that the certificate is not trusted.
 
 This issue may occur because an intermediate certification authority (CA) certificate is not present on the device or on the Exchange Server with which you are synchronizing.
 
@@ -54,7 +54,7 @@ You can use the SSLChainSaver utility to determine which certificates are missin
 
   - For more information about this issue, see Microsoft Knowledge Base article, ["Error message when you try to synchronize a Windows Mobile-based device by using Exchange ActiveSync for Exchange 2003 or for Exchange 2007: 'Synchronization failed'](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=927465)."
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

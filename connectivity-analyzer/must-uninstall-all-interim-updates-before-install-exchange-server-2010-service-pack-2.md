@@ -24,11 +24,11 @@ description:
 
 <div id="mainBody">
 
-\[This topic is intended to address a specific issue called out by the Exchange Server Analyzer Tool. You should apply it only to systems that have had the Exchange Server Analyzer Tool run against them and are experiencing that specific issue. The Exchange Server Analyzer Tool, available as a free download, remotely collects configuration data from each server in the topology and automatically analyzes the data. The resulting report details important configuration issues, potential problems, and nondefault product settings. By following these recommendations, you can achieve better performance, scalability, reliability, and uptime. For more information about the tool or to download the latest versions, see "Microsoft Exchange Analyzers" at <https://go.microsoft.com/fwlink/?linkid=34707>.\] <span> </span>
+\[This topic is intended to address a specific issue called out by the Microsoft Remote Connectivity Analyzer tool. You should apply it only to systems that have had the Microsoft Remote Connectivity Analyzer tool run against them and are experiencing that specific issue. The Microsoft Remote Connectivity Analyzer tool, available as a free download, remotely collects configuration data from each server in the topology and automatically analyzes the data. The resulting report details important configuration issues, potential problems, and nondefault product settings. By following these recommendations, you can achieve better performance, scalability, reliability, and uptime. For more information about the tool or to download the latest versions, see "Microsoft Exchange Analyzers" at <https://go.microsoft.com/fwlink/?linkid=34707>.\] <span> </span>
 
 _**Topic Last Modified:** 2011-11-02_
 
-The Microsoft Exchange Best Practices Analyzer Tool checks whether a Microsoft Exchange Server 2010 interim update (IU) is installed on the computer that is running Exchange 2010. If an IU is installed, Microsoft Exchange Server 2010 Service Pack 2 (SP2) cannot be installed.
+The Microsoft Remote Connectivity Analyzer checks whether a Microsoft Exchange Server 2010 interim update (IU) is installed on the computer that is running Exchange 2010. If an IU is installed, Microsoft Exchange Server 2010 Service Pack 2 (SP2) cannot be installed.
 
 To install Exchange 2010 SP2, you must uninstall the IU. After the IU is uninstalled, install Exchange 2010 SP2.
 

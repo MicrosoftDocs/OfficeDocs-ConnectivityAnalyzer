@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-09-01_
 
-The Microsoft Exchange Analyzer tool sends an HTTP request to the MobileSync Autodiscover provider on the Client Access server to obtain an External URL for ActiveSync devices to use when connecting to Exchange. This URL should be in the format https://{hostname}/Microsoft-Server-ActiveSync (where {hostname} is the external DNS fully-qualified domain name (FQDN)) used by mobile devices to connect to Exchange ActiveSync. When the URL that is returned is not in the expected format, the Exchange Server Remote Connectivity Analyzer returns the following error.
+The Microsoft Remote Connectivity Analyzer sends an HTTP request to the MobileSync Autodiscover provider on the Client Access server to obtain an External URL for ActiveSync devices to use when connecting to Exchange. This URL should be in the format https://{hostname}/Microsoft-Server-ActiveSync (where {hostname} is the external DNS fully-qualified domain name (FQDN)) used by mobile devices to connect to Exchange ActiveSync. When the URL that is returned is not in the expected format, the Microsoft Remote Connectivity Analyzer returns the following error.
 
 "ActiveSync URL was in an Invalid format. It should be https://host/Microsoft-Server-ActiveSync. The URL was \<your URL\>."
 
@@ -52,7 +52,7 @@ To resolve this issue, verify the ExternalUrl setting on the Microsoft-Server-Ac
 
 7.  Ensure that the External URL setting is in the format: https://host/Microsoft-Server-ActiveSync.
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2012-02-24_
 
-The Microsoft Exchange Analyzer Tool sends an Autodiscover XML/HTTP request to the Exchange Autodiscover service using the Outlook provider schema to locate Outlook settings for the specified user. When an error status message is present in the response, the Exchange Remote Connectivity Analyzer generates the following error:
+The Microsoft Remote Connectivity Analyzer sends an Autodiscover XML/HTTP request to the Exchange Autodiscover service using the Outlook provider schema to locate Outlook settings for the specified user. When an error status message is present in the response, the Microsoft Remote Connectivity Analyzer generates the following error:
 
 "The Outlook Autodiscover provider returned an error status in the XML response."
 
@@ -50,7 +50,7 @@ To resolve this issue, confirm that the account you are using has an Exchange 20
 
 For more information about the Autodiscover service, see [White Paper: Exchange 2007 Autodiscover Service](https://go.microsoft.com/fwlink/?linkid=157773).
 
-The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

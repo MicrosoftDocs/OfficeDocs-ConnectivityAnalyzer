@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2011-01-25_
 
-The Microsoft Exchange Best Practices Analyzer Tool tries to perform a Reverse DNS (PTR) lookup on the outbound IP address that is used to send e-mail to the Internet. If a DNS entry for this IP address cannot be found, the following error message is generated:
+The Microsoft Remote Connectivity Analyzer tries to perform a Reverse DNS (PTR) lookup on the outbound IP address that is used to send e-mail to the Internet. If a DNS entry for this IP address cannot be found, the following error message is generated:
 
 
 <table>
@@ -64,7 +64,7 @@ For more information about reverse lookup DNS, see the following articles on the
 
 <https://tools.ietf.org/html/rfc2317>
 
-The Exchange Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section at the bottom of this page to post additional reasons why your lookup failed at this point. If you require technical assistance, create a post in the appropriate [Microsoft Exchange Server TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420), or contact [Microsoft Product Support Services](https://go.microsoft.com/fwlink/?linkid=8158).
+Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section at the bottom of this page to post additional reasons why your lookup failed at this point. If you require technical assistance, create a post in the appropriate [Microsoft Exchange Server TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420), or contact [Microsoft Product Support Services](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 
