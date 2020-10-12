@@ -1,4 +1,4 @@
-- name: Exchange Remote Connectivity Analyzer Tool
+- name: Microsoft Remote Connectivity Analyzer Tool
   href: exchange-remote-connectivity-analyzer-tool.md
   items:
   - name: Microsoft Connectivity Analyzer Tool
@@ -129,7 +129,7 @@
     href: firewall-pre-authentication-check.md
   - name: EWS Endpoint Directed to On-Premises Legacy Server
     href: ews-endpoint-directed-premises-legacy-server.md
-  - name: 'Error when you run the Exchange Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"'
+  - name: 'Error when you run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"'
     href: error-when-run-exchange-remote-connectivity-analyzer-tool-test-connectivity-office-365-to-authenticate-office-365-must-enter-your-microsoft-account.md
   - name: The user name provided could not be matched to a name in the email server's address list
     href: user-name-provided-could-not-be-matched-name-email-server-address-list.md

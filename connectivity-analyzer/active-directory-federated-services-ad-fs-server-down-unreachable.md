@@ -30,7 +30,7 @@ _**Topic Last Modified:** 2011-06-06_
 
 <div id="sectionSection0" class="section">
 
-The Microsoft Exchange Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud by using Identity Federation to simulate the authentication to the Office 365 environment. Occasionally, the ADFS server is not reachable at all. For instance, the ADFS server is not reachable if the ADFS services crash or fail to start. If this issue occurs, you may receive a message that resembles the following message:
+The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud by using Identity Federation to simulate the authentication to the Office 365 environment. Occasionally, the ADFS server is not reachable at all. For instance, the ADFS server is not reachable if the ADFS services crash or fail to start. If this issue occurs, you may receive a message that resembles the following message:
 
 
 <table>

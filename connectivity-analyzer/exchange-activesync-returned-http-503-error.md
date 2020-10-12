@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2013-03-21_
 
-The Exchange Remote Connectivity Analyzer includes the **Attempting the FolderSync command on the Exchange ActiveSync session** test. This test determines whether the information store on the Microsoft Exchange 2010 server is mounted.
+The Microsoft Remote Connectivity Analyzer includes the **Attempting the FolderSync command on the Exchange ActiveSync session** test. This test determines whether the information store on the Microsoft Exchange 2010 server is mounted.
 
 If the information store is dismounted, you receive the following error message:
 

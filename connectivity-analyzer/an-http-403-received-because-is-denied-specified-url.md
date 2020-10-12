@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-11-17_
 
-The Microsoft Exchange Analyzer tool sends an HTTP request and validates the response it receives to verify connectivity. If the entry point to the Exchange Server is an ISA server, and the publishing rules on the ISA server are not configured correctly, then ISA may send an HTTP 403 Forbidden response. If ISA sends an HTTP 403 response, then the Microsoft Remote Exchange Connectivity tool displays the following message:
+The Microsoft Remote Connectivity Analyzer sends an HTTP request and validates the response it receives to verify connectivity. If the entry point to the Exchange Server is an ISA server, and the publishing rules on the ISA server are not configured correctly, then ISA may send an HTTP 403 Forbidden response. If ISA sends an HTTP 403 response, then the Microsoft Remote Exchange Connectivity tool displays the following message:
 
 "The server denied the specified Uniform Resource Locator (URL)."
 
@@ -84,7 +84,7 @@ SingleIP: \<internal IP of Exchange server\> (change to external IP on ISA)
 
 Path: /public\*
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

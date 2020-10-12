@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-08-18_
 
-The Microsoft Exchange Analyzer tool sends an Exchange ActiveSync FolderSync command to the URL specified. If an HTTP 451 response code is received from the server, then the Exchange Server Remote Connectivity Analyzer tool returns the following error.
+The Microsoft Remote Connectivity Analyzer sends an Exchange ActiveSync FolderSync command to the URL specified. If an HTTP 451 response code is received from the server, then the Microsoft Remote Connectivity Analyzer tool returns the following error.
 
 "Exchange ActiveSync returned an HTTP 451 response. (Device Misconfigured)."
 
@@ -46,7 +46,7 @@ If you have multiple Client Access servers in the same Active Directory site as 
 
 For more information about setting the ExternalUrl attribute on the ActiveSync virtual directory, see [Set-ActiveSyncVirtualDirectory](https://go.microsoft.com/fwlink/?linkid=161796).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

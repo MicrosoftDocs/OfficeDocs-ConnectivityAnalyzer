@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2012-02-24_
 
-The Microsoft Exchange Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to simulate the authentication process that a client uses to authenticate by using identity federation. Occasionally, users experience an issue that is commonly indicated by an Outlook client continuously prompting them for credentials.
+The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to simulate the authentication process that a client uses to authenticate by using identity federation. Occasionally, users experience an issue that is commonly indicated by an Outlook client continuously prompting them for credentials.
 
 <div id="sectionSection0" class="section">
 

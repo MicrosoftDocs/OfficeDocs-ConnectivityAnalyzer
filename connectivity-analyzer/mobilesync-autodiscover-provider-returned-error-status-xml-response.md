@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-08-19_
 
-The Microsoft Exchange Analyzer Tool sends an Autodiscover XML/HTTP request to the Exchange Autodiscover service using the MobileSync provider schema to locate mobile device settings for the specified user. When an error status message is present in the response, the Exchange Remote Connectivity Analyzer displays the following error:
+The Microsoft Remote Connectivity Analyzer sends an Autodiscover XML/HTTP request to the Exchange Autodiscover service using the MobileSync provider schema to locate mobile device settings for the specified user. When an error status message is present in the response, the Microsoft Remote Connectivity Analyzer displays the following error:
 
 "The MobileSync Autodiscover provider returned an error status in the XML response."
 
@@ -50,7 +50,7 @@ There is a known issue in Exchange Server 2007 that causes the error "Active Dir
 
 For more information about Internet-facing and non Internet-facing Client Access servers, see [Understanding Proxying and Redirection](https://go.microsoft.com/fwlink/?linkid=105411).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

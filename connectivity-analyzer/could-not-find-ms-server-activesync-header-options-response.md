@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2009-08-18_
 
-The Microsoft Exchange Analyzer Tool sends an HTTP request with the OPTIONS verb to the Microsoft-Server-ActiveSync virtual directory and analyzes the HTTP headers in the response. When the MS-Server-ActiveSync header is missing in the HTTP response, the Exchange Remote Connectivity Analyzer tool generates the following error:
+The Microsoft Remote Connectivity Analyzer sends an HTTP request with the OPTIONS verb to the Microsoft-Server-ActiveSync virtual directory and analyzes the HTTP headers in the response. When the MS-Server-ActiveSync header is missing in the HTTP response, the Microsoft Remote Connectivity Analyzer tool generates the following error:
 
 "Could not find MS-Server-ActiveSync header in OPTIONS response."
 
@@ -46,7 +46,7 @@ To correct this error, do one of the following:
 
   - For information about configuring the URLScan tool, see Microsoft Knowledge Base article "How to configure the URLScan Tool" ([https://go.microsoft.com/fwlink/?linkid=3052\&kbid=326444](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=326444)).
 
-The Exchange Remote Connectivity Analyzer is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
+The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 </div>
 

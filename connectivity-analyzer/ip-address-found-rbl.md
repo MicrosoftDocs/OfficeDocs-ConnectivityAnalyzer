@@ -28,7 +28,7 @@ description:
 
 _**Topic Last Modified:** 2012-03-26_
 
-The Microsoft Exchange Best Practices Analyzer Tool checks the provided outbound IP address against several real-time block lists (RBLs) as part of its Outbound SMTP test. When the IP address provided is found on one or more RBLs, you receive the following error message:
+The Microsoft Remote Connectivity Analyzer checks the provided outbound IP address against several real-time block lists (RBLs) as part of its Outbound SMTP test. When the IP address provided is found on one or more RBLs, you receive the following error message:
 
 
 <table>
@@ -50,7 +50,7 @@ RBLs are also known as DNSBLs (DNS-based block lists or "blackhole" lists) becau
 
 Many parties on the Internet publish and maintain these lists for others to use in a defense against spam. However, it is also possible to locate these lists unintentionally.
 
-As part of the Exchange Remote Connectivity Analyzer (ExRCA) outbound SMTP test, the ExRCA checks your IP address against some well-known RBLs to see whether it is listed. If your IP address is listed, ExRCA sends you an error message that resembles the message in the "Introduction" section. The message will include the name of the RBL and the status code.
+As part of the Microsoft Remote Connectivity Analyzer (ExRCA) outbound SMTP test, the ExRCA checks your IP address against some well-known RBLs to see whether it is listed. If your IP address is listed, ExRCA sends you an error message that resembles the message in the "Introduction" section. The message will include the name of the RBL and the status code.
 
 RBL servers typically return an error code in the form of a loop-back address, such as 127.0.0.2. The last octet in the loop-back address defines the error code, which is "2" in this case. The meanings of the codes vary between RBL providers. You have to review the Web site of the list provider to find the exact meaning of the code. This also applies to posting a request to be removed from an RBL.
 
