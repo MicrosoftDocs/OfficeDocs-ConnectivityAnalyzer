@@ -1,5 +1,5 @@
 ---
-title: SOA Record returned for a parent zone while having separate NS record delegation configured for a domain
+title: SOA Record for the parent zone is returned when the child zone uses NS record delegation
 description: Provides additional information and references for a common DNS misconfiguration.
 author: stanalek
 ms.author: stanalek
@@ -9,11 +9,11 @@ ms.topic: article
 ms.service: remote-connect-tool
 localization_priority: High
 ---
-# SOA Record for the parent zone instead of the child is returned when the child zone uses NS record delegation
+# SOA Record for the parent zone is returned when the child zone uses NS record delegation
 
 _**Topic Last Modified:** 2021-01-25_
 
-A child or sub-domain is delegated by configuring its own Name Server (NS) records at the domain registrar, but the target server actually hosts only the parent domain i.e. no Start of Authority (SOA) record is present for the sub-domain. This results in an SOA record returned which has the zone name of the parent domain (example below). This can cause EDNS resolvers like Windows DNS to fail resolving an MX query for the sub-domain with a "ServerFailure" error.
+A child or sub-domain is delegated by configuring its own Name Server (NS) records at the domain registrar. However, the target server actually hosts only the parent domain i.e., no Start of Authority (SOA) record is present for the sub-domain. This results in an SOA record returned which has the zone name of the parent domain (example below). This can cause EDNS resolvers like Windows DNS to fail resolving an MX query for the sub-domain with a "ServerFailure" error.
 
 For any of your domains or sub-domains configured as a separate DNS zone, each DNS zone should have an NS record and an SOA record for that zone, as stated in the RFCs - see [RFC 1034 section 4.2.1](https://tools.ietf.org/html/rfc1034#section-4.2.1"), and [RFC 2308 section 3](https://tools.ietf.org/html/rfc2308#section-3).
 
