@@ -20,7 +20,7 @@ For any of your domains or sub-domains configured as a separate DNS zone, each D
 For example, if your parent domain is contoso.com, at your domain registrar (or parent zone server on-premises) you might have configured dedicated delegation for a sub-domain record for mail.contoso.com, like this: 
 
 ```
-Domain              TTL Class   Type    Name Server
+NS Zone Name        TTL Class   Type    Name Server
 
 mail.contoso.com    300 IN      NS      ns1.contoso.com
 mail.contoso.com    300 IN      NS      ns2.contoso.com
@@ -30,20 +30,19 @@ mail.contoso.com    300 IN      NS      ns2.contoso.com
 Yet, the final response for the MX query for mail.contoso.com returns an SOA record for contoso.com instead: 
  
 ```
-SOA Zone name   TTL Class   Type    Primary Name Server     Email Contact               Serial      Refresh Retry   Expire  Minimum
+SOA Zone Name   TTL Class   Type    Primary Name Server     Email Contact               Serial      Refresh Retry   Expire  Minimum
 
 contoso.com.    60  IN      SOA     ns1.contoso.com.        hostmaster.ns1.contoso.com  2020090310  10800   3600    604800  60
 ```
  
-
-The different names on NS and SOA records causes EDNS to fail the query with ServerFailure as it violates the RFC references below. 
+The different zone names on NS and SOA records causes EDNS to fail the query with ServerFailure.
 
 This is because ns1.contoso.com hosts only the parent domain, contoso.com (i.e. only contoso.com is listed in the zone file).  
 
 One way to address the issue is to remove the dedicated delegation entries for the sub-domain mail.contoso.com from the domain's DNS records at the domain registrar and instead make an entry for the sub-domain A record itself in the parent domain zone (e.g. for *.contoso.com): 
  
 ```
-Domain              TTL Class   Type    Name Server Host/IP Address
+Domain              TTL Class   Type    Host/IP Address
 
 contoso.com         300 IN      NS      ns1.contoso.com.
 ns1.contoso.com     300 IN      A       1.2.3.4
