@@ -24,8 +24,6 @@ description:
 
 <div id="mainBody">
 
-<span> </span>
-
 _**Topic Last Modified:** 2021-01-25_
 
 A sub-domain is delegated through name server (NS) records at the domain registrar but the  target server actually hosts only the parent domain i.e. no Start of Authority (SOA) record is present for the sub-domain. This results in an SOA record returned which has the zone name of the parent domain (example below). This can cause EDNS resolvers like Windows DNS to fail resolving a MX query for the domain with a "ServerFailure" error.
