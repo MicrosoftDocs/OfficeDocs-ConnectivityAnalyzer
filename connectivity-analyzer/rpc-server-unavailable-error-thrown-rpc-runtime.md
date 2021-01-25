@@ -9,14 +9,13 @@ ms.service: remote-connect-tool
 localization_priority: Normal
 description: 
 ---
+# RPC Server Unavailable Error was Thrown by the RPC Runtime
 
 <div data-xmlns="https://www.w3.org/1999/xhtml">
 
 <div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
 
 <div data-asp="https://msdn2.microsoft.com/asp">
-
-# RPC Server Unavailable Error was Thrown by the RPC Runtime
 
 </div>
 
@@ -56,12 +55,11 @@ To resolve this issue, do the following:
 
 - If you are receiving this error on port 6004, and if you are using Exchange 2007 on Windows Server 2008, make sure that you have Exchange 2007 SP1 RU4 or later installed. This is because a problem that affects IPv6 can cause DSProxy requests to fail and generate this error. For more information about this specific issue, see the Exchange Team blog post, "[How does Outlook Anywhere work (and not work)?](https://go.microsoft.com/fwlink/?linkid=2153340)".
 
-<div class="alert">
+
 
 > [!NOTE]
 > Modification of the ValidPorts does not apply to Microsoft Exchange Server 2010. In Exchange 2010, the registry value is ValidPorts_Exchange. You do not have to manually modify this value. This value is created by automatic configuration in Client Access Server settings.
 
-</div>
 
 </div>
 
