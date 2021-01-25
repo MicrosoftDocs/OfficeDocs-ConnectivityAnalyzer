@@ -153,3 +153,5 @@
     href: mc-test-can-t-log-lync-my-mobile-device-lync-windows-store-app.md
   - name: Message Header Analyzer
     href: message-header-analyzer.md
+  - name: SOA Record for the parent zone is returned when the child zone uses NS record delegation
+    href: mismatching-soa-and-ns-zone-names.md
