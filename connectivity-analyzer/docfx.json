@@ -50,7 +50,16 @@
       "searchScope": ["Connectivity Analyzer"],
       "breadcrumb_path": "/connectivity-analyzer/breadcrumb/toc.json",
       "extendBreadcrumb": "true",
-      "titleSuffix": "Connectivity Analyzer"
+      "titleSuffix": "Connectivity Analyzer",
+      "contributors_to_exclude": [ 
+        "rjagiewich", 
+        "traya1", 
+        "rmca14", 
+        "claydetels19", 
+        "jborsecnik",
+        "tiburd",
+        "garycentric"
+      ]
     },
     "fileMetadata": {},
     "template": [],
