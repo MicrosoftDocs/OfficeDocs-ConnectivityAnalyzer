@@ -51,7 +51,7 @@ To resolve this issue, do the following:
 
 - Open Registry Editor on the Client Access server or on the front-end server, and verify that the ValidPorts registry value exists under HKEY\_LOCAL\_MACHINE\\Software\\Microsoft\\Rpc\\Rpcproxy. Also confirm that the key includes the NetBIOS and FQDN for all mailbox servers and for each required port (that is, for ports 6001, 6002, and 6004).
 
-- To test endpoint connectivity, open a Telnet session on the Client Access server or on the front-end server, and then Telnet to each port on the mailbox servers (that is, on ports 6001, 6002, and 6004). If you cannot successfully Telnet to any of the ports, and if there is a firewall between the servers, check your firewall configuration.
+- To test endpoint connectivity, open a Telnet session on the Client Access server or on the front-end server, and then Telnet to each port on the mailbox servers (that is, on ports 6001, 6002, and 6004). Successful Telnet connection result would be indicated by the presence of the "ncacn_http/1.0" banner when connection is established. Testing a Telnet connection to both NetBios name and FQDN is recommended. If you cannot successfully Telnet to any of the ports, and if there is a firewall between the servers, check your firewall configuration.
 
 - If you are receiving this error on port 6004, and if you are using Exchange 2007 on Windows Server 2008, make sure that you have Exchange 2007 SP1 RU4 or later installed. This is because a problem that affects IPv6 can cause DSProxy requests to fail and generate this error. For more information about this specific issue, see the Exchange Team blog post, "[How does Outlook Anywhere work (and not work)?](https://go.microsoft.com/fwlink/?linkid=2153340)".
 
