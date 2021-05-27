@@ -48,6 +48,7 @@
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-ConnectivityAnalyzer",
       "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-ConnectivityAnalyzer",
       "searchScope": ["Connectivity Analyzer"],
+      "recommendations": true,
       "titleSuffix": "Connectivity Analyzer",
       "contributors_to_exclude": [ 
         "rjagiewich", 
