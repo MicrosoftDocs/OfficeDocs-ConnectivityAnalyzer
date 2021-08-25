@@ -6,7 +6,7 @@ manager: tpolitis
 audience: ITPro 
 ms.topic: article 
 ms.service: remote-connect-tool
-localization_priority: Normal
+ms.localizationpriority: medium
 description: 
 ---
 
