@@ -1,1 +1,1 @@
-/connectivity-analyzer/ @msdmaguire
+/connectivity-analyzer/ @bradhugh
