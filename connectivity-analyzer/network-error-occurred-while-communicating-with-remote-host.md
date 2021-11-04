@@ -12,8 +12,6 @@ description:
 
 # A Network Error Occurred while Communicating with Remote Host
 
-_**Topic Last Modified:** 2009-11-18_
-
 The Microsoft Remote Connectivity Analyzer attempts to make a TCP connection to the host provided during the test. If the Microsoft Remote Connectivity Analyzer tool is unable to establish a TCP connection over port 80 and port 443 with the host, then it displays the following error message.
 
 "A network connection error occurred while communicating with the remote host: '0'"
