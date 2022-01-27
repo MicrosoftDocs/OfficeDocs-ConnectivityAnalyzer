@@ -7,8 +7,10 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: Description and IP address ranges of the Microsoft Remote Connectivity Analyzer (RCA) tool
 ---
+
+# Microsoft Remote Connectivity Analyzer
 
 This content is intended to address specific issues called out by the Microsoft Remote Connectivity Analyzer tool. You should apply these resolutions only to systems that have had the Microsoft Remote Connectivity Analyzer tool run against them and are experiencing that specific issue.
 
