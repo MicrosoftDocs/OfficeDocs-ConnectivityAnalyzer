@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'Error: The server denied the specified Uniform Resource Locator (URL)'
 ---
 
 # An HTTP 403 was Received Because ISA Denied the Specified URL

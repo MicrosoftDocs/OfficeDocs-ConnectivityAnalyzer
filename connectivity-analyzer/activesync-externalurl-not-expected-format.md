@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'ActiveSync URL was in an Invalid format. It should be https://host/Microsoft-Server-ActiveSync. The URL was...'
 ---
 
 

@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'Access is denied error (0x5) was thrown by the RPC runtime.'
 ---
 
 

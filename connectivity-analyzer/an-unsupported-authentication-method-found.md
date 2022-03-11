@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'Error: Authentication method "0" is enabled but is not an allowed Authentication method for this service.'
 ---
 
 # An Unsupported Authentication Method was Found

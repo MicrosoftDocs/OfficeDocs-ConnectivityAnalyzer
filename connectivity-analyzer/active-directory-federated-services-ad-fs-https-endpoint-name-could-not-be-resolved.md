@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'The Remote Connectivity Analyzer returns the following warning if the DNS entry cannot be found for the STS endpoint: The host name could not be resolved in DNS.'
 ---
 
 

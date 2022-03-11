@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'The Remote Connectivity Analyzer displays a warning when the certificate that is used for SSL cannot be trusted up to the root.'
 ---
 
 # ADFS SSL Certificate Trust

@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'The Act As Account may not have permissions to access this folder.'
 ---
 
 # The Act As Account May Not Have Permissions to Access this Folder

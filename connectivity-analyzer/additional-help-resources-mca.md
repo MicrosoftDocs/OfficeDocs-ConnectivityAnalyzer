@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: Help resources for the Microsoft Connectivity Analyzer Tool
 ---
 
 

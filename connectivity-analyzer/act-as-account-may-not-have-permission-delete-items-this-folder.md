@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'ErrorCannotDeleteObject, the Act As account may not have permission to delete items in this folder.'
 ---
 
 
