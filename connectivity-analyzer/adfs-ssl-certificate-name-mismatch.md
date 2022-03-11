@@ -10,21 +10,8 @@ ms.localizationpriority: medium
 description: 
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
-
 # ADFS SSL Certificate Name Mismatch
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2011-06-06_
 
@@ -37,7 +24,7 @@ The Microsoft Remote Connectivity Analyzer tool returns the following warning if
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">

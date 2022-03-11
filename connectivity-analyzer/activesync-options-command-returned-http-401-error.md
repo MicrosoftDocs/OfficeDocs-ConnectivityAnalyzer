@@ -10,11 +10,6 @@ ms.localizationpriority: medium
 description: 
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # The ActiveSync OPTIONS command returned an HTTP 401 Error
 
@@ -32,13 +27,13 @@ Microsoft Exchange ActiveSync enables the synchronization of mailbox information
 
 When the Microsoft Best Practices Analyzer tests ActiveSync connectivity, the ActiveSync test returns the following error message:
 
-    An ActiveSync session is being attempted with the server.
-    Errors were encountered while testing the Exchange ActiveSync session.
-    Test Steps
-    Attempting to send the OPTIONS command to the server.
-    Testing of the OPTIONS command failed. For more information, see Additional Details.
-    Additional Details
-    An HTTP 401 Unauthorized response was received from the remote IIS server. This is usually the result of an incorrect username or password. If you are attempting to log onto an Office 365 service, ensure you are using your full User Principal Name (UPN).
+   *An ActiveSync session is being attempted with the server.
+   Errors were encountered while testing the Exchange ActiveSync session.
+   Test Steps
+   Attempting to send the OPTIONS command to the server.
+   Testing of the OPTIONS command failed. For more information, see Additional Details.
+   Additional Details
+   An HTTP 401 Unauthorized response was received from the remote IIS server. This is usually the result of an incorrect username or password. If you are attempting to log onto an Office 365 service, ensure you are using your full User Principal Name (UPN).*
 
 This error typically occurs in an Exchange 2010 or Exchange 2007 environment where the target mailbox resides on an Exchange 2003 server and Basic Authentication is configured on the **Microsoft-Server-ActiveSync** virtual directory.
 

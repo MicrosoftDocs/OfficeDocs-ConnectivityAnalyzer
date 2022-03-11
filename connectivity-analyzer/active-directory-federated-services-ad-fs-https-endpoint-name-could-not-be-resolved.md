@@ -10,11 +10,6 @@ ms.localizationpriority: medium
 description: 
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Active Directory Federated Services (AD FS) HTTPS endpoint name could not be resolved
 
@@ -35,7 +30,7 @@ The Remote Connectivity Analyzer returns the following warning if the DNS entry 
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">

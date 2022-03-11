@@ -10,25 +10,11 @@ ms.localizationpriority: medium
 description: 
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # ADFS token not accepted by Authentication Platform (for later version of RCA)
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
-
 _**Topic Last Modified:** 2011-06-06_
 
-<div id="sectionSection0" class="section">
 
 The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to perform a realm discovery. When that process is finished, the Authentication Platform passes to the requesting client the ADFS endpoint URL that the client requires for authentication. Occasionally, the configuration information that is returned causes the ADFS server to respond with an invalid token because of the existing configuration in the on-premise ADFS environment.
 
