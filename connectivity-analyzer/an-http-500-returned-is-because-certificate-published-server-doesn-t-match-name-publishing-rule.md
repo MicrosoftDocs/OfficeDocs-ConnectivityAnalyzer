@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 'Error: An HTTP 500 was returned to ISA because the certificate on the published server doesn't match the name in the publishing rule.'
+description: An HTTP 500 was returned to ISA because the certificate on the published server doesn't match the name in the publishing rule.
 ---
 
 

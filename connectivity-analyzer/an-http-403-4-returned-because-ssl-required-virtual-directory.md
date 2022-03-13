@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'Error: An HTTP 403.4 was returned because SSL was required on the virtual directory.'
 ---
 
 # An HTTP 403.4 was Returned Because SSL was Required on the Virtual Directory
