@@ -7,24 +7,12 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'If MAPI connections are disabled on an Exchange Server 2007 or Exchange 2010,  you may receive the following error: "The server disallows the user to access the server via the MAPI protocol interface."'
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # MAPI Connections are Not Allowed
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2010-06-21_
 
@@ -38,7 +26,6 @@ If you have configured your Exchange 2007 or Exchange 2010 server to prevent MAP
 
 "Your Exchange Server administrator has blocked the version of Outlook that you are using. Contact your administrator for assistance."
 
-<div>
 
 ## For More Information
 
@@ -56,9 +43,6 @@ For more information, see [When You Use Outlook With an Exchange 2007 Mailbox, Y
 
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
-</div>
-
-<div>
 
 ## See Also
 
@@ -66,16 +50,4 @@ The Microsoft Remote Connectivity Analyzer has limited documentation at this tim
 
 [Set-CASMailbox](https://technet.microsoft.com/library/bb125264.aspx)  
   
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
 

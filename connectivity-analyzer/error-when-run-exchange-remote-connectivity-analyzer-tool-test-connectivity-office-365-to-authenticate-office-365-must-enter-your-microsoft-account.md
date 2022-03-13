@@ -10,21 +10,9 @@ ms.localizationpriority: medium
 description: 
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Error when you run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Office 365: \"To authenticate to Office 365, you must enter your Microsoft account\"
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2012-11-06_
 
@@ -41,8 +29,8 @@ Office 365 customers who experience issues when they run the Microsoft Remote Co
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col/>
+<col/>
 </colgroup>
 <thead>
 <tr class="header">
@@ -87,8 +75,8 @@ Office 365 customers who experience issues when they run the Microsoft Remote Co
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col/>
+<col/>
 </colgroup>
 <thead>
 <tr class="header">

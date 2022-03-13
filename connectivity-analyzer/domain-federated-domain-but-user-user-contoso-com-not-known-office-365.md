@@ -7,24 +7,11 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'The Remote Connectivity Analyzer displays the following warning message if the domain was federated but the user account was not enabled in the Office 365 environment: "The domain is a federated domain but the user apollo@contoso.com is not known by Office 365"'
 ---
-
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # The domain is a federated domain but the user \<User\>\@contoso.com is not known by Office 365
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2011-10-25_
 
