@@ -19,6 +19,8 @@ The Microsoft Remote Connectivity Analyzer includes the **Attempting the FolderS
 
 If the information store is dismounted, you receive the following error message:
 
+*Exchange ActiveSync returned an HTTP 503 response (Service Unavailable).*
+
 ## More Information
 
 For information about how to start the Information Store service, see [How to Start the Microsoft Exchange Information Store Service (MSExchangeIS)](https://technet.microsoft.com/library/aa998163\(v=exchg.80\)).
