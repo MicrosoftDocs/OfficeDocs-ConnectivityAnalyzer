@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 'I can't send or receive email on my mobile device'
+description: 
 ---
 
 # MCA test: I can't send or receive email on my mobile device
