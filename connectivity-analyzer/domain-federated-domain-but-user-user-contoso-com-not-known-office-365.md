@@ -24,7 +24,7 @@ The Remote Connectivity Analyzer displays the following warning message if the d
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
