@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'EWS endpoint directed to on-premises legacy server'
 ---
 
 # EWS Endpoint Directed to On-Premises Legacy Server

@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'Error when you run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"' 
 ---
 
 

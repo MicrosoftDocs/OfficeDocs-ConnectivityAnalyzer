@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'Error: "Exchange ActiveSync returned an HTTP 451 response. (Device Misconfigured)."'
 ---
 
 
@@ -18,6 +18,8 @@ _**Topic Last Modified:** 2013-03-21_
 The Microsoft Remote Connectivity Analyzer includes the **Attempting the FolderSync command on the Exchange ActiveSync session** test. This test determines whether the information store on the Microsoft Exchange 2010 server is mounted.
 
 If the information store is dismounted, you receive the following error message:
+
+"Exchange ActiveSync returned an HTTP 451 response. (Device Misconfigured)."
 
 ## More Information
 
