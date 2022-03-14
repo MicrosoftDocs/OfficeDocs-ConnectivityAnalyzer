@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 'If the Common Name doesn't match the Mutual Authentication (msstd:) string entered in the Microsoft Remote Connectivity Analyzer when testing Outlook Anywhere functionality, the Connectivity Analyzer displays the error message "Mutual Authentication could not be established."'
+description: 'The Connectivity Analyzer displays the error message "Mutual Authentication could not be established."'
 ---
 
 
