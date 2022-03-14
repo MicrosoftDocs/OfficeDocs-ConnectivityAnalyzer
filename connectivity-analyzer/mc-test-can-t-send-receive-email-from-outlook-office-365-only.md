@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 'MCA test: I can't send or receive email from Outlook (Office 365 only)'
+description: 'I can't send or receive email from Outlook (Office 365 only)'
 ---
 
 
