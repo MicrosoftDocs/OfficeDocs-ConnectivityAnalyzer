@@ -7,24 +7,12 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: Missing EXCH element in Autodiscover XML response
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Missing EXCH Element in Autodiscover XML Response
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2012-02-07_
 
@@ -50,17 +38,14 @@ The EXCH element in the Autodiscover XML contains information that is used by th
 
 If the EXCH element is missing, MAPI access may be disabled for the user. To check whether a user is enabled for MAPI access to the mailbox, run the following command in the Exchange Management Shell:
 
-    Get-CASMailbox MailboxName | fl MapiEnabled
+`Get-CASMailbox MailboxName | fl MapiEnabled`
 
 If the command returns $false, you must enable MAPI for the mailbox or select an alternative connection method. To enable MAPI for the mailbox, run the following command:
 
-    Set-CASMailbox MailboxName -MapiEnabled:$true
+`Set-CASMailbox MailboxName -MapiEnabled:$true`
 
 The Remote Connectivity Analyzer is a new tool that has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your efforts failed at this point. If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420), or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
-</div>
-
-<div>
 
 ## See Also
 

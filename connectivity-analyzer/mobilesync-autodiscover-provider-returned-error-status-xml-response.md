@@ -7,24 +7,14 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'The MobileSync Autodiscover provider returned an error status in the XML response'
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
 
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # The MobileSync Autodiscover Provider Returned an Error Status in the XML Response
 
-</div>
 
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2009-08-19_
 
