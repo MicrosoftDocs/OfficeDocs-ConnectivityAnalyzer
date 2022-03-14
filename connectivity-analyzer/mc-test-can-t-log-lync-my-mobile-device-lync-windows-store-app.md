@@ -1,5 +1,5 @@
 ---
-title: 'MCA test: I can't log on to Lync on my mobile device or the Lync Windows Store App'
+title: "MCA test: I can't log on to Lync on my mobile device or the Lync Windows Store App"
 author: bradhugh
 ms.author: bradhugh
 manager: tpolitis
