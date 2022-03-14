@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 'The Remote Connectivity Analyzer displays the following error message: "The certificate common name doesn't match the mutual authentication string provided; however, a match was found in the subject alternative name extension."'
+description: 'Mutual Authentication Established by Subject Alternative Name'
 ---
 
 
