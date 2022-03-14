@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: '"MCA test: I can't log on with Office Outlook"'
+description: 'MCA test: I can't log on with Office Outlook'
 ---
 
 
