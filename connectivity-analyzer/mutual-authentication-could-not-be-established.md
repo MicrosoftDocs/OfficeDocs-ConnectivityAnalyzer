@@ -7,24 +7,12 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'If the Common Name doesn't match the Mutual Authentication (msstd:) string entered in the Microsoft Remote Connectivity Analyzer when testing Outlook Anywhere functionality, the Connectivity Analyzer displays the error message "Mutual Authentication could not be established."'
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # Mutual Authentication Could Not be Established
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2009-09-01_
 
@@ -54,11 +42,8 @@ To resolve this error, do the following:
 
 3.  If necessary, use the Exchange Management Shell to modify the CertPrincipalName attribute as follows:
     
-        Set-OutlookProvider EXPR -CertPrincipalName:"msstd:mail.contoso.com"
+`Set-OutlookProvider EXPR -CertPrincipalName:"msstd:mail.contoso.com"`
 
-</div>
-
-<div>
 
 ## For More Information
 
@@ -68,15 +53,5 @@ To resolve this error, do the following:
 
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
-</div>
 
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
 
