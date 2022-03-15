@@ -7,24 +7,12 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'The Microsoft Remote Connectivity Analyzer generates the following error: "ErrorImpersonationDenied, this error code indicates that the Service Account specified does not have the ms-Exch-EPI-Impersonation right on the Exchange Client Access server."'
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # The Service Account Specified Does Not Have Impersonation Rights on Client Access Server
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2009-09-01_
 
