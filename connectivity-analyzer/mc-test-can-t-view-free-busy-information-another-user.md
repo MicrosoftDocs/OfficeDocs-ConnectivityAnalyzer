@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 'MCA test: I can't view the free/busy information of another user'
+description: "Can't view the free/busy information of another user"
 ---
 
 
