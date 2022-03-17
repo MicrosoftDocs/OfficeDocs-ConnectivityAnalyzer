@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 'The user name provided could not be matched to a name in the email server's address list.'
+description: "The user name provided could not be matched to a name in the email server's address list."
 ---
 
 
