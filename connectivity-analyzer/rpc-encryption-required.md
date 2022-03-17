@@ -7,24 +7,12 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'The Analyzer tool returns the following warning: "Store logon returned ecNotEncrypted 2416. The Server requires RPC Encryption."'
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # RPC Encryption Required
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2011-05-19_
 
@@ -33,7 +21,7 @@ The Microsoft Remote Connectivity Analyzer queries the server that runs Exchange
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -47,7 +35,7 @@ By default, Microsoft Office Outlook 2007 is configured by having the **Encrypt 
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,7 +49,7 @@ Outlook 2003 users who are connecting to Exchange may receive one of the followi
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -73,7 +61,7 @@ Outlook 2003 users who are connecting to Exchange may receive one of the followi
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -85,7 +73,7 @@ Outlook 2003 users who are connecting to Exchange may receive one of the followi
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -97,7 +85,7 @@ Outlook 2003 users who are connecting to Exchange may receive one of the followi
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -109,7 +97,7 @@ Outlook 2003 users who are connecting to Exchange may receive one of the followi
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -126,19 +114,19 @@ When Outlook 2003 is configured to use Cached Exchange Mode, Outlook does not di
 
 To resolve this problem, do one or more of the following:
 
-  - Determine whether RPC encryption is required by a Microsoft Exchange 2007 mailbox server. To do this, run the following command at the Exchange Management Shell:
+- Determine whether RPC encryption is required by a Microsoft Exchange 2007 mailbox server. To do this, run the following command at the Exchange Management Shell:
     
-        Get-MailboxServer <ServerName>
-    
-    If MAPIEncryptionRequired is true, Outlook clients that connect to Exchange must have the **Encrypt data between Microsoft Office Outlook and Microsoft Exchange** option enabled.
+   `Get-MailboxServer <ServerName>`
 
-  - Determine whether RPC encryption is required by a Microsoft Exchange 2010 client access server. To do this, run the following command at the Exchange Management Shell:
+   If MAPIEncryptionRequired is true, Outlook clients that connect to Exchange must have the **Encrypt data between Microsoft Office Outlook and Microsoft Exchange** option enabled.
+
+- Determine whether RPC encryption is required by a Microsoft Exchange 2010 client access server. To do this, run the following command at the Exchange Management Shell:
     
-        Get-RpcClientAccess | fl Server,EncryptionRequired
+   `Get-RpcClientAccess | fl Server,EncryptionRequired
     
     If EncryptionRequired is true, Outlook clients that connect to Exchange must have the **Encrypt data between Microsoft Office Outlook and Microsoft Exchange** option enabled.
 
-  - Verify that each Outlook profile has the **Encrypt data between Microsoft Office Outlook and Microsoft Exchange** option enabled. To do this, follow these steps:
+- Verify that each Outlook profile has the **Encrypt data between Microsoft Office Outlook and Microsoft Exchange** option enabled. To do this, follow these steps:
     
     1.  Start the **Mail** item in Control Panel. Then, click **E-mail Accounts**.
     
@@ -150,24 +138,19 @@ To resolve this problem, do one or more of the following:
     
     5.  Click **Next**, and then click **Finish**.
 
-  - Alternatively, you may want to remove the Exchange requirement for encrypted RPC communications. To do this, follow these steps.
-    
-    <div class="alert">
-    
+- Alternatively, you may want to remove the Exchange requirement for encrypted RPC communications. To do this, follow these steps.
 
-    > [!NOTE]
-    > <STRONG>Note</STRONG> By default, the requirement for RPC encryption is turned off in Exchange Server 2010 Service Pack 1 (SP1).
 
-    
-    </div>
-    
-      - For an Exchange 2007 mailbox server, run the following command at the Exchange Management Shell:
+   > [!NOTE]
+   > By default, the requirement for RPC encryption is turned off in Exchange Server 2010 Service Pack 1 (SP1).
+
+     - For an Exchange 2007 mailbox server, run the following command at the Exchange Management Shell:
         
-            Set-MailboxServer <ServerName> -MapiEncryptionRequired:$false
+       `Set-MailboxServer <ServerName> -MapiEncryptionRequired:$false`
     
-      - For an Exchange 2010 client access server, run the following command at the Exchange Management Shell:
+     - For an Exchange 2010 client access server, run the following command at the Exchange Management Shell:
         
-            Set-RpcClientAccess -Server <ServerName> -EncryptionRequired $False
+        `Set-RpcClientAccess -Server <ServerName> -EncryptionRequired $False`
 
 For more information about other issues that may cause the errors mentioned in this topic, see Microsoft Knowledge Base article 924625, [When you use Outlook with an Exchange 2007 mailbox, you cannot connect to Exchange 2007, and you receive an error message](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=924625).
 
@@ -176,16 +159,4 @@ For more information about Outlook 2003 connectivity with Exchange Server 2010, 
 For information about the Set-MailboxServer cmdlet and MAPIEncryptionRequired attribute, see [Set-MailboxServer](https://go.microsoft.com/fwlink/?linkid=161822).
 
 For more information about deploying Exchange 2010 with Outlook 2003 clients, see [Concern: Is Having Outlook 2003 Clients Going to Prevent Me from Deploying Exchange 2010?](https://social.technet.microsoft.com/wiki/contents/articles/concern-is-having-outlook-2003-clients-going-to-prevent-me-from-deploying-exchange-2010.aspx).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
 

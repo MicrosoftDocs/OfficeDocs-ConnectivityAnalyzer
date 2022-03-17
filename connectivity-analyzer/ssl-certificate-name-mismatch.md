@@ -7,24 +7,12 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: 'The Microsoft Remote Connectivity Analyzer displays the following warning when the FDQN does not match the host address or URL that the client uses to make a connection with the server: SSL Certificate Name Mismatch"'
 ---
 
-<div data-xmlns="https://www.w3.org/1999/xhtml">
-
-<div class="topic" data-xmlns="https://www.w3.org/1999/xhtml" data-msxsl="urn:schemas-microsoft-com:xslt" data-cs="https://msdn.microsoft.com/">
-
-<div data-asp="https://msdn2.microsoft.com/asp">
 
 # SSL Certificate Name Mismatch
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2011-06-13_
 
@@ -35,7 +23,7 @@ The Microsoft Remote Connectivity Analyzer displays the following warning when t
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -49,7 +37,7 @@ The name mismatch warning indicates that users might not be able to connect to t
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -63,7 +51,7 @@ Mobile devices typically receive an error message that resembles the following m
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col/>
 </colgroup>
 <tbody>
 <tr class="odd">
