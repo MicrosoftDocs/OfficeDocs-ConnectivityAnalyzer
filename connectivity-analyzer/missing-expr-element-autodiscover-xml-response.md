@@ -7,7 +7,7 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
-description: 
+description: Learn about the "Missing EXPR element in Autodiscover XML Response" error
 ---
 
 # Missing EXPR Element in Autodiscover XML Response
