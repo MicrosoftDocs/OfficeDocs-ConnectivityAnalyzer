@@ -30,29 +30,8 @@ When you try to synchronize a Microsoft Windows Mobile-based device by using Exc
 
   - The security certificate on the server is invalid. Contact your Exchange Server administrator or ISP to install a valid certificate on the server. Support Code: 80072F0D or 0x80072f0d.
 
-<div>
-
 ## For More Information
 
-You can use the SSLChainSaver utility to determine which certificates are missing. To learn more about the SSLChainSaver utility, refer to the following topics:
-
-  - For more information about the SSLChainSaver utility from the Windows Mobile team, see the Windows Mobile team blog posts, "[Introducing the SslChainSaver](https://go.microsoft.com/fwlink/?linkid=161816)" and "[SSLChainSaver v2 released](https://go.microsoft.com/fwlink/?linkid=161817)."
-
-  - Click [here](https://go.microsoft.com/fwlink/?linkid=161818) to obtain the Windows Mobile SSLChainSaver from the Microsoft download site.
-
-  - For more information about this issue, see Microsoft Knowledge Base article, ["Error message when you try to synchronize a Windows Mobile-based device by using Exchange ActiveSync for Exchange 2003 or for Exchange 2007: 'Synchronization failed'](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=927465)."
+Consult the guidance provided by your certificate authority for how to install your certificate and choose the most compatible certificate chain for your clients. Some certificate authorities have utilities that can check your certificate installation and select which chain to send (if there are multiple options).
 
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
