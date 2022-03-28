@@ -30,23 +30,8 @@ When you try to synchronize a Microsoft Windows Mobile-based device by using Exc
 
   - The security certificate on the server is invalid. Contact your Exchange Server administrator or ISP to install a valid certificate on the server. Support Code: 80072F0D or 0x80072f0d.
 
-<div>
-
 ## For More Information
 
 Consult the guidance provided by your certificate authority for how to install your certificate and choose the most compatible certificate chain for your clients. Some certificate authorities have utilities that can check your certificate installation and select which chain to send (if there are multiple options).
 
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
