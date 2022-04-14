@@ -4,6 +4,11 @@
       "source_path": "connectivity-analyzer/index.md",
       "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "connectivity-analyzer/microsoft-connectivity-analyzer-tool.md",
+      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool.md",
+      "redirect_document_id": true
     }
   ]
 }
