@@ -6,7 +6,37 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "connectivity-analyzer/additional-help-resources-mca.md",
+      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "connectivity-analyzer/microsoft-connectivity-analyzer-tool.md",
+      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "connectivity-analyzer/mc-test-can-t-log-lync-my-mobile-device-lync-windows-store-app.md",
+      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "connectivity-analyzer/mc-test-can-t-log-with-office-outlook.md",
+      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "connectivity-analyzer/mc-test-can-t-send-receive-email-from-outlook-office-365-only.md",
+      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "connectivity-analyzer/mc-test-can-t-send-receive-email-my-mobile-device.md",
+      "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "connectivity-analyzer/mc-test-can-t-view-free-busy-information-another-user.md",
       "redirect_url": "/connectivity-analyzer/exchange-remote-connectivity-analyzer-tool",
       "redirect_document_id": false
     }
