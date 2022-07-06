@@ -50,6 +50,7 @@
       "searchScope": ["Connectivity Analyzer"],
       "recommendations": true,
       "titleSuffix": "Connectivity Analyzer",
+      "uhfHeaderId": "MSDocsHeader-M365-IT",
       "contributors_to_exclude": [ 
         "rjagiewich", 
         "traya1", 
