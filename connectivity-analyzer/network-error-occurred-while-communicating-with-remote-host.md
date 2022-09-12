@@ -36,7 +36,7 @@ Connection failures of this type are commonly caused by the following:
 
 1. Ensure that the server is up and available to the network.
 
-2. Use the netstat.exe utility to determine whether the appropriate service is actually listening on the port being tested. For syntax, see the documentation: Windows Commands - netstat ([https://docs.microsoft.com/windows-server/administration/windows-commands/netstat](/windows-server/administration/windows-commands/netstat)).
+2. Use the netstat.exe utility to determine whether the appropriate service is actually listening on the port being tested. For syntax, see [Windows Commands: netstat](/windows-server/administration/windows-commands/netstat).
 
 3. Use the Portqry tool to test the TCP connectivity from different points within and outside your network to determine whether a network device is blocking connectivity to the specified port. For more information, see Microsoft Knowledge Base article "Verify network ports are not blocked" ([https://support.microsoft.com/topic/f48c0637-95f0-50d7-9d2e-cdeead712052](https://support.microsoft.com/topic/f48c0637-95f0-50d7-9d2e-cdeead712052)).
 
