@@ -102,7 +102,7 @@ For more information, see [View e-mail message headers](https://office.microsoft
 
   - **Exchange Server 2007 (OWA)**   Open the message, and then click the “Message Details" icon. In the **Message Details** dialog box, locate the message headers in the **Internet Mail Headers** area.
 
-  - **Exchange Server 2013 OWA**   Download the [Message Headers Analyzer](https://office.microsoft.com/store/message-header-analyzer-wa104005406.aspx?queryid=69795c55-fbb0-4a0d-8ec3-d779b421a7ea%26css=headers%26ctt=1) app from the Office app store.
+  - **Exchange Server 2013 OWA**   Download the [Message Headers Analyzer](https://appsource.microsoft.com/product/office/WA104005406) app from the Office app store.
 
 </div>
 
