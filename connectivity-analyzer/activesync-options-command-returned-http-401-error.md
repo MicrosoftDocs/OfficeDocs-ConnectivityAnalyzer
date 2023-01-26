@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'When the Microsoft Best Practices Analyzer tests ActiveSync connectivity, the ActiveSync test returns the following error message: Errors were encountered while testing the Exchange ActiveSync session.'
+ms.date: 05/08/2020
 ---
-
 
 # The ActiveSync OPTIONS command returned an HTTP 401 Error
 

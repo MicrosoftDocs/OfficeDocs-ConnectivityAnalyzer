@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Analyzer tool returns the following warning: "Store logon returned ecNotEncrypted 2416. The Server requires RPC Encryption."'
+ms.date: 05/08/2020
 ---
-
 
 # RPC Encryption Required
 

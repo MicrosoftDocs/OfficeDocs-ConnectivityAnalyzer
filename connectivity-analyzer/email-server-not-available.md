@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'You receive the following error message from the Microsoft Connectivity Analyzer because the email service is not configured correctly or is not responding: "The email server is not available."'
+ms.date: 05/08/2020
 ---
 
 # The email server is not available

@@ -8,7 +8,9 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 
+ms.date: 05/08/2020
 ---
+
 # RPC Server Unavailable Error was Thrown by the RPC Runtime
 
 <div data-xmlns="https://www.w3.org/1999/xhtml">

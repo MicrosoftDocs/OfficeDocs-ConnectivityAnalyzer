@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: Learn how to handle the "RPC/HTTP connections for this client are prohibited" error
+ms.date: 05/08/2020
 ---
 
 # RPC over HTTP Connection is Not Allowed

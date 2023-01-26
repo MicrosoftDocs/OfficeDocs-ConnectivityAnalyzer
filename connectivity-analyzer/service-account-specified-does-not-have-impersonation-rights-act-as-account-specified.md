@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer generates the following error: "ErrorImpersonateUserDenied, this error code indicates that the Service Account specified does not have the ms-Exch-EPI-May-Impersonate right on the Act As Account it is trying to impersonate"'
+ms.date: 05/08/2020
 ---
-
 
 # The Service Account Specified Does Not Have Impersonation Rights on the Act As Account Specified
 

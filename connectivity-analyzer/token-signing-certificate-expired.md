@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'Token signing certificate expired'
+ms.date: 05/08/2020
 ---
-
 
 # Token Signing Certificate Expired
 

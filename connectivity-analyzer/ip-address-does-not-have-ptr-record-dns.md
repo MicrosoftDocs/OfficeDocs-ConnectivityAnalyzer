@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'IP Address X.X.X.X does not have a PTR record in DNS'
+ms.date: 05/08/2020
 ---
-
 
 # IP Address does not have a PTR record in DNS
 

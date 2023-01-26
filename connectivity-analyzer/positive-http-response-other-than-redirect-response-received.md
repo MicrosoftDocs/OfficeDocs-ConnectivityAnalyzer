@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer reports the following error: "A positive HTTP response other than a redirect response was received.'
+ms.date: 05/08/2020
 ---
-
 
 # A Positive HTTP Response Other than a Redirect Response was Received
 

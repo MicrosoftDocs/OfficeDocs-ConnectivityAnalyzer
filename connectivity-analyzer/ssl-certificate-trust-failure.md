@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: SSL Certificate trust failure
+ms.date: 05/08/2020
 ---
-
 
 # SSL Certificate Trust Failure
 
