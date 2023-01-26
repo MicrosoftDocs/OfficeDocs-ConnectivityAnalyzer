@@ -8,9 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'ErrorCannotDeleteObject, the Act As account may not have permission to delete items in this folder.'
+ms.date: 05/08/2020
 ---
-
-
 
 # The Act As Account May Not Have Permission to Delete Items in this Folder
 

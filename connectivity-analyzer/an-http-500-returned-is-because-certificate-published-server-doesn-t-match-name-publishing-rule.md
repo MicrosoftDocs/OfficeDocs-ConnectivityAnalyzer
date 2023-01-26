@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: An HTTP 500 was returned to ISA because the certificate on the published server doesn't match the name in the publishing rule.
+ms.date: 05/08/2020
 ---
-
 
 # An HTTP 500 was Returned to ISA Because the Certificate on the Published Server Doesn't Match the Name in the Publishing Rule
 

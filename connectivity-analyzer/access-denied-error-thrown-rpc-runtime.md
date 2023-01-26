@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'Access is denied error (0x5) was thrown by the RPC runtime.'
+ms.date: 05/08/2020
 ---
-
 
 # Access is Denied Error was Thrown by the RPC Runtime
 

@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer tool returns the following error: "Exchange ActiveSync returned an HTTP 451 response. (Device Misconfigured)."'
+ms.date: 05/08/2020
 ---
 
 # Exchange ActiveSync Returned an HTTP 451 Error

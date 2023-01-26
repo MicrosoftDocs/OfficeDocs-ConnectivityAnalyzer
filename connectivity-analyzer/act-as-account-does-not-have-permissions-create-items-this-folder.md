@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'ErrorCreateItemAccessDenied, the Act As Account does not have permissions to create items in this folder.'
+ms.date: 05/08/2020
 ---
 
 # The Act As Account Does Not Have Permissions to Create Items in this Folder

@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'EWS endpoint directed to on-premises legacy server'
+ms.date: 05/08/2020
 ---
 
 # EWS Endpoint Directed to On-Premises Legacy Server

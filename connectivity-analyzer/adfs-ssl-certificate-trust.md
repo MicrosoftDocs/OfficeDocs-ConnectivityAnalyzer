@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Remote Connectivity Analyzer displays a warning when the certificate that is used for SSL cannot be trusted up to the root.'
+ms.date: 05/08/2020
 ---
 
 # ADFS SSL Certificate Trust
