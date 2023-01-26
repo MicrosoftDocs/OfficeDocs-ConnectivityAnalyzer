@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer tool displays the following warning when the Exchange server has been configured to force connections using Cached Exchange mode: "Store logon returned ecCachedModeRequired 1249. Cached Mode is required for this mailbox."'
+ms.date: 05/08/2020
 ---
-
 
 # Cached Mode is Required for this Mailbox
 

@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Remote Connectivity Analyzer displays the following warning when the domain part of the name is not set up for identity federation: "The domain is not a federated domain."'
+ms.date: 05/08/2020
 ---
 
 # Name Space is not Federated

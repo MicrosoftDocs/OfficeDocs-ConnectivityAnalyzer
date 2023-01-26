@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The IP X.X.X.X was found on the block list. Status code: X'
+ms.date: 05/08/2020
 ---
 
 # IP Address Found on RBL

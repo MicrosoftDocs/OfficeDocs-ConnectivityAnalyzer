@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer attempts to send a test message using a recipient address that does not belong to the Exchange organization. If this operation succeeds, the following message is returned: "Open relay test message delivered successfully to Admin@TestExchangeConnectivity.com"'
+ms.date: 05/08/2020
 ---
 
 # Open Relay Detected

@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer displays the following error message: "Missing AuthPackage element in Autodiscover XML Response"'
+ms.date: 05/08/2020
 ---
-
 
 # Missing AuthPackage Element in Autodiscover XML Response
 

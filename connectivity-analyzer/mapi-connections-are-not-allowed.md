@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'If MAPI connections are disabled on an Exchange Server 2007 or Exchange 2010,  you may receive the following error: "The server disallows the user to access the server via the MAPI protocol interface."'
+ms.date: 05/08/2020
 ---
-
 
 # MAPI Connections are Not Allowed
 

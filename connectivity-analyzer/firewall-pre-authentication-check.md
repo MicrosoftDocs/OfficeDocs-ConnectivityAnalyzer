@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: Firewall Pre-Authentication Check in Microsoft Remote Connectivity Analyzer
+ms.date: 05/08/2020
 ---
 
 # Firewall Pre-Authentication Check

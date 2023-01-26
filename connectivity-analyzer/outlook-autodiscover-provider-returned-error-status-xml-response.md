@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer generates the following error: "The Outlook Autodiscover provider returned an error status in the XML response."'
+ms.date: 05/08/2020
 ---
-
 
 # The Outlook Autodiscover Provider Returned an Error Status in the XML Response
 

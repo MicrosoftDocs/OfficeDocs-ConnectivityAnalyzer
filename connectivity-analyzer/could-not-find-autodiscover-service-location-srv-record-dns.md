@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'If the Microsoft Remote Connectivity Analyzer is unable to locate any SRV records for Autodiscover in that namespace, the following error is displayed: "Failed to find Autodiscover SRV record in DNS."'
+ms.date: 05/08/2020
 ---
-
 
 # Could Not Find Autodiscover Service Location (SRV) Record in DNS
 

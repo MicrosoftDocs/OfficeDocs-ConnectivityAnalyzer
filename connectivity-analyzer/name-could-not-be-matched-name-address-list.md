@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'Microsoft Remote Connectivity Analyzer tool displays the following error message: "The name could not be matched to a name in the address list."'
+ms.date: 05/08/2020
 ---
-
 
 # Name Could Not be Matched to a Name in the Address List
 

@@ -8,9 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The MobileSync Autodiscover provider returned an error status in the XML response'
+ms.date: 05/08/2020
 ---
-
-
 
 # The MobileSync Autodiscover Provider Returned an Error Status in the XML Response
 

@@ -8,9 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: You must uninstall all interim updates before you install Exchange Server 2010 Service Pack 2
+ms.date: 05/08/2020
 ---
-
-
 
 # You must uninstall all interim updates before you install Exchange Server 2010 Service Pack 2
 

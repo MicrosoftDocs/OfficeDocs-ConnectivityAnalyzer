@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 
+ms.date: 05/08/2020
 ---
 
 # A Network Error Occurred while Communicating with Remote Host

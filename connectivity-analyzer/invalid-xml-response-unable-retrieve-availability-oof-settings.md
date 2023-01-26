@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'Invalid XML response, unable to retrieve Availability or OOF Settings.'
+ms.date: 05/08/2020
 ---
-
 
 # Invalid XML Response Unable to Retrieve Availability or OOF Settings
 

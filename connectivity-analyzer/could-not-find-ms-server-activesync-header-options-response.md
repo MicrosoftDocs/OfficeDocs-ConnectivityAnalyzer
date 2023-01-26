@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'When the MS-Server-ActiveSync header is missing in the HTTP response, the Microsoft Remote Connectivity Analyzer tool generates the following error: "Could not find MS-Server-ActiveSync header in OPTIONS response."'
+ms.date: 05/08/2020
 ---
-
 
 # Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
 
