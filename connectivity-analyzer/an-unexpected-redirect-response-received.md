@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'Error: An unexpected Redirect Response was received.'
+ms.date: 05/08/2020
 ---
-
 
 # An Unexpected Redirect Response was Received
 

@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'ActiveSync URL was in an Invalid format. It should be https://host/Microsoft-Server-ActiveSync. The URL was...'
+ms.date: 05/08/2020
 ---
-
 
 # ActiveSync ExternalUrl is Not in the Expected Format
 
