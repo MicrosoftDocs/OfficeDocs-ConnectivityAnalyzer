@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: UPN issues when authenticating
+ms.date: 05/08/2020
 ---
-
 
 # UPN issues when authenticating
 

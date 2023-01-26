@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer displays the following warning when the FDQN does not match the host address or URL that the client uses to make a connection with the server: SSL Certificate Name Mismatch"'
+ms.date: 05/08/2020
 ---
-
 
 # SSL Certificate Name Mismatch
 

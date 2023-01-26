@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Remote Connectivity Analyzer displays the following warning message if the user is not authenticated correctly: "The Security Token Service indicated that the authentication failed. Check the username and password and try again."'
+ms.date: 05/08/2020
 ---
-
 
 # Unknown Username or bad password
 
