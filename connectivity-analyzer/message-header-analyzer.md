@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'Message headers contain information about the path that a message took, in addition to other valuable metadata.'
+ms.date: 05/08/2020
 ---
-
 
 # Message Header Analyzer
 

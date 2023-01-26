@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: Intermediate certificates missing in chain
+ms.date: 05/08/2020
 ---
-
 
 # Missing Intermediate Certificates in Chain
 

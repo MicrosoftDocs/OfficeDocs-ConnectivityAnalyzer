@@ -8,7 +8,9 @@ audience: ITPro
 ms.topic: article 
 ms.service: remote-connect-tool
 localization_priority: High
+ms.date: 01/25/2021
 ---
+
 # SOA Record for the parent zone is returned when the child zone uses NS record delegation
 
 _**Topic Last Modified:** 2021-01-25_

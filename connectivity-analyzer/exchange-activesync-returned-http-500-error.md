@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer tool returns the following error: "Exchange ActiveSync returned an HTTP 500 response."'
+ms.date: 05/08/2020
 ---
-
 
 # Exchange ActiveSync Returned an HTTP 500 Error
 

@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer performs a DNS lookup to locate a list of Mail Exchanger records that match the SMTP domain being tested. If no MX records are returned, the test fails with the following error: "No MX records found in DNS for SMTP domain (Domain Name)"'
+ms.date: 05/08/2020
 ---
-
 
 # No MX Records were Found for the Specified SMTP Domain
 

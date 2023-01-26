@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'Mutual Authentication Established by Subject Alternative Name'
+ms.date: 05/08/2020
 ---
-
 
 # Mutual Authentication Established by Subject Alternative Name
 
