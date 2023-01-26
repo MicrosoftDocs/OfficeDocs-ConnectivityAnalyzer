@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'If the Microsoft Remote Connectivity Analyzer is unable to follow the certificate chain to the trusted root, then it displays the following error: "The security certificate on the server is not valid. Support code: 0x80072f0d."'
+ms.date: 05/08/2020
 ---
-
 
 # Windows Mobile Root Certificates
 
