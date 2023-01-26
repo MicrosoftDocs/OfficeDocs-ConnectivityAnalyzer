@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: Description and IP address ranges of the Microsoft Remote Connectivity Analyzer (RCA) tool
+ms.date: 05/08/2020
 ---
 
 # Microsoft Remote Connectivity Analyzer

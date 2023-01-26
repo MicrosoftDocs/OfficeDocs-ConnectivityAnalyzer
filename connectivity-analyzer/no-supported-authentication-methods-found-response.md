@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer generates the following error: "No supported Authentication Methods found in Response"'
+ms.date: 05/08/2020
 ---
-
 
 # No Supported Authentication Methods Found in Response
 

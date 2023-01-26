@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: Missing EXCH element in Autodiscover XML response
+ms.date: 05/08/2020
 ---
-
 
 # Missing EXCH Element in Autodiscover XML Response
 

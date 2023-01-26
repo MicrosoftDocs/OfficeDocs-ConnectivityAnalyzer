@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer displays the following error message: "The host name could not be resolved in DNS."'
+ms.date: 05/08/2020
 ---
 
 # The Host Name Could Not be Resolved in DNS

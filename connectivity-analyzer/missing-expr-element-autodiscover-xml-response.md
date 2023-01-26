@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: Learn about the "Missing EXPR element in Autodiscover XML Response" error
+ms.date: 05/08/2020
 ---
 
 # Missing EXPR Element in Autodiscover XML Response

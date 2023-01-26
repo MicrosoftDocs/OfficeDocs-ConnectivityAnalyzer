@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Connectivity Analyzer displays the error message "Mutual Authentication could not be established."'
+ms.date: 05/08/2020
 ---
-
 
 # Mutual Authentication Could Not be Established
 

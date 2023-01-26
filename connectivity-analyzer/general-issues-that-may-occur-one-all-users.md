@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: Remote Connectivity Analyzer tool warnings
+ms.date: 05/08/2020
 ---
 
 # General issues that may occur for one or all users
