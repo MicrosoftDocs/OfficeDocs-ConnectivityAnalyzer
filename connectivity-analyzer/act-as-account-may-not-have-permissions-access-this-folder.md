@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Act As Account may not have permissions to access this folder.'
+ms.date: 05/08/2020
 ---
 
 # The Act As Account May Not Have Permissions to Access this Folder

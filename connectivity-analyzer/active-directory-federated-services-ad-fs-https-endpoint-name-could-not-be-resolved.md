@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Remote Connectivity Analyzer returns the following warning if the DNS entry cannot be found for the STS endpoint: The host name could not be resolved in DNS.'
+ms.date: 05/08/2020
 ---
-
 
 # Active Directory Federated Services (AD FS) HTTPS endpoint name could not be resolved
 

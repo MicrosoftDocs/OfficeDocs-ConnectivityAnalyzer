@@ -8,9 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud by using Identity Federation to simulate the authentication to the Office 365 environment. Occasionally, the ADFS server is not reachable, and you receive an error message.'
+ms.date: 05/08/2020
 ---
-
-
 
 # Active Directory Federated Services (AD FS) server is down or unreachable
 

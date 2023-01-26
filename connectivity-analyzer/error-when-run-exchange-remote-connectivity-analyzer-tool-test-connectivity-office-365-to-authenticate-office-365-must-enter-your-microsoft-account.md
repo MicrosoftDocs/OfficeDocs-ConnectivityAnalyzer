@@ -8,8 +8,8 @@ ms.topic: article
 ms.service: remote-connect-tool
 ms.localizationpriority: medium
 description: 'Error when you run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"' 
+ms.date: 05/08/2020
 ---
-
 
 # Error when you run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Office 365: \"To authenticate to Office 365, you must enter your Microsoft account\"
 
