@@ -47,32 +47,23 @@ After you obtain the message headers, paste them into Message Header Analyzer, a
 
 For directions to view message headers, go to the following sections, as appropriate for the email clients that you use:
 
-  - <span></span>  
-    Outlook 2013, Outlook 2010, or Outlook 2007
+  - <span></span>Outlook 2013, Outlook 2010, or Outlook 2007
 
-  - <span></span>  
-    Outlook Web App
+  - <span></span>Outlook Web App
 
-  - <span></span>  
-    Windows Mail App
+  - <span></span>Windows Mail App
 
-  - <span></span>  
-    Windows Mail (Desktop)
+  - <span></span>Windows Mail (Desktop)
 
-  - <span></span>  
-    Thunderbird client (IMAP)
+  - <span></span>Thunderbird client (IMAP)
 
-  - <span></span>  
-    Mobile devices (Windows Phone, iPhone, iPad, and so on)
+  - <span></span>Mobile devices (Windows Phone, iPhone, iPad, and so on)
 
-  - <span></span>  
-    Outlook.com
+  - <span></span>Outlook.com
 
-  - <span></span>  
-    Apple Mail
+  - <span></span>Apple Mail
 
-  - <span></span>  
-    Gmail.com
+  - <span></span>Gmail.com
 
 <span id="Outlook2013Outlook2010orOutlook2007"></span>
 
