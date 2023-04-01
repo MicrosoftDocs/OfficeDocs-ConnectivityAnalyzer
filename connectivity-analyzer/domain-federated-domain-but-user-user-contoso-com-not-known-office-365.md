@@ -22,39 +22,14 @@ Realm discovery runs to generate the identity provider for the user. After the d
 
 The Remote Connectivity Analyzer displays the following warning message if the domain was federated but the user account was not enabled in the Office 365 environment:
 
-
-<table>
-<colgroup>
-<col/>
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>The domain is a federated domain but the user apollo@contoso.com is not known by Office 365</p></td>
-</tr>
-</tbody>
-</table>
+The domain is a federated domain but the user apollo@contoso.com is not known by Office 365
 
 You can safely ignore this warning message.
 
-<div>
-
 ## More Information
 
-For more information about how to resolve this issue, see Microsoft Knowledge Base article 2523192, [The user principal names (UPN), email addresses, or proxy addresses of users contain an Office 365 domain after synchronization](https://support.microsoft.com/kb/2523192)
+For more information about how to resolve this issue, see Microsoft Knowledge Base article 2523192, [The user principal names (UPN), email addresses, or proxy addresses of users contain an Office 365 domain after synchronization](https://support.microsoft.com/kb/2523192).
 
-For more information planning for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/office365-enterprises/ff652540.aspx)
+For more information planning for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/office365-enterprises/ff652540.aspx).
 
-For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx)
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
+For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx).
