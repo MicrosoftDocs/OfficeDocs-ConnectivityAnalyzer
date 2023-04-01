@@ -18,19 +18,7 @@ _**Topic Last Modified:** 2011-01-25_
 
 The Microsoft Remote Connectivity Analyzer tries to perform a Reverse DNS (PTR) lookup on the outbound IP address that is used to send e-mail to the Internet. If a DNS entry for this IP address cannot be found, the following error message is generated:
 
-
-<table>
-<colgroup>
-<col/>
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>IP Address X.X.X.X does not have a PTR record in DNS</p></td>
-</tr>
-</tbody>
-</table>
-
-<div>
+IP Address X.X.X.X does not have a PTR record in DNS
 
 ## For More Information
 
@@ -39,8 +27,6 @@ Reverse zones are in the following format: reversed dotted-notation-ip.in-addr.a
 For example, if you specify A.B.C.D for the outbound IP Address, the query would be formed as D.C.B.A.in-addr.arpa. The query would not find an entry in the reverse zone in DNS.
 
 Typically, reverse zones are maintained by your ISP.
-
-<div>
 
 ## What this error means to you as an admin
 
@@ -53,18 +39,3 @@ For more information about reverse lookup DNS, see the following articles on the
 <https://tools.ietf.org/html/rfc2317>
 
 Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section at the bottom of this page to post additional reasons why your lookup failed at this point. If you require technical assistance, create a post in the appropriate [Microsoft Exchange Server TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420), or contact [Microsoft Product Support Services](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
