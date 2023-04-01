@@ -15,17 +15,15 @@ ms.date: 05/08/2020
 
 _**Topic Last Modified:** 2011-01-21_
 
-The Microsoft Remote Connectivity Analyzer attempts to connect and authenticate to the Web site or virtual directory using the credentials and protocol supplied by the user. If the connection is attempted using a non-secure protocol, then the test may fail and return the following error.
+The Microsoft Remote Connectivity Analyzer attempts to connect and authenticate to the Web site or virtual directory using the credentials and protocol supplied by the user. If the connection is attempted using a non-secure protocol, then the test may fail and return the following error:
 
 "An HTTP 403.4 was returned because SSL was required on the virtual directory."
 
 This issue occurs whenever a connection is attempted using a non-secure protocol (HTTP), but the server only allows Secure Sockets Layer (SSL) HTTPS connections. The most common scenario is attempting to connect to the website or virtual directory using HTTP instead of HTTPS.
 
-<div>
-
 ## For More Information
 
-To correct this error, do one of the following.
+To correct this error, do one of the following:
 
   - Use the HTTPS protocol to visit the Web site. That is, make sure that the URL begins with "https://".
 
@@ -68,16 +66,3 @@ For Windows 2008:
 5.  Click **Apply** in the right pane.
 
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point.  If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
