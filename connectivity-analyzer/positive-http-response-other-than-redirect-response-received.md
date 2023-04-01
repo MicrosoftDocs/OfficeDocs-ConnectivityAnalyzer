@@ -20,8 +20,6 @@ The Microsoft Remote Connectivity Analyzer sends an HTTP request to the Client A
 
 "A positive HTTP response other than a redirect response was received."
 
-<div>
-
 ## For More Information
 
   - For more information about configuring redirection for Outlook Web Access, see "How to Simplify the Outlook Web Access URL" (<https://go.microsoft.com/fwlink/?linkid=130623>).
@@ -29,16 +27,3 @@ The Microsoft Remote Connectivity Analyzer sends an HTTP request to the Client A
 For more information about configuring redirection for Autodiscover, see "White Paper: Exchange 2007 Autodiscover Service" (<https://go.microsoft.com/fwlink/?linkid=85214>).
 
 The Exchange Remote Connectivity is a new tool with limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
