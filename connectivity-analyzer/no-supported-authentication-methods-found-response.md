@@ -22,8 +22,6 @@ The Microsoft Remote Connectivity Analyzer sends an HTTP request to test the aut
 
 This issue will prevent users from being able to successfully connect to the specified service.
 
-<div>
-
 ## For More Information
 
 To resolve this issue, do the following:
@@ -43,16 +41,3 @@ To resolve this issue, do the following:
 For more information about how to publish Exchange 2007 Services through Microsoft ISA Server 2006, see [Publishing Exchange Server 2007 with ISA Server 2006](https://technet.microsoft.com/library/bb794751.aspx).
 
 Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
