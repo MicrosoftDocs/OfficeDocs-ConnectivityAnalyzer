@@ -13,13 +13,6 @@ ms.date: 05/08/2020
 
 # Name Space is not Federated
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2011-06-22_
 
@@ -27,17 +20,7 @@ The Microsoft Remote Connectivity Analyzer Tool queries the Authentication Platf
 
 The Remote Connectivity Analyzer displays the following warning when the domain part of the name is not set up for identity federation:
 
-
-<table>
-<colgroup>
-<col/>
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>The domain is not a federated domain.</p></td>
-</tr>
-</tbody>
-</table>
+The domain is not a federated domain.
 
 This message indicates a failure of the realm discovery process. This process is the initial check against the domain name to determine whether the Authentication Platform in the cloud has this domain configured for identity federation. The failure of this process can be caused by an incorrectly typed UPN. The failure can also indicate that identity federation is not yet configured.
 
@@ -51,23 +34,8 @@ To verify whether the domain name is set up for identity federation, follow thes
 
 4.  Verify that the domain type is set to **configured for single sign-on**.
 
-<div>
-
 ## More Information
 
-For more information planning for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/office365-enterprises/ff652540.aspx)
+For more information planning for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/office365-enterprises/ff652540.aspx).
 
-For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx)
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
+For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx).

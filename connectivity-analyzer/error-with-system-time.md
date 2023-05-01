@@ -20,18 +20,10 @@ The Microsoft Remote Connectivity Analyzer Tool determines whether any issues th
 
 The Access Denied error causes issues that affect cross-premises free/busy lookups in addition to issues that affect any other cross premises feature. The solution to this issue is to make sure that you are using a reliable time source for the servers within your environment, and to adjust the system time settings to the correct values.
 
-<div class="alert">
-
-
 > [!NOTE]
 > If you are creating a federation trust, you may also receive the following error message for the same reason that was mentioned previously: 1007 AccessDenied: Access Denied.
 
-
-</div>
-
 This error message is generally a reliable indicator of this issue. However, if you are still unsure whether this is the issue that you are dealing with, you can connect to the Exchange Management Shell on your on-premises Exchange server, and then run the following cmdlet: **Test-FederationTrust ValidMailbox -userIdentity –Verbose**.
-
-<div>
 
 ## More Information
 
@@ -44,16 +36,3 @@ We recommend that you consult the following resources before you decide how to c
   - Microsoft Knowledge Base article [How to troubleshoot free/busy issues when you use Exchange Federation in the Microsoft Office 365 for enterprises environment](https://support.microsoft.com/kb/2555008)
 
 Microsoft Remote Connectivity Analyzer currently has limited documentation. In order to improve the documentation for each error that you may receive, we want to ask for more information from the community. Please use the Community Content section in this topic to post additional reasons about why your effort failed at this point. If you want technical help, please contact [support](https://go.microsoft.com/fwlink/?linkid=8158) or create a post at the Remote Connectivity Analyzer forum on TechNet. Although the RCA forum has been retired, the forum threads remain active at [Exchange Previous Versions - Extended Components, Tools, and Utilities](https://social.technet.microsoft.com/forums/exchangesvr3rdpartyappslegacy).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-

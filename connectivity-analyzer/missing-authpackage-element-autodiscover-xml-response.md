@@ -14,7 +14,6 @@ ms.date: 05/08/2020
 # Missing AuthPackage Element in Autodiscover XML Response
 
 
-
 _**Topic Last Modified:** 2009-09-01_
 
 The Microsoft Remote Connectivity Analyzer sends an XML Autodiscover request to the remote Exchange 2007 Client Access server and analyzes the Autodiscover XML response. If there is no AuthPackage element present in the XML response received from Autodiscover, then the Microsoft Remote Connectivity Analyzer displays the following error message:
@@ -22,8 +21,6 @@ The Microsoft Remote Connectivity Analyzer sends an XML Autodiscover request to 
 "Missing AuthPackage element in Autodiscover XML Response"
 
 This error typically occurs when the Server attribute is incorrectly set for the EXPR Outlook Provider. If the value of the attribute is set to anything but its default setting of NULL, then end users may report that they are prompted for credentials when connecting using Outlook Anywhere even though the Exchange proxy settings in Outlook 2007 have been configured for NT LAN Manager (NTLM) authentication.
-
-<div>
 
 ## For More Information
 
@@ -34,16 +31,3 @@ For more information, including instructions for modifying the Server attribute,
 For more information about modifying the Outlook Providers in general, see, [When, if and how do you modify Outlook Providers?](https://go.microsoft.com/fwlink/?linkid=160947)
 
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-

@@ -13,13 +13,8 @@ ms.date: 05/08/2020
 
 # You must uninstall all interim updates before you install Exchange Server 2010 Service Pack 2
 
-</div>
 
-<div id="mainSection">
-
-<div id="mainBody">
-
-\[This topic is intended to address a specific issue called out by the Microsoft Remote Connectivity Analyzer tool. You should apply it only to systems that have had the Microsoft Remote Connectivity Analyzer tool run against them and are experiencing that specific issue. The Microsoft Remote Connectivity Analyzer tool, available as a free download, remotely collects configuration data from each server in the topology and automatically analyzes the data. The resulting report details important configuration issues, potential problems, and nondefault product settings. By following these recommendations, you can achieve better performance, scalability, reliability, and uptime. For more information about the tool or to download the latest versions, see "Microsoft Exchange Analyzers" at <https://go.microsoft.com/fwlink/?linkid=34707>.\] <span> </span>
+This topic is intended to address a specific issue called out by the Microsoft Remote Connectivity Analyzer tool. You should apply it only to systems that have had the Microsoft Remote Connectivity Analyzer tool run against them and are experiencing that specific issue. The Microsoft Remote Connectivity Analyzer tool, available as a free download, remotely collects configuration data from each server in the topology and automatically analyzes the data. The resulting report details important configuration issues, potential problems, and nondefault product settings. By following these recommendations, you can achieve better performance, scalability, reliability, and uptime. For more information about the tool or to download the latest versions, see [Microsoft Exchange Analyzers](https://go.microsoft.com/fwlink/?linkid=34707).
 
 _**Topic Last Modified:** 2011-11-02_
 
@@ -38,14 +33,3 @@ To uninstall the IU, follow these steps:
 4.  At a command prompt, run **sn.exe -Vu \*** to enable strong name verification.
 
 5.  Run **sn.exe –Vl** to verify that strong name verification is enabled.
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-

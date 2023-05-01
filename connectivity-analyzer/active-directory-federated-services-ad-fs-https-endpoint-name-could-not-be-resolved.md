@@ -13,13 +13,6 @@ ms.date: 05/08/2020
 
 # Active Directory Federated Services (AD FS) HTTPS endpoint name could not be resolved
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2011-06-21_
 
@@ -27,17 +20,7 @@ The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platf
 
 The Remote Connectivity Analyzer returns the following warning if the DNS entry cannot be found for the STS endpoint:
 
-
-<table>
-<colgroup>
-<col/>
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>The host name could not be resolved in DNS.</p></td>
-</tr>
-</tbody>
-</table>
+The host name could not be resolved in DNS.
 
 This message might indicate either of the following:
 
@@ -45,33 +28,14 @@ This message might indicate either of the following:
 
   - The STS endpoint host record has not yet been replicated.
 
-<div>
-
 ## Corrective Actions
 
-  - Use nslookup to verify that the Host (A) record exists on the DNS server. For more information, see [To verify A resource records exist in DNS](https://go.microsoft.com/fwlink/?linkid=63001)
+  - Use nslookup to verify that the Host (A) record exists on the DNS server. For more information, see [To verify A resource records exist in DNS](https://go.microsoft.com/fwlink/?linkid=63001).
 
   - If the Host (A) resource record does not exist or is incorrect, manually add or modify the host record. If your external DNS zone is hosted by a third-party provider, you may have to contact that company or use custom tools to make these DNS modifications.
-
-<div>
 
 ## More Information
 
 For information about how to troubleshoot DNS, see [Troubleshooting DNS](https://go.microsoft.com/fwlink/?linkid=63003).
 
 Sometimes, you may have to verify the URL that is used for the AD FS endpoint for Office 365 identity federation. For a procedure to determine the value to which the endpoint is currently set, see the “More Information” section of [Internet Explorer cannot display the Microsoft Online Portal webpage when a federated user tries to sign in](https://support.microsoft.com/kb/2419389).
-
-</div>
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
