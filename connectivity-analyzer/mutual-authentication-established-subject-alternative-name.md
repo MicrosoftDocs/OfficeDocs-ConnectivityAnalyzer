@@ -34,8 +34,6 @@ The following symptoms may be experienced by Windows XP clients and by Windows V
 
 If you plan to support only clients that run Windows Vista Service Pack 1 and newer versions of Windows, you can safely ignore this warning.
 
-<div>
-
 ## For More Information
 
   - For more information about this issue, see [Mutual Authentication Could Not be Established](mutual-authentication-could-not-be-established.md).
@@ -49,16 +47,3 @@ If you plan to support only clients that run Windows Vista Service Pack 1 and ne
       - [The Autodiscover Service and Outlook Providers - how does this stuff work?](https://go.microsoft.com/fwlink/?linkid=161811)
 
 Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors that you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why your efforts failed at this point.  If you require technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-

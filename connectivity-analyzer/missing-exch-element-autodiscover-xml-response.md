@@ -30,7 +30,6 @@ If the EXCH element is missing from the Autodiscover response, the Remote Connec
 
 Missing EXCH element in Autodiscover XML Response
 
-<div>
 
 ## For More Information
 
@@ -57,17 +56,3 @@ The Remote Connectivity Analyzer is a new tool that has limited documentation at
 #### Other Resources
 
 [Set-CasMailbox](https://technet.microsoft.com/library/bb125264.aspx)  
-  
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-

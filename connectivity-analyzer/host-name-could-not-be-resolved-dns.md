@@ -20,8 +20,6 @@ The Microsoft Analyzer Tool performs a Domain Name System (DNS) lookup to retrie
 
 "The host name could not be resolved in DNS."
 
-<div>
-
 ## For More Information
 
 To correct this error, do the following.
@@ -35,16 +33,3 @@ For information about how to troubleshoot DNS, see [Troubleshooting DNS](https:/
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
 Sometimes, you may have to verify the URL that is used for the AD FS endpoint for Office 365 identity federation. For a procedure to determine the value to which the endpoint is currently set, see the “More Information” section of [Internet Explorer cannot display the Office 365 portal webpage when a federated user tries to sign in](https://support.microsoft.com/kb/2419389).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-

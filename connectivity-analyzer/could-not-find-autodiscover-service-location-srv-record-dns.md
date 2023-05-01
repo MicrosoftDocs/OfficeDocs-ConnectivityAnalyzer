@@ -30,16 +30,8 @@ Microsoft Office Outlook 2007 clients attempt to connect to the Autodiscover ser
 
 4.  Using an SRV record
 
-<div class="alert">
-
-
 > [!NOTE]
 > This should only be considered an error if you intended to configure your environment so that the location of the Autodiscover virtual directory on the Client Access server would be found using an SRV record.
-
-
-</div>
-
-<div>
 
 ## For More Information
 
@@ -47,19 +39,6 @@ The following resources should be consulted before deciding how to configure Aut
 
   - For more information about Outlook 2007 and Autodiscover interoperability, including a description of each method that can be used to locate Autodiscover, see [White Paper: Exchange 2007 Autodiscover Service](https://go.microsoft.com/fwlink/?linkid=85214).
 
-  - For more information about enabling Outlook 2007 to use SRV records to locate Autodiscover, see Microsoft Knowledge Base article, "A new feature is available that enables Outlook 2007 to use DNS Service Location (SRV) records to locate the Exchange Autodiscover service" ([https://go.microsoft.com/fwlink/?LinkId=3052\&kbid=940881](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=940881)).
+  - For more information about enabling Outlook 2007 to use SRV records to locate Autodiscover, see Microsoft Knowledge Base article, [A new feature is available that enables Outlook 2007 to use DNS Service Location (SRV) records to locate the Exchange Autodiscover service](https://go.microsoft.com/fwlink/?LinkId=3052\&kbid=940881).
 
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-

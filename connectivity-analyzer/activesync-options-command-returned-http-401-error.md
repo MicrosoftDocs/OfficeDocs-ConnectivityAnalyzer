@@ -13,14 +13,6 @@ ms.date: 05/08/2020
 
 # The ActiveSync OPTIONS command returned an HTTP 401 Error
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
-
 _**Topic Last Modified:** 2013-02-05_
 
 Microsoft Exchange ActiveSync enables the synchronization of mailbox information with mobile devices. To do this, Exchange uses the Microsoft-Server-ActiveSync virtual directory in Internet Information Services (IIS).
@@ -41,14 +33,9 @@ When Exchange 2010 or Exchange 2007 coexist with Exchange 2003, Integrated Windo
 
 The most common cause for this error is an incorrect username or password.  If you are using Office 365, make sure that you log in by using your full User Principal Name (UPN). For example, log in by using the following: user@domain.com.  If the login information is correct, we recommend that you use the following procedure to help resolve this issue.
 
-<div class="alert">
-
 
 > [!IMPORTANT]
 > You must use Exchange System Manager to adjust the authentication settings of the Exchange ActiveSync virtual directory. Do not use IIS Manager to change the authentication setting on the ActiveSync virtual directory. This is because the Exchange System Attendant overwrites the settings that are stored in Active Directory.
-
-
-</div>
 
 **To modify permissions on the Microsoft-Server-ActiveSync virtual directory in Exchange 2003 Server Manager**
 
@@ -80,28 +67,11 @@ The most common cause for this error is an incorrect username or password.  If 
     
     4.  Click the **Directory Security** tab, and then select the **Edit** button under **Authentication and access control**.
     
-    5.  Verify that the **Integrated Windows Authentication** check box is selected.
-        
-        <div class="alert">
-        
+    5.  Verify that the **Integrated Windows Authentication** check box is selected.      
 
         > [!NOTE]
         > If this check box is selected, you have successfully replicated the change that was made in the Exchange System Manager to the metabase on the Exchange server.
-
-        
-        </div>
     
     6.  Click **Cancel** two times, and then exit Internet Information Services (IIS) Manager.
 
-For more information, see step 7 under “Installing Exchange 2010” in the following TechNet topic: [Upgrade from Exchange 2003 Client Access](https://go.microsoft.com/fwlink/p/?linkid=280550)
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
+For more information, see step 7 under “Installing Exchange 2010” in the following TechNet topic: [Upgrade from Exchange 2003 Client Access](https://go.microsoft.com/fwlink/p/?linkid=280550).

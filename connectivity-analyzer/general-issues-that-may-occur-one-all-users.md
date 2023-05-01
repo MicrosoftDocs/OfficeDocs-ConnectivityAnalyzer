@@ -15,26 +15,12 @@ ms.date: 05/08/2020
 
 _**Topic Last Modified:** 2012-02-24_
 
-<div id="sectionSection0" class="section">
-
 The Microsoft Remote Connectivity Analyzer tool queries the Authentication Platform in the cloud to perform a realm discovery. When that process is finished, the Authentication Platform passes to the requesting client the ADFS endpoint URL that the client requires for authentication. The tool performs the authentication on behalf of the user to simulate authentication to the Office 365 environment.
 
 If the Remote Connectivity Analyzer tool displays a warning at this stage, the message can indicate any of several different issues. Because the authentication process involves many steps, the solution that is required for a returned error or warning is not always obvious. For example, you might receive one of the following messages:
 
-
-<table>
-<colgroup>
-<col/>
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>There was a problem accessing the site. Try to browse to the site again.</p></td>
-</tr>
-<tr class="even">
-<td><p>Your organization could not sign you in to this service</p></td>
-</tr>
-</tbody>
-</table>
+There was a problem accessing the site. Try to browse to the site again.
+Your organization could not sign you in to this service.
 
 The following are some of the issues that can cause such generic errors:
 
@@ -48,8 +34,6 @@ The following are some of the issues that can cause such generic errors:
 
 Because errors such as these are fairly generic, the solutions will vary widely. The “More information” section includes several different methods for resolving these issues.
 
-<div>
-
 ## More Information
 
 For more information about how to troubleshoot issues that have unidentified causes, see the following Microsoft Knowledge Base articles:
@@ -62,21 +46,6 @@ For more information about how to troubleshoot issues that have unidentified cau
 
   - [A federated user is prompted for credentials or cannot sign in to Microsoft Online Services setting up single sign-on for an organization](https://go.microsoft.com/fwlink/?linkid=3052%26kbid=2392130)
 
-For more information about how to plan for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/office365-enterprises/ff652540.aspx)
+For more information about how to plan for identity federation, see [Prepare for single sign-on](https://onlinehelp.microsoft.com/office365-enterprises/ff652540.aspx).
 
-For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx)
-
-</div>
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
+For help to upgrade your current Exchange 2010 environment, see [Exchange Server Deployment Assistant](https://technet.microsoft.com/exdeploy2010/default.aspx).

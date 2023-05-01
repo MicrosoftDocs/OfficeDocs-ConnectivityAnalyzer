@@ -18,19 +18,7 @@ _**Topic Last Modified:** 2012-03-26_
 
 The Microsoft Remote Connectivity Analyzer checks the provided outbound IP address against several real-time block lists (RBLs) as part of its Outbound SMTP test. When the IP address provided is found on one or more RBLs, you receive the following error message:
 
-
-<table>
-<colgroup>
-<col/>
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>The IP X.X.X.X was found on the block list. Status code: X</p></td>
-</tr>
-</tbody>
-</table>
-
-<div>
+The IP X.X.X.X was found on the block list. Status code: X
 
 ## For More Information
 
@@ -48,35 +36,18 @@ Typical codes include the following:
 
   - **127.0.0.3** - dial-up-issued address or DHCP-issued address
 
-<div>
-
 ## What this error means to you as an admin
 
 Many e-mail servers use popular RBLs as one defense against spam. If the IP address of your Exchange Server appears on an RBL to which a receiving server is subscribed, mail from your domain may be rejected or flagged as spam. It is for this reason that ExRCA tries to detect the presence of the IP address that you entered against some of these more well know RBLs.
 
 To see examples of some well-known RBLs, visit the following Web sites:
 
-  - <https://www.dnsbl.info/dnsbl-details.php?dnsbl=pbl.spamhaus.org>
+  - [https://www.dnsbl.info/dnsbl-details.php?dnsbl=pbl.spamhaus.org](https://www.dnsbl.info/dnsbl-details.php?dnsbl=pbl.spamhaus.org)
 
-  - <https://www.au.sorbs.net/>
+  - [https://www.au.sorbs.net/](https://www.au.sorbs.net/)
 
-  - <https://www.spamcop.net/>
+  - [https://www.spamcop.net/](https://www.spamcop.net/)
 
 For more information about RBLs, see Configuring Filtering and Controlling Spam and also visit the following Spam Links Web site:
 
-  - <https://spamlinks.net/filter-dnsbl-lists.htm>
-
-</div>
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
+  - [https://spamlinks.net/filter-dnsbl-lists.htm](https://spamlinks.net/filter-dnsbl-lists.htm)

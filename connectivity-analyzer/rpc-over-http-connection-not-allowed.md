@@ -13,21 +13,12 @@ ms.date: 05/08/2020
 
 # RPC over HTTP Connection is Not Allowed
 
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-<span> </span>
 
 _**Topic Last Modified:** 2011-02-10_
 
 The Microsoft Remote Connectivity Analyzer attempts to log on to the Information Store using RPC over HTTP. If the error returned by the information store is ecRpcHttpDisallowed, then the Microsoft Remote Connectivity Analyzer tool returns the following error.
 
 "RPC/HTTP connections for this client are prohibited"
-
-<div>
 
 ## For More Information
 
@@ -45,26 +36,8 @@ For more information, see [When You Use Outlook With an Exchange 2007 Mailbox, Y
 
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
 
-</div>
-
-<div>
-
 ## See Also
 
 #### Other Resources
 
-[Set-CASMailbox](https://technet.microsoft.com/library/bb125264.aspx)  
-  
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
+[Set-CASMailbox](https://technet.microsoft.com/library/bb125264.aspx)

@@ -24,8 +24,6 @@ Microsoft Remote Connectivity Analyzer issues an error when you use Microsoft In
 "Error Code 500 Internal Server Error.  
 The target principal name is incorrect. (-2146893022)."
 
-<div>
-
 ## Resolution
 
 Check that the certificate names follow the guidelines below:
@@ -38,25 +36,8 @@ Check that the certificate names follow the guidelines below:
 
 To troubleshoot, either obtain a new certificate that matches the required name, or modify the required name to match the certificate’s common name. In addition, make sure that the ISA Server can resolve the name to the IP address of the published Web site. If you modify the name on the To tab, one way to ensure that the name can be resolved is to add a Hosts file entry on the ISA Server computer (WINNT\\system32\\drivers\\etc\\hosts) to map the name and IP address of the published site.
 
-</div>
-
-<div>
-
 ## For More Information
 
-To learn more about troubleshooting SSL certificates when using ISA Server, see "[Troubleshooting SSL Certificates in ISA Server 2004 Publishing](https://go.microsoft.com/fwlink/?linkid=48904)."
+To learn more about troubleshooting SSL certificates when using ISA Server, see [Troubleshooting SSL Certificates in ISA Server 2004 Publishing](https://go.microsoft.com/fwlink/?linkid=48904).
 
 The Microsoft Remote Connectivity Analyzer has limited documentation at this time. In an effort to improve the documentation for each of the errors you might receive, we would like to solicit additional information from the community. Please use the Community Content section below to post additional reasons why you failed at this point. If you need technical assistance, please create a post in the appropriate [Exchange TechNet forum](https://go.microsoft.com/fwlink/?linkid=73420) or contact [support](https://go.microsoft.com/fwlink/?linkid=8158).
-
-</div>
-
-</div>
-
-<span> </span>
-
-</div>
-
-</div>
-
-</div>
-
