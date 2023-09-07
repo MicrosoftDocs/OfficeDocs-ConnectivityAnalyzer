@@ -23,18 +23,26 @@ The Microsoft Remote Connectivity Analyzer tool uses a specific set of IP addres
 > At this time the Microsoft Remote Connectivity Analyzer tool doesn't support Microsoft 365 Government environments (GCC or GCC High).
 
 # More information
-Remote Connectivity Analyzer is a free connectivity test platform for cloud-based service. It tests the availability of the required federation service endpoint for expected behavior by acting on those services from the Internet.
+Remote Connectivity Analyzer is a free connectivity test platform for cloud-based services and on-premises technologies. It tests the It tests the availability of the remote endpoint for expected behavior by acting on those services from the Internet.
 
 # How to run Remote Connectivity Analyzer Diagnostics
-1 - Open a web browser, and then browse to [Microsoft Remote Connectivity Analyzer](https://testconnectivity.microsoft.com/)
-2 - Go through the technologies available and select one of the proposed scenarios
-3 – Depending on the test you would like to do, you need to type your user ID, sign in and then verify the password, type the verification code, and then click Perform Test.
+1. Open a web browser, and then browse to [Microsoft Remote Connectivity Analyzer](https://testconnectivity.microsoft.com/)
+2. Go through the technologies available and select one of the available scenarios
+3. To run the desired diagnostic test, please follow these steps, which may vary depending on the specific test:
+
+- Input your user ID.
+- Authenticate by signing in and confirming your password.
+- Enter the provided verification code.
+- Click the "Perform Test" button to proceed.
 
 # What technologies are currently covered?
-[Office 365](https://testconnectivity.microsoft.com/tests/o365)
-[Exchange Server](https://testconnectivity.microsoft.com/tests/exchange)
-[Microsoft Teams](https://testconnectivity.microsoft.com/tests/teams)
-[Skype for Business Server](https://testconnectivity.microsoft.com/tests/skype)
+- [Office 365](https://testconnectivity.microsoft.com/tests/o365)
+
+- [Exchange Server](https://testconnectivity.microsoft.com/tests/exchange)
+  
+- [Microsoft Teams](https://testconnectivity.microsoft.com/tests/teams)
+  
+- [Skype for Business Server](https://testconnectivity.microsoft.com/tests/skype)
 
 
 The articles in this section correspond to specific error conditions that are identified when running the Microsoft Remote Connectivity Analyzer tool. Each article describes the error condition and provides links to help IT Administrators resolve the issue.
