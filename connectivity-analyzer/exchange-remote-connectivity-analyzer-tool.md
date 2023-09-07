@@ -23,7 +23,7 @@ The Microsoft Remote Connectivity Analyzer tool uses a specific set of IP addres
 > At this time the Microsoft Remote Connectivity Analyzer tool doesn't support Microsoft 365 Government environments (GCC or GCC High).
 
 # More information
-Remote Connectivity Analyzer is a free connectivity test platform for cloud-based services and on-premises technologies. It tests the It tests the availability of the remote endpoint for expected behavior by acting on those services from the Internet.
+Remote Connectivity Analyzer is a free connectivity test platform for cloud-based services and on-premises technologies. It tests the availability of the remote endpoint for expected behavior by acting on those services from the Internet.
 
 # How to run Remote Connectivity Analyzer Diagnostics
 1. Open a web browser, and then browse to [Microsoft Remote Connectivity Analyzer](https://testconnectivity.microsoft.com/)
