@@ -1,7 +1,7 @@
 ---
 title: Self-help diagnostics for Microsoft Teams administrators and end users
 author: CarlosFarrica
-ms.author: CarlosFarrica
+ms.author: cafarric
 manager: jweum
 audience: ITPro 
 ms.topic: article 
