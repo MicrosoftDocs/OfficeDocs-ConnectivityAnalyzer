@@ -1,7 +1,7 @@
 ---
 title: Self-help diagnostics for Microsoft Teams administrators and end users
-author: cafarric
-ms.author: cafarric
+author: CarlosFarrica
+ms.author: CarlosFarrica
 manager: jweum
 audience: ITPro 
 ms.topic: article 
@@ -13,13 +13,13 @@ ms.date: 09/08/2023
 
 # Self-help diagnostics for Microsoft Teams administrators and end users
 
-# Summary
+## Summary
 As Microsoft Teams usage grows, Microsoft has developed Teams-specific diagnostic scenarios that cover top support topics and the most common tasks for which administrators or end users request help. It is important to note that while these diagnostics cannot make changes to your tenant, they do provide insight into known issues and the instructions that allow you to fix the behavior quickly.
 
 > [!NOTE]
 > Currently the Microsoft Remote Connectivity Analyzer tool does not support Microsoft 365 Government environments (GCC or GCC High).
 
-# What scenarios are currently covered?
+## What scenarios are currently covered?
 The following diagnostics are currently available with brief scenario descriptions.
 
 | Diagnostic |	Description |
