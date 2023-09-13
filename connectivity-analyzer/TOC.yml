@@ -1,5 +1,7 @@
 - name: Microsoft Remote Connectivity Analyzer Tool
   href: exchange-remote-connectivity-analyzer-tool.md
+  - name: Microsoft Teams
+    href: microsoft-teams/self-help-diagnostics-for-microsoft-teams.md
   items:
   - name: RPC Server Unavailable Error was Thrown by the RPC Runtime
     href: rpc-server-unavailable-error-thrown-rpc-runtime.md
