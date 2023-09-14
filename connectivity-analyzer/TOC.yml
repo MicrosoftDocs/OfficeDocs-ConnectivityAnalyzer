@@ -4,8 +4,7 @@
   - name: Exchange Server
     Items:
     - name: Exchange Server
-    href: exchange-server/exchnge.md
-  items:
+      href: exchange-server/exchange.md
   - name: Microsoft Teams
     items:
     - name: Self-help Diagnostics for Teams
