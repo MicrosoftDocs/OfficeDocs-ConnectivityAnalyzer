@@ -1,6 +1,10 @@
 - name: Microsoft Remote Connectivity Analyzer Tool
   href: exchange-remote-connectivity-analyzer-tool.md
   items:
+    - name: Office 365
+    Items:
+    - name: Office 365
+      href: office-365/office.md
   - name: Exchange Server
     Items:
     - name: Exchange Server
@@ -9,6 +13,10 @@
     items:
     - name: Self-help Diagnostics for Teams
       href: microsoft-teams/self-help-diagnostics-for-microsoft-teams.md
+  - name: Skype for Business Server
+    Items:
+    - name: Skype for Business Server
+      href: skype-for-business-server/skype.md
   - name: RPC Server Unavailable Error was Thrown by the RPC Runtime
     href: rpc-server-unavailable-error-thrown-rpc-runtime.md
   - name: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
