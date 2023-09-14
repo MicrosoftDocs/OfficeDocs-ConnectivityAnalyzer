@@ -2,11 +2,11 @@
   href: exchange-remote-connectivity-analyzer-tool.md
   items:
     - name: Office 365
-    Items:
+    items:
     - name: Office 365
       href: office-365/office.md
   - name: Exchange Server
-    Items:
+    items:
     - name: Exchange Server
       href: exchange-server/exchange.md
   - name: Microsoft Teams
@@ -14,7 +14,7 @@
     - name: Self-help Diagnostics for Teams
       href: microsoft-teams/self-help-diagnostics-for-microsoft-teams.md
   - name: Skype for Business Server
-    Items:
+    items:
     - name: Skype for Business Server
       href: skype-for-business-server/skype.md
   - name: RPC Server Unavailable Error was Thrown by the RPC Runtime
