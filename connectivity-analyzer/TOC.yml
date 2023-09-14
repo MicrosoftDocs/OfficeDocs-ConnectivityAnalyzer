@@ -1,7 +1,7 @@
 - name: Microsoft Remote Connectivity Analyzer Tool
   href: exchange-remote-connectivity-analyzer-tool.md
   items:
-    - name: Office 365
+  - name: Office 365
     items:
     - name: Office 365
       href: office-365/office.md
