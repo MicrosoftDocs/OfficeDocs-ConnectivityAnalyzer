@@ -1,6 +1,9 @@
 - name: Microsoft Remote Connectivity Analyzer Tool
   href: exchange-remote-connectivity-analyzer-tool.md
   items:
+  - name: Exchange Server
+    href: Exchange Server/
+  items:
   - name: Microsoft Teams
     items:
     - name: Self-help Diagnostics for Teams
