@@ -2,7 +2,9 @@
   href: exchange-remote-connectivity-analyzer-tool.md
   items:
   - name: Exchange Server
-    href: Exchange Server/
+    Items:
+    - name: Exchange Server
+    href: exchange-server/exchnge.md
   items:
   - name: Microsoft Teams
     items:
