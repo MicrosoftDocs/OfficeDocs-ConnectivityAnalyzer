@@ -3,20 +3,20 @@
   items:
   - name: Office 365
     items:
-    - name: Office 365
-      href: office-365/office.md
+    - name: Self-help Diagnostics for Office 365
+      href: office-365/self-help-diagnostics-for-office-365.md
   - name: Exchange Server
     items:
-    - name: Exchange Server
-      href: exchange-server/exchange.md
+    - name: Self-help Diagnostics for Exchange Server
+      href: exchange-server/self-help-diagnostics-for-exchange.md
   - name: Microsoft Teams
     items:
     - name: Self-help Diagnostics for Teams
       href: microsoft-teams/self-help-diagnostics-for-microsoft-teams.md
   - name: Skype for Business Server
     items:
-    - name: Skype for Business Server
-      href: skype-for-business-server/skype.md
+    - name: Self-help Diagnostics for Skype for Business Server
+      href: skype-for-business-server/self-help-diagnostics-for-skype.md
   - name: RPC Server Unavailable Error was Thrown by the RPC Runtime
     href: rpc-server-unavailable-error-thrown-rpc-runtime.md
   - name: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
