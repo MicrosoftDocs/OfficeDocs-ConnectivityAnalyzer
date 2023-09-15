@@ -1,18 +1,25 @@
 - name: Microsoft Remote Connectivity Analyzer Tool
   href: exchange-remote-connectivity-analyzer-tool.md
   items:
+  - name: Office 365
+    items:
+    - name: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
+      href: could-not-find-ms-server-activesync-header-options-response.md
+  - name: Exchange Server
+    items:
+    - name: RPC Server Unavailable Error was Thrown by the RPC Runtime
+      href: rpc-server-unavailable-error-thrown-rpc-runtime.md
+    - name: An Unexpected Redirect Response was Received
+      href: an-unexpected-redirect-response-received.md
   - name: Microsoft Teams
     items:
     - name: Self-help Diagnostics for Teams
       href: microsoft-teams/self-help-diagnostics-for-microsoft-teams.md
-  - name: RPC Server Unavailable Error was Thrown by the RPC Runtime
-    href: rpc-server-unavailable-error-thrown-rpc-runtime.md
-  - name: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
-    href: could-not-find-ms-server-activesync-header-options-response.md
+  - name: Skype for Business Server
+    items:
+    - name: Self-help Diagnostics for Skype for Business Server
   - name: Could Not Negotiate an Appropriate Airsync Version with Server
     href: could-not-negotiate-appropriate-airsync-version-with-server.md
-  - name: An Unexpected Redirect Response was Received
-    href: an-unexpected-redirect-response-received.md
   - name: A Positive HTTP Response Other than a Redirect Response was Received
     href: positive-http-response-other-than-redirect-response-received.md
   - name: Could Not Find Autodiscover Service Location (SRV) Record in DNS
