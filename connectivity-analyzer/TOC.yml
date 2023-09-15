@@ -1,16 +1,100 @@
 - name: Microsoft Remote Connectivity Analyzer Tool
   href: exchange-remote-connectivity-analyzer-tool.md
   items:
-  - name: Office 365
-    items:
-    - name: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
-      href: could-not-find-ms-server-activesync-header-options-response.md
-  - name: Exchange Server
+  - name: Exchange
     items:
     - name: RPC Server Unavailable Error was Thrown by the RPC Runtime
       href: rpc-server-unavailable-error-thrown-rpc-runtime.md
-    - name: An Unexpected Redirect Response was Received
-      href: an-unexpected-redirect-response-received.md
+    - name: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
+      href: could-not-find-ms-server-activesync-header-options-response.md
+    - name: Could Not Negotiate an Appropriate Airsync Version with Server
+      href: could-not-negotiate-appropriate-airsync-version-with-server.md
+    - name: A Positive HTTP Response Other than a Redirect Response was Received
+      href: positive-http-response-other-than-redirect-response-received.md
+    - name: Could Not Find Autodiscover Service Location (SRV) Record in DNS
+      href: could-not-find-autodiscover-service-location-srv-record-dns.md
+    - name: The MobileSync Autodiscover Provider Returned an Error Status in the XML Response
+      href: mobilesync-autodiscover-provider-returned-error-status-xml-response.md
+    - name: The Outlook Autodiscover Provider Returned an Error Status in the XML Response
+      href: outlook-autodiscover-provider-returned-error-status-xml-response.md
+    - name: Missing EXPR Element in Autodiscover XML Response
+      href: missing-expr-element-autodiscover-xml-response.md
+    - name: Missing AuthPackage Element in Autodiscover XML Response
+      href: missing-authpackage-element-autodiscover-xml-response.md
+    - name: Expected Service Banner was not Received when Connecting
+      href: expected-service-banner-not-received-when-connecting.md
+    - name: Name Could Not be Matched to a Name in the Address List
+      href: name-could-not-be-matched-name-address-list.md
+    - name: Mutual Authentication Could Not be Established
+      href: mutual-authentication-could-not-be-established.md
+    - name: RPC Encryption Required
+      href: rpc-encryption-required.md
+    - name: The Client and Server Versions are Not Compatible
+      href: client-and-server-versions-are-not-compatible.md
+    - name: Cached Mode is Required for this Mailbox
+      href: cached-mode-required-this-mailbox.md
+    - name: RPC over HTTP Connection is Not Allowed
+      href: rpc-over-http-connection-not-allowed.md
+    - name: MAPI Connections are Not Allowed
+      href: mapi-connections-are-not-allowed.md
+    - name: No MX Records were Found for the Specified SMTP Domain
+      href: no-mx-records-were-found-specified-smtp-domain.md
+    - name: Open Relay Detected
+      href: open-relay-detected.md
+    - name: Access is Denied Error was Thrown by the RPC Runtime
+      href: access-denied-error-thrown-rpc-runtime.md
+    - name: Exchange ActiveSync Returned an HTTP 500 Error
+      href: exchange-activesync-returned-http-500-error.md
+    - name: Exchange ActiveSync Returned an HTTP 451 Error
+      href: exchange-activesync-returned-http-451-error.md
+    - name: ActiveSync ExternalUrl is Not in the Expected Format
+      href: activesync-externalurl-not-expected-format.md
+    - name: Windows Mobile Root Certificates
+      href: windows-mobile-root-certificates.md
+    - name: Missing Intermediate Certificates in Chain
+      href: missing-intermediate-certificates-chain.md
+    - name: The Act As Account Does Not Have Permissions to Create Items in this Folder
+      href: act-as-account-does-not-have-permissions-create-items-this-folder.md
+    - name: The Act As Account May Not Have Permission to Delete Items in this Folder
+      href: act-as-account-may-not-have-permission-delete-items-this-folder.md
+    - name: The Act As Account May Not Have Permissions to Access this Folder
+      href: act-as-account-may-not-have-permissions-access-this-folder.md
+    - name: The Service Account Specified Does Not Have Impersonation Rights on Client Access Server
+      href: service-account-specified-does-not-have-impersonation-rights-client-access-server.md
+    - name: The Service Account Specified Does Not Have Impersonation Rights on the Act As Account Specified
+      href: service-account-specified-does-not-have-impersonation-rights-act-as-account-specified.md
+    - name: Invalid XML Response Unable to Retrieve Availability or OOF Settings
+      href: invalid-xml-response-unable-retrieve-availability-oof-settings.md
+    - name: IP Address does not have a PTR record in DNS
+      href: ip-address-does-not-have-ptr-record-dns.md
+    - name: IP Address Found on RBL
+      href: ip-address-found-rbl.md
+    - name: You must uninstall all interim updates before you install Exchange Server 2010 Service Pack 2
+      href: must-uninstall-all-interim-updates-before-install-exchange-server-2010-service-pack-2.md
+    - name: Missing EXCH Element in Autodiscover XML Response
+      href: missing-exch-element-autodiscover-xml-response.md
+    - name: Mutual Authentication Established by Subject Alternative Name
+      href: mutual-authentication-established-subject-alternative-name.md
+    - name: Error with System Time
+      href: error-with-system-time.md
+    - name: Firewall Pre-Authentication Check
+      href: firewall-pre-authentication-check.md
+    - name: EWS Endpoint Directed to On-Premises Legacy Server
+      href: ews-endpoint-directed-premises-legacy-server.md
+    - name: 'Error when you run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"'
+      href: error-when-run-exchange-remote-connectivity-analyzer-tool-test-connectivity-office-365-to-authenticate-office-365-must-enter-your-microsoft-account.md
+    - name: The user name provided could not be matched to a name in the email server's address list
+      href: user-name-provided-could-not-be-matched-name-email-server-address-list.md
+    - name: The email server is not available
+      href: email-server-not-available.md
+    - name: The ActiveSync OPTIONS command returned an HTTP 401 Error
+      href: activesync-options-command-returned-http-401-error.md
+    - name: Exchange ActiveSync Returned an HTTP 503 Error
+      href: exchange-activesync-returned-http-503-error.md
+    - name: Message Header Analyzer
+      href: message-header-analyzer.md
+    - name: SOA Record for the parent zone is returned when the child zone uses NS record delegation
+      href: mismatching-soa-and-ns-zone-names.md
   - name: Microsoft Teams
     items:
     - name: Self-help Diagnostics for Teams
@@ -18,137 +102,31 @@
   - name: Skype for Business Server
     items:
     - name: Self-help Diagnostics for Skype for Business Server
-  - name: Could Not Negotiate an Appropriate Airsync Version with Server
-    href: could-not-negotiate-appropriate-airsync-version-with-server.md
-  - name: A Positive HTTP Response Other than a Redirect Response was Received
-    href: positive-http-response-other-than-redirect-response-received.md
-  - name: Could Not Find Autodiscover Service Location (SRV) Record in DNS
-    href: could-not-find-autodiscover-service-location-srv-record-dns.md
-  - name: The MobileSync Autodiscover Provider Returned an Error Status in the XML Response
-    href: mobilesync-autodiscover-provider-returned-error-status-xml-response.md
-  - name: The Outlook Autodiscover Provider Returned an Error Status in the XML Response
-    href: outlook-autodiscover-provider-returned-error-status-xml-response.md
-  - name: Missing EXPR Element in Autodiscover XML Response
-    href: missing-expr-element-autodiscover-xml-response.md
-  - name: Missing AuthPackage Element in Autodiscover XML Response
-    href: missing-authpackage-element-autodiscover-xml-response.md
-  - name: Anonymous Authentication Enabled for Virtual Directory
-    href: anonymous-authentication-enabled-virtual-directory.md
-  - name: No Supported Authentication Methods Found in Response
-    href: no-supported-authentication-methods-found-response.md
-  - name: An Unsupported Authentication Method was Found
-    href: an-unsupported-authentication-method-found.md
-  - name: All Required Authentication Methods Could Not be Found
-    href: all-required-authentication-methods-could-not-be-found.md
-  - name: The Host Name Could Not be Resolved in DNS
-    href: host-name-could-not-be-resolved-dns.md
-  - name: SSL Certificate Name Mismatch
-    href: ssl-certificate-name-mismatch.md
-  - name: SSL Certificate Trust Failure
-    href: ssl-certificate-trust-failure.md
-  - name: Expected Service Banner was not Received when Connecting
-    href: expected-service-banner-not-received-when-connecting.md
-  - name: A Network Error Occurred while Communicating with Remote Host
-    href: network-error-occurred-while-communicating-with-remote-host.md
-  - name: Name Could Not be Matched to a Name in the Address List
-    href: name-could-not-be-matched-name-address-list.md
-  - name: Mutual Authentication Could Not be Established
-    href: mutual-authentication-could-not-be-established.md
-  - name: RPC Encryption Required
-    href: rpc-encryption-required.md
-  - name: The Client and Server Versions are Not Compatible
-    href: client-and-server-versions-are-not-compatible.md
-  - name: Cached Mode is Required for this Mailbox
-    href: cached-mode-required-this-mailbox.md
-  - name: RPC over HTTP Connection is Not Allowed
-    href: rpc-over-http-connection-not-allowed.md
-  - name: MAPI Connections are Not Allowed
-    href: mapi-connections-are-not-allowed.md
-  - name: No MX Records were Found for the Specified SMTP Domain
-    href: no-mx-records-were-found-specified-smtp-domain.md
-  - name: Open Relay Detected
-    href: open-relay-detected.md
-  - name: An HTTP 403 was Received Because ISA Denied the Specified URL
-    href: an-http-403-received-because-is-denied-specified-url.md
-  - name: An HTTP 403.4 was Returned Because SSL was Required on the Virtual Directory
-    href: an-http-403-4-returned-because-ssl-required-virtual-directory.md
-  - name: An HTTP 500 was Returned to ISA Because the Certificate on the Published Server Doesn't Match the Name in the Publishing Rule
-    href: an-http-500-returned-is-because-certificate-published-server-doesn-t-match-name-publishing-rule.md
-  - name: Access is Denied Error was Thrown by the RPC Runtime
-    href: access-denied-error-thrown-rpc-runtime.md
-  - name: Exchange ActiveSync Returned an HTTP 500 Error
-    href: exchange-activesync-returned-http-500-error.md
-  - name: Exchange ActiveSync Returned an HTTP 451 Error
-    href: exchange-activesync-returned-http-451-error.md
-  - name: ActiveSync ExternalUrl is Not in the Expected Format
-    href: activesync-externalurl-not-expected-format.md
-  - name: Windows Mobile Root Certificates
-    href: windows-mobile-root-certificates.md
-  - name: Missing Intermediate Certificates in Chain
-    href: missing-intermediate-certificates-chain.md
-  - name: The Act As Account Does Not Have Permissions to Create Items in this Folder
-    href: act-as-account-does-not-have-permissions-create-items-this-folder.md
-  - name: The Act As Account May Not Have Permission to Delete Items in this Folder
-    href: act-as-account-may-not-have-permission-delete-items-this-folder.md
-  - name: The Act As Account May Not Have Permissions to Access this Folder
-    href: act-as-account-may-not-have-permissions-access-this-folder.md
-  - name: The Service Account Specified Does Not Have Impersonation Rights on Client Access Server
-    href: service-account-specified-does-not-have-impersonation-rights-client-access-server.md
-  - name: The Service Account Specified Does Not Have Impersonation Rights on the Act As Account Specified
-    href: service-account-specified-does-not-have-impersonation-rights-act-as-account-specified.md
-  - name: Invalid XML Response Unable to Retrieve Availability or OOF Settings
-    href: invalid-xml-response-unable-retrieve-availability-oof-settings.md
-  - name: IP Address does not have a PTR record in DNS
-    href: ip-address-does-not-have-ptr-record-dns.md
-  - name: IP Address Found on RBL
-    href: ip-address-found-rbl.md
-  - name: Name Space is not Federated
-    href: name-space-not-federated.md
-  - name: The domain is a federated domain but the user <User>@contoso.com is not known by Office 365
-    href: domain-federated-domain-but-user-user-contoso-com-not-known-office-365.md
-  - name: Active Directory Federated Services (AD FS) HTTPS endpoint name could not be resolved
-    href: active-directory-federated-services-ad-fs-https-endpoint-name-could-not-be-resolved.md
-  - name: Active Directory Federated Services (AD FS) server is down or unreachable
-    href: active-directory-federated-services-ad-fs-server-down-unreachable.md
-  - name: ADFS SSL Certificate Name Mismatch
-    href: adfs-ssl-certificate-name-mismatch.md
-  - name: ADFS SSL Certificate Trust
-    href: adfs-ssl-certificate-trust.md
-  - name: ADFS SSL Certificate Expired
-    href: adfs-ssl-certificate-expired.md
-  - name: Token Signing Certificate Expired
-    href: token-signing-certificate-expired.md
-  - name: ADFS token not accepted by Authentication Platform (for later version of RCA)
-    href: adfs-token-not-accepted-authentication-platform-later-version-rc.md
-  - name: Unknown Username or bad password
-    href: unknown-username-bad-password.md
-  - name: General issues that may occur for one or all users
-    href: general-issues-that-may-occur-one-all-users.md
-  - name: UPN issues when authenticating
-    href: upn-issues-when-authenticating.md
-  - name: You must uninstall all interim updates before you install Exchange Server 2010 Service Pack 2
-    href: must-uninstall-all-interim-updates-before-install-exchange-server-2010-service-pack-2.md
-  - name: Missing EXCH Element in Autodiscover XML Response
-    href: missing-exch-element-autodiscover-xml-response.md
-  - name: Mutual Authentication Established by Subject Alternative Name
-    href: mutual-authentication-established-subject-alternative-name.md
-  - name: Error with System Time
-    href: error-with-system-time.md
-  - name: Firewall Pre-Authentication Check
-    href: firewall-pre-authentication-check.md
-  - name: EWS Endpoint Directed to On-Premises Legacy Server
-    href: ews-endpoint-directed-premises-legacy-server.md
-  - name: 'Error when you run the Microsoft Remote Connectivity Analyzer tool to test connectivity to Office 365: "To authenticate to Office 365, you must enter your Microsoft account"'
-    href: error-when-run-exchange-remote-connectivity-analyzer-tool-test-connectivity-office-365-to-authenticate-office-365-must-enter-your-microsoft-account.md
-  - name: The user name provided could not be matched to a name in the email server's address list
-    href: user-name-provided-could-not-be-matched-name-email-server-address-list.md
-  - name: The email server is not available
-    href: email-server-not-available.md
-  - name: The ActiveSync OPTIONS command returned an HTTP 401 Error
-    href: activesync-options-command-returned-http-401-error.md
-  - name: Exchange ActiveSync Returned an HTTP 503 Error
-    href: exchange-activesync-returned-http-503-error.md
-  - name: Message Header Analyzer
-    href: message-header-analyzer.md
-  - name: SOA Record for the parent zone is returned when the child zone uses NS record delegation
-    href: mismatching-soa-and-ns-zone-names.md
+  - name: Common errors in MRCA Diagnostics
+    items:
+    - name: All Required Authentication Methods Could Not be Found
+      href: all-required-authentication-methods-could-not-be-found.md
+    - name: An HTTP 403 was Received Because ISA Denied the Specified URL
+      href: an-http-403-received-because-is-denied-specified-url.md
+    - name: An HTTP 403.4 was Returned Because SSL was Required on the Virtual Directory
+      href: an-http-403-4-returned-because-ssl-required-virtual-directory.md
+    - name: An HTTP 500 was Returned to ISA Because the Certificate on the Published Server Doesn't Match the Name in the Publishing Rule
+      href: an-http-500-returned-is-because-certificate-published-server-doesn-t-match-name-publishing-rule.md
+    - name: An Unexpected Redirect Response was Received
+      href: an-unexpected-redirect-response-received.md
+    - name: An Unsupported Authentication Method was Found
+      href: an-unsupported-authentication-method-found.md
+    - name: Anonymous Authentication Enabled for Virtual Directory
+      href: anonymous-authentication-enabled-virtual-directory.md
+    - name: The Host Name Could Not be Resolved in DNS
+      href: host-name-could-not-be-resolved-dns.md
+    - name: No Supported Authentication Methods Found in Response
+      href: no-supported-authentication-methods-found-response.md
+    - name: SSL Certificate Name Mismatch
+      href: ssl-certificate-name-mismatch.md
+    - name: SSL Certificate Trust Failure
+      href: ssl-certificate-trust-failure.md
+    - name: Unknown Username or bad password
+      href: unknown-username-bad-password.md
+    - name: A Network Error Occurred while Communicating with Remote Host
+      href: network-error-occurred-while-communicating-with-remote-host.md
