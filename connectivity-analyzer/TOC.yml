@@ -6,7 +6,6 @@
     - name: Could Not Find MS-Server-ActiveSync Header in OPTIONS Response
       href: could-not-find-ms-server-activesync-header-options-response.md
   - name: Exchange Server
-    href: Exchange Server/
     items:
     - name: RPC Server Unavailable Error was Thrown by the RPC Runtime
       href: rpc-server-unavailable-error-thrown-rpc-runtime.md
