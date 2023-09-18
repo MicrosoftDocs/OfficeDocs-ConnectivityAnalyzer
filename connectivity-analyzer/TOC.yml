@@ -102,6 +102,7 @@
   - name: Skype for Business Server
     items:
     - name: Self-help Diagnostics for Skype for Business Server
+      href: skype-for-business/self-help-diagnostics-for-skype-for-business.md
   - name: Common errors in MRCA Diagnostics
     items:
     - name: All Required Authentication Methods Could Not be Found
