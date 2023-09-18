@@ -2,6 +2,14 @@
 
 
 
+## Week of September 11, 2023
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 9/12/2023 | [Self-help diagnostics for Microsoft Teams administrators and end users](/connectivity-analyzer/microsoft-teams/self-help-diagnostics-for-microsoft-teams) | added |
+
+
 ## Week of September 04, 2023
 
 
