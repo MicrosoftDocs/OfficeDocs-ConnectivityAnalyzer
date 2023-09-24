@@ -2,6 +2,14 @@
 
 
 
+## Week of September 18, 2023
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 9/18/2023 | [Self-help diagnostics for Skype for Business Server administrators and end users](/connectivity-analyzer/skype-for-business/self-help-diagnostics-for-skype-for-business) | added |
+
+
 ## Week of September 11, 2023
 
 
