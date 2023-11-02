@@ -33,4 +33,5 @@ The following diagnostics are currently available with brief scenario descriptio
 | [Teams PSTN Calling Dial Pad](https://testconnectivity.microsoft.com/tests/TeamsDialpadMissing/input)	| This test verifies that your account meets the requirements to display a dial pad in the Teams desktop client and can make and receive Public Switch Telephone Network (PSTN) calls. |
 | [Teams Meeting Delegation](https://testconnectivity.microsoft.com/tests/TeamsMeetingDelegation/input)	| This test verifies that your account meets the requirements to schedule a Teams Meeting on behalf of a delegator. |
 | [Teams Voicemail](https://testconnectivity.microsoft.com/tests/TeamsVoicemail/input)	| This test verifies that your account meets the requirements to access your voicemail and that the Teams client can retrieve and display voicemail messages. |
-
+| [Teams Android Desk Phone Sign in](https://testconnectivity.microsoft.com/tests/TeamsAndroidDeskPhone/input) | This test verifies that your account meets the requirements for a Microsoft Teams user to be able to sign into a Teams Android Desk Phone. |
+| [Teams Federation and Interoperability](https://testconnectivity.microsoft.com/tests/TeamsFederation/input) | This test verifies that a Teams account within your organization meets the requirements for searching and engaging in a chat with an external account. |
