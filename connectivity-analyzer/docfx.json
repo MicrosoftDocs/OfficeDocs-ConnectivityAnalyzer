@@ -51,17 +51,16 @@
       "titleSuffix": "Connectivity Analyzer",
       "uhfHeaderId": "MSDocsHeader-M365-IT",
       "contributors_to_exclude": [ 
-        "rjagiewich", 
-        "traya1", 
-        "rmca14", 
+        "rjagiewich",  
+        "American-Dipper",
         "claydetels19", 
         "jborsecnik",
-        "tiburd",
+        "v-stchambers",
+        "shdyas",
+        "Stacyrch140",
         "garycentric",
-        "v-dihans",
-        "AngelaMotherofDragons",
-        "dstrome",
-        "beccarobins"
+        "beccarobins",
+        "dstrome"
       ]
     },
     "fileMetadata": {},
