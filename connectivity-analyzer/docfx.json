@@ -45,12 +45,12 @@
       "breadcrumb_path": "/connectivity-analyzer/breadcrumb/toc.json",
       "extendBreadcrumb": "true",
       "feedback_system": "Standard",
-      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-ConnectivityAnalyzer",
-      "searchScope": ["Connectivity Analyzer"],
+            "searchScope": ["Connectivity Analyzer"],
       "recommendations": true,
       "titleSuffix": "Connectivity Analyzer",
       "uhfHeaderId": "MSDocsHeader-M365-IT",
       "contributors_to_exclude": [ 
+        "dstrome2",
         "rjagiewich",  
         "American-Dipper",
         "claydetels19", 
@@ -60,7 +60,8 @@
         "Stacyrch140",
         "garycentric",
         "beccarobins",
-        "dstrome"
+        "dstrome",
+        "beccarobins"
       ]
     },
     "fileMetadata": {},
